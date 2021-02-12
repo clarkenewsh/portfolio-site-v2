@@ -5,22 +5,18 @@
       Home
     </NuxtLink>
     <NuxtLink to="/about">
-      About Us
+      About Me
     </NuxtLink>
-    <NuxtLink to="/about/team">
-      Meet the Team
+    <NuxtLink to="/projects">
+      My Projects
     </NuxtLink>
-    <NuxtLink to="/services">
-      Services &amp; cost
-    </NuxtLink>
-    <NuxtLink to="/gallery">
-      Gallery
+    <NuxtLink to="/blog">
+      Blog
     </NuxtLink>
     <NuxtLink to="/contact">
       Contact
     </NuxtLink>
-    <ContactCTA />
-    <Slogan />
+    <!-- <ContactCTA /> -->
   </nav>
 </template>
 
