@@ -1,20 +1,31 @@
 <template>
   <div>
-    <Nuxt />
+    <header>
+      <NavBar />
+    </header>
+    <main class="grid">
+      <Nuxt />
+    </main>
+    <TheFooter />
   </div>
 </template>
 
+<script>
+import NavBar from '~/components/NavBar.vue'
+// import TheFooter from '~/components/TheFooter.vue'
+
+export default {
+  components: {
+    NavBar
+    // TheFooter
+  }
+}
+</script>
+
 <style>
 html {
-  font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -22,41 +33,48 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  color: #2E495E;
 }
 
 *,
-*::before,
-*::after {
+*:before,
+*:after {
   box-sizing: border-box;
   margin: 0;
 }
-
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
+/* Mobile first css grid styles */
+.grid {
+  display: grid;
+  grid-template-columns: 1% 1fr 1%;
+  grid-column-gap: 1rem;
+  grid-row-gap: 3rem;
 }
 
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
+main {
+  /* min-height: 100vh; */
+  grid-column: 2;
+  padding: 60px 0px;
 }
 
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
+header, main, footer {
+  grid-column: 2;
 }
 
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
+@media only screen and (min-width: 768px) {
+  .grid {
+    grid-template-columns: 3% 1fr 3%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+    .grid {
+      grid-template-columns: 6% 1fr 6%;
+  }
+ }
+
+@media only screen and (min-width: 1400px) {
+      .grid {
+      grid-template-columns: 15% 1fr 15%;
+  }
 }
 </style>
