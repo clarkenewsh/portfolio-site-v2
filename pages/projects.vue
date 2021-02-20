@@ -1,6 +1,9 @@
 <template>
   <section>
     <h1>Projects</h1>
+    <h2>My Workflow</h2>
+    timeline of workflow here
+    <ProjectList />
     Project card and project list componets impo
   </section>
 </template>
