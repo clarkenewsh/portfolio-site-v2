@@ -16,7 +16,7 @@
     <NuxtLink to="/contact">
       Contact
     </NuxtLink>
-    <!-- <ContactCTA /> -->
+    <GithubCTA />
   </nav>
 </template>
 

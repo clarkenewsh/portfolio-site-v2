@@ -1,7 +1,7 @@
 <template>
-    <figure>
-        Project Card
-    </figure>
+  <figure>
+    Project Card
+  </figure>
 </template>
 
 <script>
@@ -11,7 +11,7 @@ export default {
     return {
     }
   },
-   methods: {
+  methods: {
     function () {
     }
   }

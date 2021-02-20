@@ -25,6 +25,13 @@ export default {
           detail: 'A water refill point locator for University campus in a affect to reduce single use plastics',
           link: 'https://github.com/clarkenewsh/Uni-Tap',
           thumbnail: ''
+        },
+        {
+          id: 2,
+          title: 'Space X API Client',
+          detail: 'A API Client to visualise cool SpaceX Data',
+          link: 'https://github.com/clarkenewsh/Uni-Tap',
+          thumbnail: ''
         }
 
       ]
