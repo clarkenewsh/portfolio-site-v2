@@ -29,7 +29,6 @@ export default {
 <style scoped>
 nav {
   display: flex;
-  background-color: #f2f2f2;
   justify-content:flex-start;
   align-items: center;
   flex-wrap: wrap;
