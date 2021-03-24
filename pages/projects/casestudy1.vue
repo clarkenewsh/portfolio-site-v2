@@ -1,6 +1,10 @@
 <template>
   <section>
-    <h1>Get in touch</h1>
+    <h1>Case study title</h1>
+    <h2>The problem</h2>
+    <h2>The process / workflow</h2>
+    timeline of workflow here seperating my dev workflow and my software tester workflow
+    <h2>The solution</h2>
   </section>
 </template>
 
@@ -8,12 +12,16 @@
 export default {
   data () {
     return {
-      title: 'Contact'
+      title: 'case study 1'
     }
   },
   head () {
     return {
       title: this.title
+    }
+  },
+  methods: {
+    function () {
     }
   }
 }
@@ -22,6 +30,7 @@ export default {
 <style scoped>
 section {
   grid-column: 2;
+
 }
 
 @media only screen and (min-width: 1024px) {
