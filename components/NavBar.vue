@@ -5,18 +5,16 @@
       Home
     </NuxtLink>
     <NuxtLink to="/about">
-      About Me
+      About me
     </NuxtLink>
     <NuxtLink to="/projects">
-      My Projects
+      Portfolio
     </NuxtLink>
     <NuxtLink to="/blog">
       Blog
     </NuxtLink>
-    <NuxtLink to="/contact">
-      Contact
-    </NuxtLink>
     <GithubCTA />
+    <ContactCTA />
   </nav>
 </template>
 

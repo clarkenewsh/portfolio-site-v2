@@ -1,6 +1,6 @@
 <template>
-  <figure>
-    Project Card
+  <figure class="card">
+    <ProjectList />
   </figure>
 </template>
 
@@ -20,4 +20,7 @@ export default {
 
 <style scoped>
 
+.card {
+  background-color: #1f2937;
+}
 </style>

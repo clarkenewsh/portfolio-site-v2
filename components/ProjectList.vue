@@ -4,7 +4,7 @@
       v-for="project in projects"
       :key="project.id"
       :title="project.title"
-      class="feature-card"
+      class=""
     >
       <h3>{{ project.title }}</h3>
       <p>{{ project.detail }}</p>

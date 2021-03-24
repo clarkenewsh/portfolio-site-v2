@@ -21,22 +21,20 @@ export default {
 <style scoped>
 
 button {
-background: black;
-color: white;
-padding: 10px;
-border: 2px solid black;
-border-radius: 50px;
+padding: 10px 15px;
+border-radius: 5px;
 font-weight: 700;
-font-size: 70%;
+margin: 10px;
+background: #ccd8d9;
+border: none;
 }
 
-/* a {
-    color: white;
-} */
+button a {
+  color: #000;
+}
 
 button:hover,
 button:active {
-background: white;
-color: black;
+
 }
 </style>
