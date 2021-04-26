@@ -12,7 +12,7 @@
     >
       <span class="navbar-toggler-icon" />
     </button>
-    <div id="navbarNavAltMarkup" class="collapse navbar-collapse">
+    <div id="navbarNavAltMarkup" class="flex-end collapse navbar-collapse">
       <div class="navbar-nav">
         <NuxtLink to="/about">
           About
@@ -41,8 +41,12 @@ nav {
   padding: 20px 0;
 }
 
+.navbar-expand-lg .navbar-collapse {
+  justify-content: flex-end !important;
+  align-items: center;
+}
+
 nav a  {
-  padding-right: 25px;
   color: #000;
 }
 </style>

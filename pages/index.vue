@@ -119,7 +119,7 @@ button:hover {
   font-size: 120%;
 }
 
-img:first-of-type{
+img:first-of-type {
   grid-column: 2/-1;
   height: auto;
   justify-self: end;
@@ -153,8 +153,8 @@ img:first-of-type{
 }
 
 .split-block {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 .split-block p {
@@ -299,12 +299,18 @@ img:first-of-type{
   margin: 0;
 }
 
+/* MEDIA QUIRIES */
 @media only screen and (min-width: 1024px) {
-    section {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 20px;
-    }
+  section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+  }
+
+  .split-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
  }
 
 </style>
