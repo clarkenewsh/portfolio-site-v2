@@ -12,7 +12,7 @@
     >
       <span class="navbar-toggler-icon" />
     </button>
-    <div id="navbarNavAltMarkup" class="collapse navbar-collapse flex-end">
+    <div id="navbarNavAltMarkup" class="collapse navbar-collapse">
       <div class="navbar-nav">
         <NuxtLink to="/about">
           About me

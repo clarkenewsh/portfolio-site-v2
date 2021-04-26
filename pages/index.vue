@@ -9,8 +9,7 @@
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, aspiring Web Developer and Software Tester from the North West, UK. I'm super passionate about tech and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years.</p>
-        <p> I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies. Please view my resume and check out my projects below! </p>
+        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
       </div>
     </div>
     <div id="workflow">
@@ -235,6 +234,7 @@ img:first-of-type{
   border-radius: 0.375rem;
   border: none;
   max-width: 100%;
+  background : linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6));
 }
 
 .highlight {
