@@ -1,8 +1,10 @@
 <template>
   <section>
     <div id="headline">
-      <h1>Hello, Im Clarke</h1>
-      <p>I am a final year <span class="highlight">BSc Web Design</span> and <span class="highlight">Development Undergraduate</span>. Passionate about solving real-world problems through the realm of <span class="highlight">UX Design</span> and <span class="highlight">Web Development</span></p>
+      <h1>
+        Hello, Im Clarke
+      </h1>
+      <p>I am a final year BSc Web Design and Development Undergraduate. Passionate about solving real-world problems through the realm of UX Design and Web Development </p>
     </div>
     <img src="~/assets/download.png">
     <div id="about-me">
@@ -20,19 +22,19 @@
       <div>
         <ul>
           <li>
-            <h4>Reserach and dicovery</h4>
+            <h3>Reserach &#x26; Dicovery</h3>
           </li>
           <li class="highlight">
-            <h4>Design</h4>
+            <h3>Design</h3>
           </li>
-          <li><h4>Develop</h4></li>
-          <li><h4>Testing</h4></li>
-          <li><h4>Deploy and Monitor</h4></li>
+          <li><h3>Develop</h3></li>
+          <li><h3>Testing</h3></li>
+          <li><h3>Deploy &#x26; Monitor</h3></li>
         </ul>
       </div>
     </div>
     <div id="my-work">
-      <h2>Projects &#10650;</h2>
+      <h2>Projects</h2>
       <div>
         <figure>
           <h3>Project Title</h3>
@@ -57,7 +59,7 @@
       </div>
 
       <NuxtLink to="/projects">
-        <button>More of my work</button>
+        <button>View projects</button>
       </NuxtLink>
     </div>
     <div id="hobbies">
@@ -97,7 +99,7 @@ button {
   border-radius: 0.375rem;
   font-weight: 500;
   margin: 10px;
-  background: #1D5270;
+  background: #75928e;
   border: none;
   color: #fff;
   transition: all 0.2s ease;
@@ -115,14 +117,21 @@ button:hover {
   grid-column: 1/2;
 }
 
+#headline h1 {
+  color: #75928e;
+  font-weight: 500;
+}
+
 #headline p {
-  font-size: 120%;
+  font-size: 110%;
+  align-self: center;
+  color: #75928e;
 }
 
 img:first-of-type {
   grid-column: 2/-1;
   height: auto;
-  justify-self: end;
+  align-self: center;
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
   border-top-right-radius: 120px;
@@ -135,6 +144,8 @@ img:first-of-type {
 .highlight {
   font-weight: bold;
   font-size: inherit;
+  border-bottom: 5px solid #A9B6CC;
+  color: #1D5270;
 }
 
 #about-me {
@@ -245,7 +256,6 @@ img:first-of-type {
 }
 
 #my-work button {
-  float: right;
 }
 #hobbies {
   grid-column: 1/-1;
@@ -310,6 +320,14 @@ img:first-of-type {
   .split-block {
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+
+  #about-me,
+  #workflow,
+  #my-work,
+  #hobbies,
+  #contact-cta {
+    margin: 70px 0px;
   }
  }
 

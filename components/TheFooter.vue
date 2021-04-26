@@ -116,7 +116,7 @@ export default {
     footer {
       display: grid;
       grid-gap: 20px;
-      grid-template-columns: 40% 60% 1fr;
+      grid-template-columns: 60% 40% 1fr;
     }
 
     .copyright {
