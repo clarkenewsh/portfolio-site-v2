@@ -70,7 +70,6 @@
       <p>Tell me about your project and we can provide the solution</p>
       <ContactCTA />
     </div>
-    </div>
   </section>
 </template>
 
