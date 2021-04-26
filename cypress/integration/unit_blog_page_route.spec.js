@@ -15,12 +15,12 @@ describe('The Blog Page', () => {
 
     // Should be on a new URL which includes '/'
     // eslint-disable-next-line no-undef
-    cy.url().should('include', '/about/team')
+    cy.url().should('include', '/blog')
 
     // Page title should be Services Page
     cy.get('title')
       // eslint-disable-next-line padded-blocks
-      .should('have.text', 'Meet the Team')
+      .should('have.text', 'Blog')
 
     // Save screenshot of test result to screenshots folder
     cy.screenshot()
