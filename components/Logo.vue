@@ -1,6 +1,7 @@
 <template>
   <NuxtLink to="/">
-    CLARKE NEWSHAM.
+    <span>CLARKE</span>
+    NEWSHAM
   </NuxtLink>
 </template>
 
@@ -10,6 +11,13 @@
     font-weight: 700;
     font-size: 130%;
     margin-right: auto;
+    color: #3189BD;
+    text-decoration: none;
+  }
+
+  span {
+    font-weight: 400;
+    font-size: inherit;
   }
 
   @keyframes appear {

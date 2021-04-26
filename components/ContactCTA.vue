@@ -1,6 +1,6 @@
 <template>
   <button>
-    <a href="mailto:clarke.newsham92@gmail.com">Contact me</a>
+    <a href="mailto:clarke.newsham92@gmail.com">Get in touch</a>
   </button>
 </template>
 
@@ -21,19 +21,22 @@ export default {
 <style scoped>
 
 button {
-    padding: 10px 15px;
-    border-radius: 5px;
-    font-weight: 700;
-    margin: 10px;
-    background: #ccd8d9;
-    border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: 700;
+  margin: 10px;
+  background: #1D5270;
+  border: none;
+  transition: all 0.2s ease;
 }
 
 button a {
-    color: #000;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
 }
 
-/* button:hover,
-button:active {
-} */
+button:hover {
+  transform: translateY(4px);
+}
 </style>
