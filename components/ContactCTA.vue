@@ -22,7 +22,7 @@ export default {
 
 button {
   padding: 10px 15px;
-  border-radius: 5px;
+  border-radius: 0.375rem;
   font-weight: 700;
   margin: 10px;
   background: #1D5270;
