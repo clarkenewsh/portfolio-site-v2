@@ -45,7 +45,7 @@ html {
 }
 
 body {
-  color: #000;
+  color: #444;
 }
 
 /* Mobile first css grid styles */

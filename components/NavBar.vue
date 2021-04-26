@@ -45,8 +45,17 @@ nav {
   justify-content: flex-end !important;
   align-items: center;
 }
-
+nav a:nth-of-type(0){
+  padding:0;
+}
 nav a  {
   color: #000;
+  align-self: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #75928e;
 }
 </style>

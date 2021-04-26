@@ -10,6 +10,7 @@
     font-weight: 700;
     margin-right: auto;
     text-decoration: none;
+    font-size: 120%;
   }
 
   span {

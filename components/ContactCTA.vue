@@ -25,7 +25,7 @@ button {
   border-radius: 0.375rem;
   font-weight: 700;
   margin: 10px;
-  background: #75928e;;
+  background: #75928e;
   border: none;
   transition: all 0.2s ease;
 }

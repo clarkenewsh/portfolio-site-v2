@@ -11,25 +11,35 @@
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, aspiring Web Developer and Software Tester from the North West, UK. I'm super passionate about tech and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
+        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years.</p>
+        <p> I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
       </div>
     </div>
     <div id="workflow">
       <div>
-        <h2>My Worflow and how I work</h2>
+        <h2>Design and Development Skills</h2>
         <p>My workflow is much more than just the development. Identifying your goals, understanding your user base to create the best product to solve their goals is how I like to do things.</p>
       </div>
       <div>
         <ul>
           <li>
-            <h3>Reserach &#x26; Dicovery</h3>
+            <h3>
+              User Research
+            </h3>
           </li>
-          <li class="highlight">
-            <h3>Design</h3>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi mollitia molestias omnis? Inventore praesentium quia doloremque soluta debitis veritatis sint, maiores accusamus explicabo, quae quod, molestias enim esse amet dolor?</p>
+          <li>
+            <h3>UX Design</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam cumque, dicta cupiditate debitis ad iure corrupti minus earum, harum culpa iste dolorem, itaque doloremque voluptates officiis aspernatur assumenda quae placeat!</p>
           </li>
-          <li><h3>Develop</h3></li>
-          <li><h3>Testing</h3></li>
-          <li><h3>Deploy &#x26; Monitor</h3></li>
+          <li>
+            <h3>Development</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, facilis veritatis totam voluptas voluptatum, harum eos pariatur impedit rem maxime repellendus exercitationem ipsum ipsa itaque dignissimos, obcaecati non. Autem, saepe.</p>
+          </li>
+          <li>
+            <h3>Testing &#x26; Analytics</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam cumque excepturi veritatis illum similique modi totam molestias recusandae, aut ratione necessitatibus natus, facere dolorum corrupti. Quibusdam dolor voluptatem similique molestias!</p>
+          </li>
         </ul>
       </div>
     </div>
@@ -181,7 +191,7 @@ img:first-of-type {
 
 #workflow {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-column: 1/-1;
   list-style: none;
 }
@@ -199,7 +209,7 @@ img:first-of-type {
 #workflow div:first-of-type {
   grid-column: 1;
   border-right: 1px solid rgba(150, 150, 150, 0.5);
-  padding: 15px;
+  padding-right: 15px;
 }
 
 #workflow div:nth-of-type(2){
@@ -255,8 +265,8 @@ img:first-of-type {
   height: auto;
 }
 
-#my-work button {
-}
+/* #my-work button {
+} */
 #hobbies {
   grid-column: 1/-1;
   background: #f2f2f2;
@@ -327,8 +337,11 @@ img:first-of-type {
   #my-work,
   #hobbies,
   #contact-cta {
-    margin: 70px 0px;
+    margin: 60px 0px;
   }
- }
 
+  #workflow {
+  grid-template-columns: 1fr 2fr;
+ }
+}
 </style>
