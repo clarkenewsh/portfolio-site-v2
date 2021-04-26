@@ -1,7 +1,6 @@
 <template>
   <NuxtLink to="/">
-    <span>CLARKE</span>
-    NEWSHAM
+    <span>CLARKE</span> NEWSHAM
   </NuxtLink>
 </template>
 
@@ -10,7 +9,6 @@
     animation: 1s appear;
     font-weight: 700;
     margin-right: auto;
-    color: #3189BD;
     text-decoration: none;
   }
 
