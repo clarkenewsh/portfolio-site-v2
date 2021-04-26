@@ -73,11 +73,16 @@ h1 {
   font-weight: 700;
 }
 
-h2, h3, h4 {
+h2 {
+  font-family: 'Playfair Display', serif;
+  color: #000;
+  font-weight: 700;
+}
+
+ h3, h4 {
   font-family: 'Playfair Display', serif;
   color: #000;
   padding: 15px 0px;
-  font-family: 'Playfair Display', serif;
   font-weight: 500;
 }
 
@@ -97,7 +102,6 @@ h2, h3, h4 {
 
   h2 {
   font-size: 180%;
-  font-weight: 700;
   }
 }
 

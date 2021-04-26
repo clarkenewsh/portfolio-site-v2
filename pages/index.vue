@@ -14,21 +14,20 @@
     </div>
     <div id="workflow">
       <div>
-        <h2>My Worflow</h2>
+        <h2>My Worflow and how I work</h2>
         <p>My procoess and worflow is much more than just the code. Identifying your goals, understanding your user base and creating the best product that serves them best is what I am all about.</p>
       </div>
       <div>
-        <h3>How I work</h3>
         <ul>
           <li>
-            Reserach and dicovery
+            <h4>Reserach and dicovery</h4>
           </li>
           <li class="highlight">
-            Design
+            <h4>Design</h4>
           </li>
-          <li>Develop</li>
-          <li>Testing</li>
-          <li>Deploy and monitor</li>
+          <li><h4>Develop</h4></li>
+          <li><h4>Testing</h4></li>
+          <li><h4>Deploy and Monitor</h4></li>
         </ul>
       </div>
     </div>
@@ -137,7 +136,7 @@ img:first-of-type{
 
 #about-me {
   grid-column: 1/-1;
-  margin: 100px 0px;
+  margin: 50px 0px;
 }
 
 #about-me ul {
@@ -169,34 +168,33 @@ img:first-of-type{
 #workflow {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
   grid-column: 1/-1;
   list-style: none;
 }
 
 #workflow ul {
   list-style: none;
-  padding: 20px;
+  padding: 0;
 }
 
 #workflow h2:nth-of-type(1) {
   border-bottom: 1px solid rgba(150, 150, 150, 0.5);
-  padding: 20px;
+  padding-bottom: 15px;
 }
 
 #workflow div:first-of-type {
   grid-column: 1;
   border-right: 1px solid rgba(150, 150, 150, 0.5);
-  padding: 20px;
+  padding: 15px;
 }
 
 #workflow div:nth-of-type(2){
   grid-column: 2;
-  padding: 20px;
+  padding: 15px;
 }
 
 #my-work {
-  margin: 100px 0px;
+  margin: 50px 0px;
   grid-column: 1/-1;
 }
 
@@ -237,14 +235,14 @@ img:first-of-type{
 #my-work figure {
   border-radius: 0.375rem;
   border: none;
-  margin: 20px;
+  margin: 10px;
   padding: 10px 25px;
   flex: 25;
-  height: 300px;
+  height: auto;
 }
 
 #my-work button {
-  justify-items: right;
+  float: right;
 }
 #hobbies {
   grid-column: 1/-1;
@@ -287,12 +285,14 @@ img:first-of-type{
   background-color: #2d3748;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 800 800'%3E%3Cg fill='none' stroke='%23484846' stroke-width='1'%3E%3Cpath d='M769 229L1037 260.9M927 880L731 737 520 660 309 538 40 599 295 764 126.5 879.5 40 599-197 493 102 382-31 229 126.5 79.5-69-63'/%3E%3Cpath d='M-31 229L237 261 390 382 603 493 308.5 537.5 101.5 381.5M370 905L295 764'/%3E%3Cpath d='M520 660L578 842 731 737 840 599 603 493 520 660 295 764 309 538 390 382 539 269 769 229 577.5 41.5 370 105 295 -36 126.5 79.5 237 261 102 382 40 599 -69 737 127 880'/%3E%3Cpath d='M520-140L578.5 42.5 731-63M603 493L539 269 237 261 370 105M902 382L539 269M390 382L102 382'/%3E%3Cpath d='M-222 42L126.5 79.5 370 105 539 269 577.5 41.5 927 80 769 229 902 382 603 493 731 737M295-36L577.5 41.5M578 842L295 764M40-201L127 80M102 382L-261 269'/%3E%3C/g%3E%3Cg fill='%23484846'%3E%3Ccircle cx='769' cy='229' r='5'/%3E%3Ccircle cx='539' cy='269' r='5'/%3E%3Ccircle cx='603' cy='493' r='5'/%3E%3Ccircle cx='731' cy='737' r='5'/%3E%3Ccircle cx='520' cy='660' r='5'/%3E%3Ccircle cx='309' cy='538' r='5'/%3E%3Ccircle cx='295' cy='764' r='5'/%3E%3Ccircle cx='40' cy='599' r='5'/%3E%3Ccircle cx='102' cy='382' r='5'/%3E%3Ccircle cx='127' cy='80' r='5'/%3E%3Ccircle cx='370' cy='105' r='5'/%3E%3Ccircle cx='578' cy='42' r='5'/%3E%3Ccircle cx='237' cy='261' r='5'/%3E%3Ccircle cx='390' cy='382' r='5'/%3E%3C/g%3E%3C/svg%3E");
   border-radius: 0.375rem;
-  padding: 50px;
+  padding: 40px;
   color: #fff;
   display: flex;
-  font-weight: 500;
+  flex-wrap: wrap;
+  font-weight: 700;
   justify-content: center;
   align-items: center;
+  text-align: center;
   margin: 0;
 }
 

@@ -36,13 +36,14 @@ section {
   grid-column: 2;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-gap: 30px;
+  grid-gap: 15px;
 
 }
 
 section div:first-of-type {
   border-right: 1px solid rgba(150, 150, 150, 0.5);
   grid-column: 1;
+  padding: 15px;
 }
 
 section div h1 {
