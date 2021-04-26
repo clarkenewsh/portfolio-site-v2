@@ -158,7 +158,7 @@ img:first-of-type{
 }
 
 .split-block p {
-  padding: 15px;
+  padding-top: 15px;
 }
 
 .split-block p:first-of-type {
@@ -251,8 +251,8 @@ img:first-of-type{
   grid-column: 1/-1;
   background: #f2f2f2;
   min-height: 300px;
-  margin: 100px 0px;
-  padding: 50px;
+  margin: 50px 0px;
+  padding: 30px;
   border-radius: 0.375rem;
   text-align: center;
 }
