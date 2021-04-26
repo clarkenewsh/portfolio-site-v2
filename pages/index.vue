@@ -123,7 +123,10 @@ img:first-of-type{
   grid-column: 2/-1;
   height: auto;
   justify-self: end;
-  border-radius: 0.375rem;
+  border-top-left-radius: 120px;
+  border-bottom-right-radius: 120px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
   border: none;
   max-width: 100%;
   background : linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6));
