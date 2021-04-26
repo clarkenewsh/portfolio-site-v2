@@ -51,13 +51,12 @@ body {
 /* Mobile first css grid styles */
 .grid {
   display: grid;
-  grid-template-columns: 5% 1fr 5%;
+  grid-template-columns: 3% 1fr 3%;
   grid-row-gap: 3rem;
   margin: 0 auto;
 }
 
 main {
-  min-height: 100vh;
   grid-column: 2;
 }
 
