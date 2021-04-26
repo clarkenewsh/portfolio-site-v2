@@ -9,7 +9,6 @@
   a {
     animation: 1s appear;
     font-weight: 700;
-    font-size: 130%;
     margin-right: auto;
     color: #3189BD;
     text-decoration: none;

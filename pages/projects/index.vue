@@ -15,7 +15,6 @@
     <NuxtLink to="/projects/casestudy1">
       View case study
     </NuxtLink>
-    </div>
   </section>
 </template>
 
