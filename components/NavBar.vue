@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="#"><Logo id="logo" /></a>
+    <Logo id="logo" />
     <button
       class="navbar-toggler"
       type="button"
