@@ -15,7 +15,7 @@
     <div id="workflow">
       <div>
         <h2>My Worflow and how I work</h2>
-        <p>My procoess and worflow is much more than just the code. Identifying your goals, understanding your user base and creating the best product that serves them best is what I am all about.</p>
+        <p>My workflow is much more than just the development. Identifying your goals, understanding your user base to create the best product to solve their goals is how I like to do things.</p>
       </div>
       <div>
         <ul>
