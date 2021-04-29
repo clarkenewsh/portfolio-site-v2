@@ -1,9 +1,10 @@
 <template>
   <section>
     <h1>Projects</h1>
-     <div id="workflow">
+    <p>A repository of some of my recent project work with links to the live site and GitHub repo. Also check out my development workflow below.</p>
+    <div id="workflow">
       <div>
-        <h2>How I Work</h2>
+        <h2>My Development Workflow</h2>
         <p>My workflow is much more than just the development. Identifying your goals, understanding your user base to create the best product to solve their goals is how I like to do things.</p>
       </div>
       <div>

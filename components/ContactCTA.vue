@@ -1,6 +1,6 @@
 <template>
   <button>
-    <a href="mailto:clarke.newsham92@gmail.com">Get in touch</a>
+    <a href="mailto:clarke.newsham92@gmail.com">Contact me</a>
   </button>
 </template>
 
@@ -25,14 +25,14 @@ button {
   border-radius: 0.375rem;
   font-weight: 700;
   margin: 10px;
-  background: #75928e;
+  background: #ccd8d9;
   border: none;
   transition: all 0.2s ease;
 }
 
 button a {
-  color: #fff;
-  font-weight: 500;
+  color: #000;
+  font-weight: 700;
   text-decoration: none;
 }
 
