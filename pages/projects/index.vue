@@ -32,6 +32,7 @@
         </ul>
       </div>
     </div>
+    <h2>Case Studies</h2>
     <figure
       v-for="project in projects"
       :key="project.id"

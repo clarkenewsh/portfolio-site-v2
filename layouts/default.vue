@@ -97,7 +97,7 @@ h2 {
   }
 
   h1 {
-    font-size: 270%;
+    font-size: 280%;
   }
 
   h2 {
@@ -123,7 +123,7 @@ h2 {
 
 @media only screen and (min-width: 1400px) {
   .grid {
-    grid-template-columns: 12% 1fr 12%;
+    grid-template-columns: 10% 1fr 10%;
     grid-gap: 30px;
     margin: 0;
   }
