@@ -90,8 +90,7 @@ p {
 } */
 
 @media only screen and (min-width: 768px) {
-  * {
-    font-size: 20px;
+  html {
     margin: 0;
   }
   .grid {
@@ -104,19 +103,19 @@ p {
   }
 
   h2 {
-  font-size: 190%;
+  font-size: 230%;
   }
 }
 
 @media only screen and (min-width: 1024px) {
-  * {
-    font-size: 22px;
+  html {
+    font-size: 140%;
   }
   .grid {
     grid-template-columns: 5% 1fr 5%;
   }
   h2 {
-    font-size: 220%;
+    font-size: 250%;
   }
 
   main{
