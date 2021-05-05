@@ -69,22 +69,25 @@ put all heading variations and heading scaling here  */
 h1 {
   color: #000;
   padding: 15px 0px;
-  /* font-family: 'Playfair Display', serif; */
   font-weight: 700;
 }
 
 h2 {
-  /* font-family: 'Playfair Display', serif; */
   color: #000;
   font-weight: 700;
 }
 
  h3, h4 {
-  /* font-family: 'Playfair Display', serif; */
   color: #000;
   padding: 15px 0px;
   font-weight: 500;
 }
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap');
+
+p {
+  font-family: 'Roboto Mono', monospace;
+} */
 
 @media only screen and (min-width: 768px) {
   * {
@@ -92,16 +95,16 @@ h2 {
     margin: 0;
   }
   .grid {
-    grid-template-columns: 5% 1fr 5%;
+    grid-template-columns: 3% 1fr 3%;
     grid-gap: 20px;
   }
 
   h1 {
-    font-size: 280%;
+    font-size: 290%;
   }
 
   h2 {
-  font-size: 180%;
+  font-size: 190%;
   }
 }
 
@@ -110,10 +113,10 @@ h2 {
     font-size: 22px;
   }
   .grid {
-    grid-template-columns: 7% 1fr 7%;
+    grid-template-columns: 5% 1fr 5%;
   }
   h2 {
-    font-size: 200%;
+    font-size: 220%;
   }
 
   main{
@@ -123,7 +126,7 @@ h2 {
 
 @media only screen and (min-width: 1400px) {
   .grid {
-    grid-template-columns: 10% 1fr 10%;
+    grid-template-columns: 7% 1fr 7%;
     grid-gap: 30px;
     margin: 0;
   }
