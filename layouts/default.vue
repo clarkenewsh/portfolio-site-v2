@@ -120,14 +120,14 @@ p {
   }
 
   main{
-    padding: 60px 0px;
+    padding: 40px 0px;
   }
  }
 
 @media only screen and (min-width: 1400px) {
   .grid {
     grid-template-columns: 7% 1fr 7%;
-    grid-gap: 30px;
+    grid-gap: 20px;
     margin: 0;
   }
 }

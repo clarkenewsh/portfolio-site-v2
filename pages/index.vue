@@ -634,8 +634,7 @@ button:hover {
 }
 
 #workflow {
-  /* display: grid;
-  grid-template-columns: 1fr; */
+  border-bottom: 5px solid #ececec;
   grid-column: 1/-1;
   list-style: none;
 }
@@ -736,7 +735,7 @@ img.workflow-icons {
 
 #hobbies {
   grid-column: 1/-1;
-  background: #f2f2f2;
+  background: #F0F0EB;
   min-height: 300px;
   margin: 50px 0px;
   padding: 30px;
@@ -805,13 +804,16 @@ img.workflow-icons {
   }
 
   .split-block p {
-    width: 80%;
-  }
-  /* .split-block p:nth-of-type(1) {
+    width: 85%;
+    padding: 30px 0px;
   }
 
- .split-block p:nth-of-type(2) {
-  } */
+  .split-block p:nth-of-type(1) {
+  }
+
+  .split-block p:nth-of-type(2) {
+    margin-left: 100px;
+  }
 
   #about-me,
   #workflow,
