@@ -30,7 +30,7 @@
               xmlns="http://www.w3.org/2000/svg"
               width="36"
               height="36"
-              fill="currentColor"
+              fill="teal"
               class="bi bi-search worflow-icons "
               viewBox="0 0 16 16"
             >
@@ -39,14 +39,14 @@
             <h3>
               User Research
             </h3>
-             <p>Conducitng user discovery task sto understand your users</p>
+            <p>Conducitng user discovery task sto understand your users</p>
           </li>
           <li>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="36"
               height="36"
-              fill="currentColor"
+              fill="teal"
               class="bi bi-palette2"
               viewBox="0 0 16 16"
             >
@@ -61,7 +61,7 @@
               xmlns="http://www.w3.org/2000/svg"
               width="36"
               height="36"
-              fill="currentColor"
+              fill="teal"
               class="bi bi-code-slash"
               viewBox="0 0 16 16"
             >
@@ -75,7 +75,7 @@
               xmlns="http://www.w3.org/2000/svg"
               width="36"
               height="36"
-              fill="currentColor"
+              fill="teal"
               class="bi bi-ui-checks"
               viewBox="0 0 16 16"
             >
@@ -653,6 +653,7 @@ img.workflow-icons {
   height: auto;
   max-width: 100%;
   width: 120px;
+
 }
 
 #workflow h2:nth-of-type(1) {
