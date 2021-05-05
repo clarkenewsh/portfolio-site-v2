@@ -51,7 +51,7 @@ nav a:nth-of-type(0){
 nav a  {
   color: #000;
   align-self: center;
-  padding: 20px;
+  padding: 15px;
   text-decoration: none;
 }
 
