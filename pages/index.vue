@@ -820,7 +820,7 @@ img.workflow-icons {
   #my-work,
   #hobbies,
   #contact-cta {
-    margin: 100px 0px;
+    margin: 60px 0px;
   }
 
   #workflow ul {
