@@ -80,9 +80,6 @@
           <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
-          <NuxtLink to="/projects/casestudy1">
-            View Website
-          </NuxtLink>
         </figure>
         <figure>
           <h4>Responsive Website UI Tester Tool</h4>
