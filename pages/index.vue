@@ -20,7 +20,7 @@
     </div>
     <div id="workflow">
       <div>
-        <h2>Design and Development Skills</h2>
+        <h2>Design &#x26; Development skills</h2>
       </div>
       <div>
         <ul>
@@ -72,7 +72,7 @@
     </div>
     <div id="my-work">
       <h2>Projects</h2>
-      <p>Scroll thorugh a handful of my recent University and portfolio work</p>
+      <p>Some of my recent Univeristy and personal projects</p>
       <div>
         <figure>
           <h4>Doggie Walks</h4>
@@ -88,7 +88,7 @@
           <h4>Responsive Website UI Tester Tool</h4>
           <p>Project Description</p>
           <NuxtLink to="/projects/casestudy1">
-            Read  case study
+            Read casestudy
           </NuxtLink>
         </figure>
         <figure>
@@ -102,7 +102,7 @@
           <h4>Total Swimming Usability Testing</h4>
           <p>Project Description</p>
           <NuxtLink to="/projects/casestudy1">
-            Read  case study
+            Read case study
           </NuxtLink>
         </figure>
       </div>
@@ -563,24 +563,6 @@ section {
     margin: 50px 0px;
   }
 
-button {
-  padding: 10px 15px;
-  border-radius: 0.375rem;
-  font-weight: 700;
-  margin: 10px 0px;
-  background: #ccd8d9;
-  border: none;
-  transition: all 0.2s ease;
-}
-
-button a {
-  color: #000;
-}
-
-button:hover {
-  transform: translateY(4px);
-}
-
 #headline {
   grid-column: 1/2;
 }
@@ -633,11 +615,17 @@ button:hover {
 #workflow ul {
   list-style: none;
   padding: 0;
+  margin-top: 50px;
 }
 
 #workflow li {
   list-style: none;
-  padding: 20px 0px;
+  margin-bottom: 50px;
+}
+
+#workflow ul li {
+  box-shadow: 0 10px 40px rgb(0 0 0 / 20%);
+  padding: 30px;
 }
 
 img.workflow-icons {
@@ -676,13 +664,12 @@ img.workflow-icons {
   grid-column: 1/-1;
 }
 
-#my-work h3 {
+#my-work h4 {
   color: #fff;
 }
 
 #my-work div {
   display: flex;
-  flex-wrap: wrap;
   color: #fff;
 }
 

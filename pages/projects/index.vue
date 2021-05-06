@@ -9,9 +9,7 @@
         <NuxtLink to="/projects/casestudy1">
           Read case study
         </NuxtLink>
-        <NuxtLink to="https://doggiewalks-site.netlify.app">
-          View site
-        </NuxtLink>
+        <a href="https://doggiewalks-site.netlify.app/">View site</a>
       </figure>
       <figure>
         <h3>Responsive Website UI Tester Tool</h3>
