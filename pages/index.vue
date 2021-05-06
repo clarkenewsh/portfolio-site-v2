@@ -76,9 +76,9 @@
       <div>
         <figure>
           <h4>Doggie Walks</h4>
-          <p>A client brief to develop a static website for a local dog walking company</p>
+          <p>A client brief to develop a static website for a local dog walking service</p>
           <NuxtLink to="/projects/casestudy1">
-            Read  case study
+            Read case study
           </NuxtLink>
           <NuxtLink to="/projects/casestudy1">
             View Website
@@ -86,27 +86,26 @@
         </figure>
         <figure>
           <h4>Responsive Website UI Tester Tool</h4>
-          <p>Project Description</p>
+          <p>This brief was to create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time</p>
           <NuxtLink to="/projects/casestudy1">
-            Read casestudy
+            Read case study
           </NuxtLink>
         </figure>
         <figure>
           <h4>PopUps Landing Page</h4>
-          <p>A landing page developed for a pop-up shop locator</p>
+          <p>A landing page developed for a pop-up shop locator service</p>
           <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
         </figure>
         <figure>
           <h4>Total Swimming Usability Testing</h4>
-          <p>Project Description</p>
+          <p>Usability testing and analysis conducted on a reallife client webiste</p>
           <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
         </figure>
       </div>
-
       <NuxtLink to="/projects">
         <button>View my portfolio</button>
       </NuxtLink>
