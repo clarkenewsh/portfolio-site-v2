@@ -53,6 +53,8 @@ nav a  {
   align-self: center;
   padding: 15px;
   text-decoration: none;
+  font-weight: 500;
+  font-size: 120%;
 }
 
 nav a:hover {
