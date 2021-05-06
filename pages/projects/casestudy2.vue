@@ -2,9 +2,11 @@
   <section>
     <div>
       <h1>Responsive Website UI Tester Tool</h1>
-      <h4>The Client Brief</h4>
+      <h4>&#x2758; The Client Brief</h4>
       <p>
-        To create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time
+        This brief was  to create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time.
+
+        The single page app, should allow web developers to check the responsiveness of responsive websites. They require a page which displays multiple iframes (on the screen at the same time), which can allow the tester to view the inputted website at different resolutions.
       </p>
       <a href="https://doggiewalks-site.netlify.app/">View site</a>
       <a href="https://github.com/clarkenewsh/doggie-walks-site">GitHub repo</a>
@@ -16,22 +18,30 @@
         <h3>&#x2758; Reserach &#x26; Dicovery</h3>
         <div>
           <h6>Project Requirements</h6>
-          <p>A customer requirememnts form was completed by Doggie Walk to help me to understand the brand, their problems and goals, and the vision they had for their site. Firstly undedtanding the goal of the site was most important and fomred a foundation to develop a site that provides the solution. </p>
+          <p>The project brief outlined that it must contain some form of input to allow a user to enter a website URL, and the application must contain the following resolutions (or allow a selection of these to be made so the views can be compared):</p>
+          <h6>Required resolutions:</h6>
+          <ul>
+            <li>375 x 667 (Mobile)</li>
+            <li>411 x 823 (Larger Mobile)</li>
+            <li>1024 x 768 (Tablet)</li>
+            <li>•280 x 800 (Laptop Small)</li>
+            <li>1680 x 1050 (Desktop)</li>
+          </ul>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Design</h3>
         <div>
           <h6>Design Testing Strategy</h6>
-          <p>A customer requirememnts form was completed by Doggie Walk to help me to understand the brand, their problems and goals, and the vision they had for their site. Firstly undedtanding the goal of the site was most important and fomred a foundation to develop a site that provides the solution. </p>
+          <p>Prior to imterface design a test strategy was designed which aims to outline the approach to testing, including test managment, test types, bug reporting and tools and sofware needed to conducting the testing.</p>
         </div>
         <div>
-          <h6>Low and High fidelity Interface Design</h6>
-          <p>A customer requirememnts form was completed by Doggie Walk to help me to understand the brand, their problems and goals, and the vision they had for their site. Firstly undedtanding the goal of the site was most important and fomred a foundation to develop a site that provides the solution. </p>
+          <h6>Interface Design</h6>
+          <p>Low-fidelity sketches were then created in an atempt to draft a rough layout of the interface. Following low fidely sketching a high-fidelity prototype was designed in Adobe XD finalising the interface design.</p>
         </div>
       </div>
       <div class="process-block">
-        <h3>&#x2758; Develop</h3>
+        <h3>&#x2758; Development</h3>
         <div>
           <h6>Tech Stack</h6>
           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="221.807 89.47 440 621.061" enable-background="new 221.807 89.47 440 621.061"><filter id="a" width="150%" height="150%" x="-5%" y="-5%"><feFlood flood-color="#000" result="floodFill" flood-opacity=".5" /><feComposite in="floodFill" in2="SourceAlpha" operator="in" result="coloredAlpha" /><feGaussianBlur in="coloredAlpha" result="blur" stdDeviation="8" /><feComposite in="blur" in2="SourceGraphic" operator="out" result="maskedOffsetBlur" /><feMerge><feMergeNode in="maskedOffsetBlur" /><feMergeNode in="SourceGraphic" /></feMerge></filter><g filter="url(#a)"><path fill="#e44d26" d="M261.849 660.647l-40.042-449.125h440l-40.086 449.054-180.184 49.954z" /><path fill="#f16529" d="M441.807 672.348l145.596-40.367 34.258-383.735H441.807z" /><path fill="#ebebeb" d="M441.807 414.82h-72.888l-5.035-56.406h77.923V303.33H303.683l1.32 14.778 13.538 151.794h123.266zM441.807 557.876l-.242.066-61.346-16.566-3.922-43.93h-55.294l7.718 86.489 112.834 31.323.252-.071z" /><path d="M262.745 89.47h27.992v27.656h25.606V89.47h27.993v83.75h-27.993v-28.044h-25.606v28.044h-27.99l-.002-83.75zM381.149 117.244h-24.642V89.47H433.8v27.774h-24.654v55.976H381.15v-55.976h-.001zM446.065 89.47h29.19l17.955 29.428 17.938-29.428h29.2v83.75h-27.882v-41.512l-19.259 29.778h-.481l-19.272-29.778v41.512h-27.39V89.47zM554.277 89.47h28v56.068h39.368v27.682h-67.368V89.47z" /><path fill="#fff" d="M441.617 414.82v55.082h67.83l-6.395 71.44-61.435 16.58v57.307l112.924-31.294.826-9.309 12.946-145.014 1.344-14.792h-14.842zM441.617 303.33v55.084H574.67l1.103-12.382 2.51-27.924 1.318-14.778z" /></g></svg>
@@ -77,22 +87,34 @@
           </svg>
         </div>
         <div>
-          <h6>Behavioural driven development</h6>
-          <p>Derived from the comp set and Customer Requirements Form and used to show the look and feel of the site before development to save time and money</p>
+          <h6>Behavioural Driven Development</h6>
+          <p>The website was developed using TDD and BDD appraoch, embracing automation testing to test the user stories identified in the functional software requiremnets and related features and work flows.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Testing</h3>
         <div>
+          <h6>Test Plan Document</h6>
+          <p>A test plan document was created and populated woith all of the identified test scenarios.</p>
+        </div>
+        <div>
           <h6>Automation Testing</h6>
-          <p>Automation testing workflow here</p>
+          <p>Automated test cases were written to test the user stories contained in the site. Cypress.io test suite was used to conduct unit, integration, acceptance and end-to-end testing.</p>
+        </div>
+        <div>
+          <h6>Exploirtory Manual Testing</h6>
+          <p>Exploirtory manual testing was carried out to further validate each test case. This included using serval devices and browsers.</p>
+        </div>
+        <div>
+          <h6>Usability Testing</h6>
+          <p>Usabilty testing was conducted following development and aimed to understand how user friendly the website is to use.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Deploy &#x26; Monitor</h3>
         <div>
           <h6>Deployment with Nelify</h6>
-          <p>Automation testing workflow here</p>
+          <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of continuose deployment feature provided by Netlify and GitHub.</p>
         </div>
       </div>
     </div>
@@ -157,6 +179,10 @@ img {
   margin-bottom: 40px;
   /* box-shadow: 0 10px 40px rgb(0 0 0 / 20%); */
   border: 1px solid #e5e5e5;
+}
+
+.process-block > div{
+    padding: 20px 0px;
 }
 
 svg {

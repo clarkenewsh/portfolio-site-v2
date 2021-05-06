@@ -669,8 +669,9 @@ img.workflow-icons {
 }
 
 #my-work div {
-  display: flex;
-  color: #fff;
+    display: grid;
+    color: #fff;
+    grid-template-columns: 1fr;
 }
 
 #my-work div figure:nth-of-type(1) {
@@ -746,9 +747,9 @@ img.workflow-icons {
   height: 100px;
 }
 
-#hobbies ul li:nth-of-type(odd) {
+/* #hobbies ul li:nth-of-type(odd) {
   padding: 60px;
-}
+} */
 
 #hobbies svg {
   padding-top: 20px;
@@ -802,5 +803,11 @@ img.workflow-icons {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
  }
+ #my-work div {
+    display: grid;
+    color: #fff;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
 }
 </style>
