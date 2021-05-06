@@ -4,7 +4,7 @@
       <h1>Responsive Website UI Tester Tool</h1>
       <h4>&#x2758; The Client Brief</h4>
       <p>
-        This brief was  to create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time.
+        This brief was to create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time.
 
         The single page app, should allow web developers to check the responsiveness of responsive websites. They require a page which displays multiple iframes (on the screen at the same time), which can allow the tester to view the inputted website at different resolutions.
       </p>
