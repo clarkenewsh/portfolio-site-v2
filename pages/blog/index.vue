@@ -22,6 +22,11 @@ export default {
 <style scoped>
 section {
   grid-column: 2;
+  min-height: 90vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 </style>

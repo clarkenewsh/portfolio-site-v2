@@ -4,7 +4,7 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I am a final year BSc Web Design and Development Undergraduate. I'm Passionate about solving real-world problems through the realm of UX Design and Web Development</p>
+      <p>I am a final year BSc Web Design and Development Undergraduate and aspiring Software Tester. I'm passionate about solving real-world problems through development, creating and testing web application that are accessible to all.</p>
       <ContactCTA />
     </div>
     <img class="hero-banner" src="~/assets/download.png">
@@ -21,26 +21,9 @@
     <div id="workflow">
       <div>
         <h2>Design and Development Skills</h2>
-        <p>Some of my web design and developmemnt skills</p>
       </div>
       <div>
         <ul>
-          <li>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="36"
-              height="36"
-              fill="teal"
-              class="bi bi-search worflow-icons "
-              viewBox="0 0 16 16"
-            >
-              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-            </svg>
-            <h3>
-              User Research
-            </h3>
-            <p>Conducitng user discovery task sto understand your users</p>
-          </li>
           <li>
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -53,7 +36,7 @@
               <path d="M0 .5A.5.5 0 0 1 .5 0h5a.5.5 0 0 1 .5.5v5.277l4.147-4.131a.5.5 0 0 1 .707 0l3.535 3.536a.5.5 0 0 1 0 .708L10.261 10H15.5a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-.5.5H3a2.99 2.99 0 0 1-2.121-.879A2.99 2.99 0 0 1 0 13.044m6-.21 7.328-7.3-2.829-2.828L6 7.188v5.647zM4.5 13a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0zM15 15v-4H9.258l-4.015 4H15zM0 .5v12.495V.5z" />
               <path d="M0 12.995V13a3.07 3.07 0 0 0 0-.005z" />
             </svg>
-            <h3>UX Design</h3>
+            <h4>User Research &#x26; UX Design</h4>
             <p>Applying UX design techniques to develop user friendly applications</p>
           </li>
           <li>
@@ -67,7 +50,7 @@
             >
               <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z" />
             </svg>
-            <h3>Development</h3>
+            <h4>Development</h4>
             <p>Modern Web Development techniques and worflow to create your application</p>
           </li>
           <li>
@@ -81,7 +64,7 @@
             >
               <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z" />
             </svg>
-            <h3>Testing &#x26; Analytics</h3>
+            <h4>Testing &#x26; Analytics</h4>
             <p>Creating test stratergies and conducting various methods of ftesting including TDD, BDD and usability testing</p>
           </li>
         </ul>
@@ -92,31 +75,34 @@
       <p>Scroll thorugh a handful of my recent University and portfolio work</p>
       <div>
         <figure>
-          <h3>Project Title</h3>
-          <p>Project Description</p>
+          <h4>Doggie Walks</h4>
+          <p>A client brief to develop a static website for a local dog walking company</p>
           <NuxtLink to="/projects/casestudy1">
-            View case study
+            Read  case study
+          </NuxtLink>
+          <NuxtLink to="/projects/casestudy1">
+            View Website
           </NuxtLink>
         </figure>
         <figure>
-          <h3>Project Title</h3>
+          <h4>Responsive Website UI Tester Tool</h4>
           <p>Project Description</p>
           <NuxtLink to="/projects/casestudy1">
-            View case study
+            Read  case study
           </NuxtLink>
         </figure>
         <figure>
-          <h3>Project Title</h3>
-          <p>Project Description</p>
+          <h4>PopUps Landing Page</h4>
+          <p>A landing page developed for a pop-up shop locator</p>
           <NuxtLink to="/projects/casestudy1">
-            View case study
+            Read case study
           </NuxtLink>
         </figure>
         <figure>
-          <h3>Project Title</h3>
+          <h4>Total Swimming Usability Testing</h4>
           <p>Project Description</p>
           <NuxtLink to="/projects/casestudy1">
-            View case study
+            Read  case study
           </NuxtLink>
         </figure>
       </div>
@@ -572,6 +558,11 @@ section {
   grid-column: 2;
 }
 
+  #about-me,
+  #workflow {
+    margin: 50px 0px;
+  }
+
 button {
   padding: 10px 15px;
   border-radius: 0.375rem;
@@ -634,9 +625,9 @@ button:hover {
 }
 
 #workflow {
-  border-bottom: 5px solid #ececec;
   grid-column: 1/-1;
   list-style: none;
+  text-align: center;
 }
 
 #workflow ul {
@@ -696,30 +687,30 @@ img.workflow-icons {
 }
 
 #my-work div figure:nth-of-type(1) {
-  background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 #my-work div figure:nth-of-type(2) {
-  background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url('~assets/responsive-thumb.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/responsive-thumb.jpg');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 #my-work div figure:nth-of-type(3) {
-  background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/popups-thumb.png');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 #my-work div figure:nth-of-type(4) {
-  background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb.png');
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 75%;
   background-repeat: no-repeat;
 }
 
@@ -727,7 +718,7 @@ img.workflow-icons {
   border-radius: 0.375rem;
   border: none;
   margin: 10px;
-  flex: 1 0 auto;
+  flex: auto;
   padding: 10px 25px;
   height: auto;
   max-width: 600px;
@@ -738,7 +729,6 @@ img.workflow-icons {
   grid-column: 1/-1;
   background: #F0F0EB;
   min-height: 300px;
-  margin: 50px 0px;
   padding: 30px;
   border-radius: 0.375rem;
   text-align: center;
@@ -787,13 +777,13 @@ img.workflow-icons {
   display: flex;
   flex-wrap: wrap;
   font-weight: 700;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   margin-bottom: 0 !important;
 }
 
 #contact-cta p{
-  margin-right: 30px;
+  text-align: center;
 }
 
 /* MEDIA QUIRIES */
@@ -801,12 +791,12 @@ img.workflow-icons {
   section {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 80px;
   }
 
   .split-block p {
     width: 85%;
-    padding: 30px 0px;
+    padding: 10px 0px;
   }
 
   .split-block p:nth-of-type(1) {
@@ -816,12 +806,8 @@ img.workflow-icons {
     margin-left: 100px;
   }
 
-  #about-me,
-  #workflow,
-  #my-work,
-  #hobbies,
-  #contact-cta {
-    margin: 60px 0px;
+  #about-me {
+    justify-content: center;
   }
 
   #workflow ul {

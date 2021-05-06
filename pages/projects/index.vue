@@ -1,21 +1,29 @@
 <template>
   <section>
-    <h1>Projects</h1>
+    <h1>Project case studies</h1>
     <p>A repository of some of my recent project work with links to the live site and GitHub repo. Also check out my development workflow below.</p>
-    <h2>Case Studies</h2>
-    <figure
-      v-for="project in projects"
-      :key="project.id"
-      :title="project.title"
-      class=""
-    >
-      <h3>{{ project.title }}</h3>
-      <p>{{ project.detail }}</p>
-      <NuxtLink to="/projects/casestudy1">
-        View case study
-      </NuxtLink>
-    </figure>
-    Project card and project list componets impo
+    <div>
+      <figure>
+        <h3>Doggie Walks</h3>
+        <p>A real life client brief to design and devlop a statis website for a local dog walking business</p>
+        <NuxtLink to="/projects/casestudy1">
+          Read case study
+        </NuxtLink>
+        <NuxtLink to="https://doggiewalks-site.netlify.app">
+          View site
+        </NuxtLink>
+      </figure>
+      <figure>
+        <h3>Responsive Website UI Tester Tool</h3>
+        <p>A real life client brief to create a esponsive Website UI Tester Tool</p>
+        <NuxtLink to="/projects/casestudy2">
+          Read case study
+        </NuxtLink>
+        <NuxtLink to="">
+          View Site
+        </NuxtLink>
+      </figure>
+    </div>
   </section>
 </template>
 
@@ -23,26 +31,26 @@
 export default {
   data () {
     return {
-      title: 'Projects',
-      projects: [
-        {
-          id: 1,
-          title: 'Doggie Walks',
-          detail: 'A real life client brief to design and devlop a statis website for a local dog walking business',
-          link: 'https://github.com/clarkenewsh/doggie-walks-site',
-          thumbnail: '',
-          path: '/projects/casestudy1'
-        },
-        {
-          id: 2,
-          title: 'Responsive Website UI Tester Tool',
-          detail: 'A real life client brief to create a esponsive Website UI Tester Tool',
-          link: 'https://github.com/clarkenewsh/Uni-Tap',
-          thumbnail: '',
-          path: '/projects/casestudy2'
-        }
+      title: 'Projects'
+      // projects: [
+      //   {
+      //     id: 1,
+      //     title: 'Doggie Walks',
+      //     detail: 'A real life client brief to design and devlop a statis website for a local dog walking business',
+      //     link: 'https://github.com/clarkenewsh/doggie-walks-site',
+      //     thumbnail: '',
+      //     path: '/projects/casestudy1'
+      //   },
+      //   {
+      //     id: 2,
+      //     title: 'Responsive Website UI Tester Tool',
+      //     detail: 'A real life client brief to create a esponsive Website UI Tester Tool',
+      //     link: 'https://github.com/clarkenewsh/Uni-Tap',
+      //     thumbnail: '',
+      //     path: '/projects/casestudy2'
+      //   }
 
-      ]
+      // ]
     }
   },
   head () {
@@ -61,10 +69,34 @@ export default {
 section {
   grid-column: 2;
   margin: 0 auto;
+  text-align: center;
+}
+
+section div {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  margin: 25px;
+  font-weight: 500;
 }
 
 figure {
-  margin: 0 auto;
+  margin: 30px 0px;
+  border: 1px solid #E5E5E5;
+  padding: 30px;
+  text-align: center;
+  border-radius: 0.375rem;
+}
+
+figure:hover{
+  border: none;
+  box-shadow: 0 10px 40px rgb(0 0 0 / 20%);
+  transition: all 0.4s ease;
 }
 
 #workflow {
@@ -93,6 +125,11 @@ figure {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 30px;
   }
+
+  figure {
+    width: 70%;
+}
+
 }
 
 </style>
