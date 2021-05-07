@@ -4,7 +4,7 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I recently graduated in BSc Web Design and Development and now aspiring Software Tester. I'm passionate about solving real-world problems through development and testing web applications that are accessible to all.</p>
+      <p>I recently graduated in BSc Web Design and Development and now aspiring Software Tester. I'm passionate about solving real-world problems through development and testing, creating web applications that are accessible to all.</p>
       <ContactCTA />
     </div>
     <img class="hero-banner" src="~/assets/download.png">
@@ -13,6 +13,7 @@
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, aspiring Developer and Software Tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
+        <p>I am passionate about building a career in software testing and currently seeking out new opportunities were I further develop and flourish as a software tester  </p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -72,7 +73,7 @@
     </div>
     <div id="my-work">
       <h2>Projects</h2>
-      <p>Some of my recent Univeristy and personal projects</p>
+      <p>Check out some of my recent Univeristy and personal projects. Please read the case study for each project to discover more.</p>
       <div>
         <figure>
           <h4>Doggie Walks</h4>
@@ -83,12 +84,12 @@
         </figure>
         <figure>
           <h4>Responsive Website UI Tester Tool</h4>
-          <p>A single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes</p>
-          <NuxtLink to="/projects/casestudy1">
+          <p>A single-page web app that allows for testing of responsive websites on multiple screen sizes</p>
+          <NuxtLink to="/projects/casestudy2">
             Read case study
           </NuxtLink>
         </figure>
-        <figure>
+        <!-- <figure>
           <h4>PopUps Landing Page</h4>
           <p>A landing page developed for a pop-up shop locator service</p>
           <NuxtLink to="/projects/casestudy1">
@@ -101,7 +102,7 @@
           <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
-        </figure>
+        </figure> -->
       </div>
       <NuxtLink to="/projects">
         <button>View my portfolio</button>
@@ -109,7 +110,7 @@
     </div>
     <div id="hobbies">
       <h2>Things I love to do</h2>
-      <p>As much as I love to solve problems with code, I like to play too. I am a huge NFL and Motosport fan, enjoy exploring the great outdoors and Space travel.</p>
+      <p>As much as I love to solve problems with code, I like to play too. I am a huge NFL and Motosport fan, enjoy camping and exploring the great outdoors and Space travel.</p>
       <ul>
         <li>
           <svg
@@ -528,7 +529,7 @@
       </ul>
     </div>
     <div id="contact-cta">
-      <h6>I have now graduated and seeking out new work opportunities</h6>
+      <h6>I have now graduated and am passionate to build a career in software testing. Please get in touch I am always open to new opportunites</h6>
       <ContactCTA />
     </div>
   </section>

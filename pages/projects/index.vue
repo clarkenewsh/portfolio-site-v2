@@ -17,9 +17,7 @@
         <NuxtLink to="/projects/casestudy2">
           Read case study
         </NuxtLink>
-        <NuxtLink to="">
-          View Site
-        </NuxtLink>
+        <a href="https://responsive-ui-tester-tool.netlify.app/">View site</a>
       </figure>
     </div>
   </section>

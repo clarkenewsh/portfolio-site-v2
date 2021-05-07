@@ -8,8 +8,8 @@
 
         The single page app, should allow web developers to check the responsiveness of responsive websites. They require a page which displays multiple iframes (on the screen at the same time), which can allow the tester to view the inputted website at different resolutions.
       </p>
-      <a href="https://doggiewalks-site.netlify.app/">View site</a>
-      <a href="https://github.com/clarkenewsh/doggie-walks-site">GitHub repo</a>
+      <a href="https://responsive-ui-tester-tool.netlify.app/">View site</a>
+      <a href="https://github.com/clarkenewsh/Responsive-UI-Tetser-Tool">GitHub repo</a>
     </div>
     <div><img src="~/assets/responsive-thumb.jpg"></div>
     <div id="process">
