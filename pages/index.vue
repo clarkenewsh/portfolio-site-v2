@@ -623,6 +623,7 @@ section {
 #workflow ul li {
   box-shadow: 0 10px 40px rgb(0 0 0 / 20%);
   padding: 30px;
+  border-radius: 0.375rem;
 }
 
 img.workflow-icons {
