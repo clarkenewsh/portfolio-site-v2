@@ -576,7 +576,7 @@ section {
 .hero-banner  {
   grid-column: 2/-1;
   height: auto;
-  align-self: center;
+  justify-self: center;
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
   border-top-right-radius: 120px;
@@ -781,6 +781,10 @@ img.workflow-icons {
   .split-block p {
     width: 85%;
     padding: 10px 0px;
+  }
+
+  #headline {
+    margin-top: 100px;
   }
 
   .split-block p:nth-of-type(1) {
