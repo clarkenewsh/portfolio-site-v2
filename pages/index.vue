@@ -561,6 +561,7 @@ section {
 
 #headline {
   grid-column: 1/2;
+  justify-self: center;
 }
 
 #headline h1 {
@@ -776,6 +777,10 @@ img.workflow-icons {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 80px;
+    margin-top: 100px;
+  }
+
+  .her-banner {
     margin-top: 100px;
   }
 
