@@ -528,7 +528,7 @@
       </ul>
     </div>
     <div id="contact-cta">
-      <p>Tell me about your project and we can provide the solution</p>
+      <h6>I have now graduated and seeking out new work opportunities</h6>
       <ContactCTA />
     </div>
   </section>
@@ -763,12 +763,12 @@ img.workflow-icons {
   display: flex;
   flex-wrap: wrap;
   font-weight: 700;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   margin-bottom: 0 !important;
 }
 
-#contact-cta p{
+#contact-cta h6 {
   text-align: center;
 }
 
