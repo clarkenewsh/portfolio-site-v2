@@ -776,18 +776,12 @@ img.workflow-icons {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 80px;
+    margin-top: 100px;
   }
 
   .split-block p {
     width: 85%;
     padding: 10px 0px;
-  }
-
-  #headline {
-    margin-top: 100px;
-  }
-
-  .split-block p:nth-of-type(1) {
   }
 
   .split-block p:nth-of-type(2) {
