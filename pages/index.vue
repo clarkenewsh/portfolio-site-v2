@@ -4,14 +4,14 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I am a final year BSc Web Design and Development Undergraduate and aspiring Software Tester. I'm passionate about solving real-world problems through development, creating and testing web application that are accessible to all.</p>
+      <p>I recently graduated in BSc Web Design and Development undergrad and aspiring Software Tester. I'm passionate about solving real-world problems, creating and testing web application that are accessible to all.</p>
       <ContactCTA />
     </div>
     <img class="hero-banner" src="~/assets/download.png">
     <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
-        <p>Hey, I'm Clarke Newsham, aspiring Web Developer and Software Tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
+        <p>Hey, I'm Clarke Newsham, aspiring Developer and Software Tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
       </div>
       <NuxtLink to="/about">
@@ -65,7 +65,7 @@
               <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z" />
             </svg>
             <h4>Testing</h4>
-            <p>Embracing automation testing creating test stratergies, writing acceptance criteria and test cases a and conducting various methods of manul and automation testing including TDD, BDD usability testing</p>
+            <p>Embracing automation testing creating test stratergies and test cases using TDD, BDD, manual &#x26; usability testing</p>
           </li>
         </ul>
       </div>
