@@ -83,7 +83,7 @@
         </figure>
         <figure>
           <h4>Responsive Website UI Tester Tool</h4>
-          <p>This brief was to create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time</p>
+          <p>A single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes</p>
           <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
