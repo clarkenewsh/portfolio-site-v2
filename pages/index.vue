@@ -4,7 +4,7 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I recently graduated in BSc Web Design and Development and now aspiring Software Tester. I'm passionate about solving real-world problems, creating and testing web application that are accessible to all.</p>
+      <p>I recently graduated in BSc Web Design and Development and now aspiring Software Tester. I'm passionate about solving real-world problems through development and testing web applications that are accessible to all.</p>
       <ContactCTA />
     </div>
     <img class="hero-banner" src="~/assets/download.png">
