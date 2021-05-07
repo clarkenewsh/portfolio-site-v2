@@ -6,7 +6,9 @@
     <p>I am passionate about building a career in software testing and currently seeking out new opportunities were I further develop and flourish as a software tester. I have practical experience of all things testing using TDD and BDD methods of testing on all of my projects, creating test strategies, test automation design and developing test cases using cypress.io. I have gained knowlege and competence in translating product requirements into user stories, creating test strategies, witing test cases and defining acceptance criteria. I am continally looking to enhance my technical and testing skills and have recently been working with modern test suite, Cypress.io to write automated end-to-end tests cases</p>
     <div>
       <h5>Check out my cv to find out a little more</h5>
-      <a href="https://www.dropbox.com/s/842mmuxygpygfwh/Clarke_Newsham_Resume.pdf?dl=0" />
+      <NuxtLink to="https://www.dropbox.com/s/842mmuxygpygfwh/Clarke_Newsham_Resume.pdf?dl=0">
+        <button>View my cv</button>
+      </NuxtLink>
     </div>
     <img src="~/assets/about-hero.jpg">
   </section>
