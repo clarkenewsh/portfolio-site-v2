@@ -27,7 +27,7 @@
         <h3>&#x2758; Design</h3>
         <div>
           <h6>Design Testing Strategy</h6>
-          <p>Prior to imterface design a test strategy was designed which aims to outline the approach to testing, including test managment, test types, bug reporting and tools and sofware needed to conducting the testing.</p>
+          <p>Prior to interface design a test strategy was designed which aims to outline the approach to testing, including test managment, test types, bug reporting and tools and sofware needed to conducting the testing.</p>
         </div>
         <div>
           <h6>Interface Design</h6>
@@ -97,7 +97,7 @@
         </div>
         <div>
           <h6>Exploirtory Manual Testing</h6>
-          <p>Exploirtory manual testing was carried out to further validate each test case. This included using serval devices and browsers.</p>
+          <p>Exploirtory manual testing was carried out to further validate each test scenario. This included using serval different devices and browsers.</p>
         </div>
         <div>
           <h6>Usability Testing</h6>
