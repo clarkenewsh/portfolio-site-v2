@@ -763,13 +763,14 @@ img.workflow-icons {
   display: flex;
   flex-wrap: wrap;
   font-weight: 700;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-bottom: 0 !important;
 }
 
 #contact-cta h6 {
   text-align: center;
+  color: #fff;
 }
 
 /* MEDIA QUIRIES */
