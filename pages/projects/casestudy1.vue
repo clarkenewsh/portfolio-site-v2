@@ -82,7 +82,7 @@
         </div>
         <div>
           <h6>Behavioural Driven Development</h6>
-          <p>The website was developed using TDD and BDD appraoch, embracing automation testing to test the user stories identified in the functional software requiremnets and related features and work flows.</p>
+          <p>The website was developed using TDD and BDD appraoch, embracing automation testing, witing test cases in Cypress.io test suite to test the user stories derievd from the identifed functional software requiremnets.</p>
         </div>
       </div>
       <div class="process-block">
