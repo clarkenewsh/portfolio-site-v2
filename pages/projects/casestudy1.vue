@@ -4,10 +4,10 @@
       <h1>Doggie Walks Overview</h1>
       <h4>&#x2758; The Client Brief</h4>
       <p>
-        The clients brief tasked me to design then develop a small website in accordance to what the client has requested. The client I have provided you with is a company called doggie walks, this is a company which has many branches and provides one main service for animals
+        The clients brief tasked me to design then develop a small website in accordance with what the client has requested. The client I have provided you with is a company called doggie walks, this is a company which has many branches and provides one main service for animals.
       </p>
       <a href="https://doggiewalks-site.netlify.app/">View site</a>
-      <a href="https://github.com/clarkenewsh/doggie-walks-site">GitHub repo</a>
+      <a href="https://github.com/clarkenewsh/doggie-walks-site">GitHub</a>
     </div>
     <div><img src="~/assets/header-background2.jpg"></div>
     <div id="process">
@@ -16,22 +16,22 @@
         <h3>&#x2758; Reserach &#x26; Dicovery</h3>
         <div>
           <h6>Project Requirements and Brand Clarity</h6>
-          <p>A customer requirememnts form was completed by Doggie Walk to help me to understand the brand, their problems and goals, and the vision they had for their site. A set of functional requiremnets were then created including the additonal feature Doggie Walks requested.</p>
+          <p>A customer requirements form was completed by Doggie Walk to help me to understand the brand, their problems and goals, and the vision they had for their site. A set of functional requirements were then created including the additional feature Doggie Walks requested.</p>
         </div>
         <div>
           <h6>Competitor Analysis</h6>
-          <p>A competitor analysis was undertaken which consits of moodboarding various interface design elements from different websites providing a simular service.</p>
+          <p>A competitor analysis was undertaken which consists of mood boarding various interface design elements from different websites providing a similar service.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Design</h3>
         <div>
-          <h6>Design Testing Strategy</h6>
-          <p>Prior to interface design a test strategy was designed which aims to outline the approach to testing, including test managment, test types, bug reporting and tools and sofware needed to conducting the testing.</p>
+          <h6>Design Test Strategy</h6>
+          <p>Prior to interface design, a test strategy was designed which aims to outline the approach to testing, including test management, test types, bug reporting and tools and software needed to conduct the testing.</p>
         </div>
         <div>
           <h6>Interface Design</h6>
-          <p>Low-fidelity sketches were then created in an atempt to draft a rough layout of the interface. Following low fidely sketching a high-fidelity prototype was designed in Adobe XD finalising the interface design.</p>
+          <p>Low-fidelity sketches were then created in an attempt to draft a rough layout of the interface. Following low fidelity sketching a high-fidelity prototype was designed in Adobe XD finalising the interface design.</p>
         </div>
       </div>
       <div class="process-block">
@@ -82,33 +82,33 @@
         </div>
         <div>
           <h6>Behavioural Driven Development</h6>
-          <p>The website was developed using TDD and BDD appraoch, embracing automation testing, witing test cases in Cypress.io test suite to test the user stories derievd from the identifed functional software requiremnets.</p>
+          <p>The website was developed using TDD and BDD approach, embracing automation testing, writing test cases in Cypress.io test suite to test the user stories derived from the identified functional software requirements.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Testing</h3>
         <div>
           <h6>Test Plan Document</h6>
-          <p>A test plan document was created and populated woith all of the identified test scenarios.</p>
+          <p>A test plan document was created and populated with all of the identified test scenarios.</p>
         </div>
         <div>
           <h6>Automation Testing</h6>
-          <p>Automated test cases were written to test the user stories contained in the site. Cypress.io test suite was used to conduct unit, integration, acceptance and end-to-end testing.</p>
+          <p>Automated test cases were written to test the user stories contained on the site. Cypress.io test suite was used to conduct unit, integration, acceptance and end-to-end testing.</p>
         </div>
         <div>
-          <h6>Exploirtory Manual Testing</h6>
-          <p>Exploirtory manual testing was carried out to further validate each test scenario. This included using serval different devices and browsers.</p>
+          <h6>Exploratory Manual Testing</h6>
+          <p>Exploratory manual testing was carried out to further validate each test scenario. This included using serval different devices and browsers.</p>
         </div>
         <div>
           <h6>Usability Testing</h6>
-          <p>Usabilty testing was conducted following development and aimed to understand how user friendly the website is to use.</p>
+          <p>Usability testing was conducted following development and aimed to understand how user-friendly the website is to use.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Deploy &#x26; Monitor</h3>
         <div>
           <h6>Deployment with Nelify</h6>
-          <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of continuose deployment feature provided by Netlify and GitHub.</p>
+          <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of the continuous deployment feature provided by Netlify and GitHub.</p>
         </div>
       </div>
     </div>
@@ -166,6 +166,12 @@ img {
 
 #process {
   grid-column: 1/-1;
+}
+
+#process h2 {
+  grid-column: 1/-1;
+  margin: 100px 0px;
+  text-align: center;
 }
 
 .process-block {

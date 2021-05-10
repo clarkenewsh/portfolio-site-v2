@@ -1,11 +1,11 @@
 <template>
   <section>
     <h1>Project case studies</h1>
-    <p>A repository of some of my recent project work with links to the live site and GitHub repo. Also check out my development workflow below.</p>
+    <p>A repository of some of my recent project work with links to the live site and GitHub repo. Also, check out my development workflow below.</p>
     <div>
       <figure>
         <h3>Doggie Walks</h3>
-        <p>A real life client brief to design and devlop a statis website for a local dog walking business</p>
+        <p>A real life client brief to design and develop a static website for a local dog-walking service</p>
         <NuxtLink to="/projects/casestudy1">
           Read case study
         </NuxtLink>
@@ -13,7 +13,7 @@
       </figure>
       <figure>
         <h3>Responsive Website UI Tester Tool</h3>
-        <p>A real life client brief to create a esponsive Website UI Tester Tool</p>
+        <p>A real-life client brief to create a responsive Website UI Tester Tool</p>
         <NuxtLink to="/projects/casestudy2">
           Read case study
         </NuxtLink>

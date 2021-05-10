@@ -5,11 +5,10 @@
       <h4>&#x2758; The Client Brief</h4>
       <p>
         This brief was to create a single-page web app that allows for testing of responsive websites as so to test the UI's on multiple screen sizes at one time.
-
-        The single page app, should allow web developers to check the responsiveness of responsive websites. They require a page which displays multiple iframes (on the screen at the same time), which can allow the tester to view the inputted website at different resolutions.
+        The single-page app, should allow web developers to check the responsiveness of responsive websites. They require a page that displays multiple iframes (on the screen at the same time), which can allow the tester to view the inputted website at different resolutions.
       </p>
       <a href="https://responsive-ui-tester-tool.netlify.app/">View site</a>
-      <a href="https://github.com/clarkenewsh/Responsive-UI-Tetser-Tool">GitHub repo</a>
+      <a href="https://github.com/clarkenewsh/Responsive-UI-Tetser-Tool">GitHub</a>
     </div>
     <div><img src="~/assets/responsive-thumb.jpg"></div>
     <div id="process">
@@ -24,7 +23,7 @@
             <li>375 x 667 (Mobile)</li>
             <li>411 x 823 (Larger Mobile)</li>
             <li>1024 x 768 (Tablet)</li>
-            <li>•280 x 800 (Laptop Small)</li>
+            <li>1280 x 800 (Laptop Small)</li>
             <li>1680 x 1050 (Desktop)</li>
           </ul>
         </div>
@@ -32,12 +31,12 @@
       <div class="process-block">
         <h3>&#x2758; Design</h3>
         <div>
-          <h6>Design Testing Strategy</h6>
-          <p>Prior to interface design a test strategy was designed which aims to outline the approach to testing, including test managment, test types, bug reporting and tools and sofware needed to conducting the testing.</p>
+          <h6>Design Test Strategy</h6>
+          <p>Before interface design, a test strategy was designed which aims to outline the approach to testing, including test management, test types, bug reporting and tools and software needed to conduct the testing.</p>
         </div>
         <div>
           <h6>Interface Design</h6>
-          <p>Low-fidelity sketches were then created in an atempt to draft a rough layout of the interface. Following low fidely sketching a high-fidelity prototype was designed in Adobe XD finalising the interface design.</p>
+          <p>Low-fidelity sketches were then created in an attempt to draft a rough layout of the interface. Following low fidelity sketching a high-fidelity prototype was designed in Adobe XD finalising the interface design.</p>
         </div>
       </div>
       <div class="process-block">
@@ -88,33 +87,35 @@
         </div>
         <div>
           <h6>Behavioural Driven Development</h6>
-          <p>The website was developed using TDD and BDD appraoch, embracing automation testing, witing test cases in Cypress.io test suite to test the user stories derievd from the identifed functional software requiremnets.</p>
+          <p>The website was developed using TDD and BDD approach, embracing automation testing, writing test cases in Cypress.io test suite to test the user stories derived from the identified functional software requirements.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Testing</h3>
         <div>
           <h6>Test Plan Document</h6>
-          <p>A test plan document was created and populated woith all of the identified test scenarios.</p>
+          <p>
+            A test plan document was created and populated with all of the identified test scenarios.
+          </p>
         </div>
         <div>
           <h6>Automation Testing</h6>
-          <p>Automated test cases were written to test the user stories contained in the site. Cypress.io test suite was used to conduct unit, integration, acceptance and end-to-end testing.</p>
+          <p>Automated test cases were written to test the user stories contained on the site. Cypress.io test suite was used to conduct unit, integration, acceptance and end-to-end testing.</p>
         </div>
         <div>
-          <h6>Exploirtory Manual Testing</h6>
-          <p>Exploirtory manual testing was carried out to further validate each test scenario. This included using serval different devices and browsers.</p>
+          <h6>Exploratory Manual Testing</h6>
+          <p>Exploratory manual testing was carried out to further validate each test scenario. This included using serval different devices and browsers.</p>
         </div>
         <div>
           <h6>Usability Testing</h6>
-          <p>Usabilty testing was conducted following development and aimed to understand how user friendly the website is to use.</p>
+          <p>Usability testing was conducted following development and aimed to understand how user-friendly the website is to use.</p>
         </div>
       </div>
       <div class="process-block">
         <h3>&#x2758; Deploy &#x26; Monitor</h3>
         <div>
           <h6>Deployment with Nelify</h6>
-          <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of continuose deployment feature provided by Netlify and GitHub.</p>
+          <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of the continuous deployment feature provided by Netlify and GitHub.</p>
         </div>
       </div>
     </div>
@@ -179,6 +180,12 @@ img {
   margin-bottom: 40px;
   /* box-shadow: 0 10px 40px rgb(0 0 0 / 20%); */
   border: 1px solid #e5e5e5;
+}
+
+#process h2 {
+  grid-column: 1/-1;
+  margin: 100px 0px;
+  text-align: center;
 }
 
 .process-block > div{

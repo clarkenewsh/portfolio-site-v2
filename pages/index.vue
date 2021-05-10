@@ -4,7 +4,7 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I recently graduated in BSc Web Design and Development and now aspiring Software Tester. I'm passionate about solving real-world problems through development and testing, creating web applications that are accessible to all.</p>
+      <p>I recently graduated in BSc Web Design and Development and am now aspiring to be a Software Tester. I'm passionate about solving real-world problems through development and testing, creating web applications that are accessible to all.</p>
       <ContactCTA />
     </div>
     <img class="hero-banner" src="~/assets/download.png">
@@ -13,7 +13,7 @@
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, aspiring Developer and Software Tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career in software testing and currently seeking out new opportunities were I further develop and flourish as a software tester  </p>
+        <p>I am passionate about building a career in software testing, in particular automation testing which I will continue to learn this year. I have now graduated and am currently seeking out new opportunities where I further develop and flourish as a software tester.</p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -38,7 +38,7 @@
               <path d="M0 12.995V13a3.07 3.07 0 0 0 0-.005z" />
             </svg>
             <h4>User Research &#x26; UX Design</h4>
-            <p>Applying UX design models &#x26; techniques to develop engaging, user friendly interafces</p>
+            <p>Applying UX design models &#x26; techniques to develop engaging, user-friendly interfaces</p>
           </li>
           <li>
             <svg
@@ -52,7 +52,7 @@
               <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z" />
             </svg>
             <h4>Development</h4>
-            <p>Using an agile appraoch and modern web technologies to develop websites and web applications that are accessible to all</p>
+            <p>Using an agile approach and modern web technologies to develop websites and web applications that are accessible to all</p>
           </li>
           <li>
             <svg
@@ -66,18 +66,18 @@
               <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z" />
             </svg>
             <h4>Testing</h4>
-            <p>Embracing automation testing creating test stratergies and test cases using TDD, BDD, manual &#x26; usability testing</p>
+            <p>Embracing automation testing creating test strategies and test cases using TDD, BDD, manual &#x26; usability testing</p>
           </li>
         </ul>
       </div>
     </div>
     <div id="my-work">
       <h2>Projects</h2>
-      <p>Check out some of my recent Univeristy and personal projects. Please read the case study for each project to discover more.</p>
+      <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more.</p>
       <div>
         <figure>
           <h4>Doggie Walks</h4>
-          <p>A client brief to develop a static website for a local dog walking service</p>
+          <p>A client brief to develop a static website for a local dog-walking service</p>
           <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
@@ -89,20 +89,6 @@
             Read case study
           </NuxtLink>
         </figure>
-        <!-- <figure>
-          <h4>PopUps Landing Page</h4>
-          <p>A landing page developed for a pop-up shop locator service</p>
-          <NuxtLink to="/projects/casestudy1">
-            Read case study
-          </NuxtLink>
-        </figure>
-        <figure>
-          <h4>Total Swimming Usability Testing</h4>
-          <p>Usability testing and analysis conducted on a reallife client webiste</p>
-          <NuxtLink to="/projects/casestudy1">
-            Read case study
-          </NuxtLink>
-        </figure> -->
       </div>
       <NuxtLink to="/projects">
         <button>View my portfolio</button>
@@ -529,7 +515,7 @@
       </ul>
     </div>
     <div id="contact-cta">
-      <h6>I have now graduated and am passionate to build a career in software testing. Please get in touch I am always open to new opportunites</h6>
+      <h6>I have now graduated and am passionate to build a career in software testing. Please feel free to get in touch I am always open to new opportunities</h6>
       <ContactCTA />
     </div>
   </section>
@@ -635,23 +621,11 @@ img.workflow-icons {
 }
 
 #workflow h2:nth-of-type(1) {
-  /* border-bottom: 1px solid rgba(150, 150, 150, 0.5); */
   padding-bottom: 25px;
 }
-/*
-#workflow ul li h3:nth-of-type(1) {
-  display: inline-block;
-  background: #003e27;
-  border-radius: 40px;
-  padding: 10px 15px;
-  color: #00cd81;
-  opacity: .9;
-} */
 
 #workflow div:first-of-type {
   grid-column: 1;
-  /* border-right: 1px solid rgba(150, 150, 150, 0.5); */
-
 }
 
 #workflow div:nth-of-type(2){
@@ -668,9 +642,9 @@ img.workflow-icons {
 }
 
 #my-work div {
-    display: grid;
-    color: #fff;
-    grid-template-columns: 1fr;
+  display: grid;
+  color: #fff;
+  grid-template-columns: 1fr;
 }
 
 #my-work div figure:nth-of-type(1) {
@@ -746,10 +720,6 @@ img.workflow-icons {
   height: 100px;
 }
 
-/* #hobbies ul li:nth-of-type(odd) {
-  padding: 60px;
-} */
-
 #hobbies svg {
   padding-top: 20px;
 }
@@ -772,6 +742,7 @@ img.workflow-icons {
 #contact-cta h6 {
   text-align: center;
   color: #fff;
+  font-weight: 500;
 }
 
 /* MEDIA QUIRIES */

@@ -1,16 +1,16 @@
 <template>
   <section>
     <h1>A little about me</h1>
-    <p>Hey, I'm Clarke Newsham, aspiring devloper and software tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity. Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies. </p>
-    <h3>A career in testing</h3>
-    <p>I am passionate about building a career in software testing and currently seeking out new opportunities were I further develop my technical and test knowledge and flourish as a software tester. I have practical experience of all things testing using TDD and BDD methods of testing on all of my projects, creating test strategies, test automation design and developing test cases using cypress.io. I have gained knowlege and competence in translating product requirements into user stories, creating test strategies, witing test cases and defining acceptance criteria. I am continally looking to enhance my testing skills and have recently been working with modern test suite, Cypress.io to write automated end-to-end tests cases</p>
-    <div>
-      <h5>Check out my cv to find out a little more</h5>
-      <NuxtLink to="https://www.dropbox.com/s/842mmuxygpygfwh/Clarke_Newsham_Resume.pdf?dl=0">
-        <button>View my cv</button>
-      </NuxtLink>
-    </div>
+    <p>Hey, I'm Clarke Newsham, an aspiring developer and software tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity. Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting my hands dirty building side projects and University studies.</p>
     <img src="~/assets/about-hero.jpg">
+    <h2>My next steps</h2>
+    <p>I am passionate about building a career in software testing and currently seeking out new opportunities where I further develop my technical and test knowledge and flourish as a software tester. I have practical experience of all things testing using TDD and BDD methods of testing on all of my projects, creating test strategies, test automation design and developing test cases using cypress.io. I have gained knowledge and competence in translating product requirements into user stories, creating test strategies, writing test cases and defining acceptance criteria. I am continually looking to enhance my testing skills and have recently been working with a modern test suite, Cypress.io to write automated end-to-end tests cases.</p>
+    <div>
+      <h5>Check out my cv to find more</h5>
+      <a href="https://www.dropbox.com/s/842mmuxygpygfwh/Clarke_Newsham_Resume.pdf?dl=0">
+        <button>View my cv</button>
+      </a>
+    </div>
   </section>
 </template>
 
@@ -39,21 +39,23 @@ h1 {
 }
 
 p:nth-of-type(1) {
-  grid-column: 1;
+  grid-column: 1/2;
   margin: 0 auto;
   padding-bottom: 30px;
 }
 p:nth-of-type(2) {
-  grid-column: 1;
-  grid-row: auto;
   margin: 0 auto;
   padding-bottom: 30px;
-  /* grid-row:2; */
+  grid-column: 1/-1;
+
+}
+
+h2 {
+  grid-column: 1/-1;
 }
 
 div {
   grid-column: 1/-1;
-  grid-row: 5;
   text-align: center;
   border-radius: 0.375rem;
   align-items: flex-start;
@@ -71,18 +73,19 @@ div h5 {
 img {
   height: auto;
   max-width: 100%;
-  grid-column: 2;
+  grid-column: 2/-1;
+
   /* width: 550px; */
-  grid-row: 2;
+  margin: 0 auto;
   border-radius: 0.375rem;
-  justify-self: stretch;
+  /* justify-self: stretch; */
 }
 
 @media only screen and (min-width: 1024px) {
     section {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-gap: 10px;
+        grid-gap: 50px;
     }
  }
 </style>
