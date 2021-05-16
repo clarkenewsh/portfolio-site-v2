@@ -24,14 +24,14 @@ button {
   padding: 10px 15px;
   border-radius: 0.375rem;
   font-weight: 700;
-  background: #ccd8d9;
+  background: #00c58e;
   border: none;
   transition: all 0.2s ease;
   margin: 5px;
 }
 
 button a {
-  color: #000;
+  color: #fff;
   font-weight: 700;
   text-decoration: none;
 }

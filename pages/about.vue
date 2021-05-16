@@ -5,7 +5,7 @@
     <img src="~/assets/about-hero.jpg">
     <h2>My next steps</h2>
     <p>I am passionate about building a career in software testing and currently seeking out new opportunities where I further develop my technical and test knowledge and flourish as a software tester. I have practical experience of all things testing using TDD and BDD methods of testing on all of my projects, creating test strategies, test automation design and developing test cases using cypress.io. I have gained knowledge and competence in translating product requirements into user stories, creating test strategies, writing test cases and defining acceptance criteria. I am continually looking to enhance my testing skills and have recently been working with a modern test suite, Cypress.io to write automated end-to-end tests cases.</p>
-    <div>
+    <div class="cv-cta">
       <h5>Check out my cv to find more</h5>
       <a href="https://www.dropbox.com/s/842mmuxygpygfwh/Clarke_Newsham_Resume.pdf?dl=0">
         <button>View my cv</button>
@@ -54,7 +54,7 @@ h2 {
   grid-column: 1/-1;
 }
 
-div {
+.cv-cta {
   grid-column: 1/-1;
   text-align: center;
   border-radius: 0.375rem;

@@ -515,7 +515,7 @@
       </ul>
     </div>
     <div id="contact-cta">
-      <h6>I have now graduated and am passionate to build a career in software testing. Please feel free to get in touch I am always open to new opportunities</h6>
+      <h5>Lest chat. I'm always open to new opportunities!</h5>
       <ContactCTA />
     </div>
   </section>
@@ -578,7 +578,7 @@ section {
   font-weight: bold;
   font-size: inherit;
   border-bottom: 5px solid #A9B6CC;
-  color: #1D5270;
+  color: #00c58e;
 }
 
 #about-me {
@@ -739,10 +739,10 @@ img.workflow-icons {
   margin-bottom: 0 !important;
 }
 
-#contact-cta h6 {
+#contact-cta h5 {
   text-align: center;
   color: #fff;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 /* MEDIA QUIRIES */

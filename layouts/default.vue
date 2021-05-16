@@ -26,7 +26,7 @@ export default {
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -40,7 +40,7 @@ html {
 *:before,
 *:after {
   box-sizing: border-box;
-  line-height: 1.8;
+  line-height: 1.9;
 }
 
 body {
@@ -72,13 +72,14 @@ button {
   border-radius: 0.375rem;
   font-weight: 700;
   margin: 10px 0px;
-  background: #ccd8d9;
+  background: #00c58e;
   border: none;
+  color:#fff;
   transition: all 0.2s ease;
 }
 
 button a {
-  color: #000;
+  color: #fff;
 }
 
 button:hover {

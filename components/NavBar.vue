@@ -52,7 +52,6 @@ nav a  {
   color: #000;
   align-self: center;
   padding: 15px;
-  text-decoration: none;
   font-weight: 500;
   font-size: 120%;
 }
