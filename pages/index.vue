@@ -6,7 +6,7 @@
       </h1>
       <p>I recently graduated in BSc Web Design and Development and am now aspiring to be a Software Tester. I'm passionate about solving real-world problems through development and testing, creating web applications that are accessible to all.</p>
       <ContactCTA />
-      <a href="https://www.dropbox.com/s/842mmuxygpygfwh/Clarke_Newsham_Resume.pdf?dl=0">
+      <a href="https://www.dropbox.com/s/p6x4euktmza4gd8/Clarke_Newsham_Resume.pdf?dl=0">
         <button>View my cv</button>
       </a>
     </div>
