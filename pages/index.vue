@@ -97,7 +97,7 @@
         <figure>
           <h4>Total Swimming Usability Testing Review</h4>
           <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
-          <NuxtLink to="/projects/casestudy3">
+          <NuxtLink to="/projects/">
             Read case study
           </NuxtLink>
         </figure>

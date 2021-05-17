@@ -32,7 +32,7 @@
         <h3>Total Swimming Usability Testing Review</h3>
         <h6>Univeristy Project</h6>
         <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
-        <NuxtLink to="/projects/casestudy3">
+        <NuxtLink to="/projects/">
           <button class="alt-btn">
             Read case study
           </button>
