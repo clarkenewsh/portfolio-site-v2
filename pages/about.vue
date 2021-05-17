@@ -12,7 +12,7 @@
     <h3>What I am working on as we speak</h3>
     <p>Coding live on twitch
     </p> -->
-    <p>Specialising in all things automation testing</p>
+    <!-- <p>Specialising in all things automation testing</p> -->
     <div class="cv-cta">
       <h5>Check out my cv to learn more about me</h5>
       <a href="https://www.dropbox.com/s/p6x4euktmza4gd8/Clarke_Newsham_Resume.pdf?dl=0">
