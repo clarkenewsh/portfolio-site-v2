@@ -7,11 +7,11 @@
     <p>Talk about my uni course, waht i excelled in and projects i worked on highlighting successess</p>
     <h2>My next steps</h2>
     <p>I am passionate about building a career in software testing and currently seeking out new opportunities where I further develop my technical and test knowledge and flourish as a software tester. I have practical experience of all things testing using TDD and BDD methods of testing on all of my projects, creating test strategies, test automation design and developing test cases using cypress.io. I have gained knowledge and competence in translating product requirements into user stories, creating test strategies, writing test cases and defining acceptance criteria. I am continually looking to enhance my testing skills and have recently been working with a modern test suite, Cypress.io to write automated end-to-end tests cases.</p>
-    <h3>Continual Learning</h3>
+    <!-- <h3>Continual Learning</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur neque, voluptates id sit praesentium libero quam impedit, temporibus, enim vero ab saepe molestiae inventore numquam odio. Recusandae inventore hic eligendi!</p>
     <h3>What I am working on as we speak</h3>
     <p>Coding live on twitch
-    </p>
+    </p> -->
     <p>Specialising in all things automation testing</p>
     <div class="cv-cta">
       <h5>Check out my cv to learn more about me</h5>
