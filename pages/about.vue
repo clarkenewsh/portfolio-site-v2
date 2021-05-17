@@ -3,8 +3,8 @@
     <h1>A little about me</h1>
     <p>Hey, I'm Clarke Newsham, an aspiring developer and software tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity. Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting my hands dirty building side projects and University studies.</p>
     <img src="~/assets/about-hero.jpg">
-    <h2>My Univeristy journey</h2>
-    <p>Talk about my uni course, waht i excelled in and projects i worked on highlighting successess</p>
+    <!-- <h2>My Univeristy journey</h2>
+    <p>Talk about my uni course, waht i excelled in and projects i worked on highlighting successess</p> -->
     <h2>My next steps</h2>
     <p>I am passionate about building a career in software testing and currently seeking out new opportunities where I further develop my technical and test knowledge and flourish as a software tester. I have practical experience of all things testing using TDD and BDD methods of testing on all of my projects, creating test strategies, test automation design and developing test cases using cypress.io. I have gained knowledge and competence in translating product requirements into user stories, creating test strategies, writing test cases and defining acceptance criteria. I am continually looking to enhance my testing skills and have recently been working with a modern test suite, Cypress.io to write automated end-to-end tests cases.</p>
     <!-- <h3>Continual Learning</h3>
