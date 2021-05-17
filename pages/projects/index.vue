@@ -5,19 +5,41 @@
     <div>
       <figure>
         <h3>Doggie Walks</h3>
+        <h6>Univeristy Project</h6>
         <p>A real life client brief to design and develop a static website for a local dog-walking service</p>
         <NuxtLink to="/projects/casestudy1">
-          Read case study
+          <button class="alt-btn">
+            Read case study
+          </button>
         </NuxtLink>
-        <a href="https://doggiewalks-site.netlify.app/">View site</a>
+        <a href="https://doggiewalks-site.netlify.app/">
+          <button class="alt-btn">View site</button></a>
       </figure>
       <figure>
         <h3>Responsive Website UI Tester Tool</h3>
+        <h6>Univeristy Project</h6>
         <p>A real-life client brief to create a responsive Website UI Tester Tool</p>
         <NuxtLink to="/projects/casestudy2">
-          Read case study
+          <button class="alt-btn">
+            Read case study
+          </button>
         </NuxtLink>
-        <a href="https://responsive-ui-tester-tool.netlify.app/">View site</a>
+        <a href="https://responsive-ui-tester-tool.netlify.app/">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
+        <h3>Total Swimming Usability Testing Review</h3>
+        <h6>Univeristy Project</h6>
+        <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
+        <NuxtLink to="/projects/casestudy3">
+          <button class="alt-btn">
+            Read case study
+          </button>
+        </NuxtLink>
+        <a href="">
+          <button class="alt-btn">View site</button>
+        </a>
       </figure>
     </div>
   </section>
@@ -78,7 +100,11 @@ section div {
 
 a {
   margin: 25px;
-  font-weight: 500;
+  /* font-weight: 500; */
+}
+
+a:hover{
+  color: #00c58e;
 }
 
 figure {
@@ -93,6 +119,13 @@ figure:hover{
   border: none;
   box-shadow: 0 10px 40px rgb(0 0 0 / 20%);
   transition: all 0.4s ease;
+}
+
+h6 {
+  text-transform: uppercase;
+  font-weight: 500;
+  padding-top: 0;
+  color: #75928E;
 }
 
 #workflow {

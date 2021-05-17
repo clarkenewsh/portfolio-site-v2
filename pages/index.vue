@@ -5,9 +5,11 @@
         Hello, I'm Clarke
       </h1>
       <p>I recently graduated in BSc Web Design and Development and am now aspiring to be a Software Tester. I'm passionate about solving real-world problems through development and testing, creating web applications that are accessible to all.</p>
-      <ContactCTA />
+      <a href="mailto:clarke.newsham@gmail.com">
+        <button class="alt-btn">Get in touch</button>
+      </a>
       <a href="https://www.dropbox.com/s/p6x4euktmza4gd8/Clarke_Newsham_Resume.pdf?dl=0">
-        <button>View my cv</button>
+        <button class="alt-btn">View my cv</button>
       </a>
     </div>
     <img class="hero-banner" src="~/assets/download.png">
@@ -89,6 +91,13 @@
           <h4>Responsive Website UI Tester Tool</h4>
           <p>A single-page web app that allows for testing of responsive websites on multiple screen sizes</p>
           <NuxtLink to="/projects/casestudy2">
+            Read case study
+          </NuxtLink>
+        </figure>
+        <figure>
+          <h4>Total Swimming Usability Testing Review</h4>
+          <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
+          <NuxtLink to="/projects/casestudy3">
             Read case study
           </NuxtLink>
         </figure>
@@ -665,7 +674,7 @@ img.workflow-icons {
 }
 
 #my-work div figure:nth-of-type(3) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/popups-thumb.png');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb-1.png');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
