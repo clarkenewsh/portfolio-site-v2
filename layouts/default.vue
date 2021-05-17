@@ -67,6 +67,26 @@ a {
   font-weight: 500;
 }
 
+.alt-btn {
+  padding: 10px 15px;
+  border-radius: 0.375rem;
+  font-weight: 700;
+  margin: 10px 0px;
+  border: 2px solid #00c58e;
+  transition: all 0.2s ease;
+  background: #fff;
+  color: #00c58e;
+}
+
+.alt-btn a {
+  color: #00c58e;
+  text-decoration: none;
+}
+
+.alt-btn:hover {
+  transform: translateY(4px);
+}
+
 button {
   padding: 10px 15px;
   border-radius: 0.375rem;
