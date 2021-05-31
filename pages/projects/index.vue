@@ -1,7 +1,7 @@
 <template>
   <section>
     <h1>Project case studies</h1>
-    <p>A repository of some of my recent project work with links to the live site and GitHub repo. Also, check out my development workflow below.</p>
+    <p>A repository of some of my recent project work with links to the live site and GitHub repo.</p>
     <div>
       <figure>
         <h3>Doggie Walks</h3>
@@ -31,8 +31,34 @@
       <figure>
         <h3>Total Swimming Usability Testing Review</h3>
         <h6>Univeristy Project</h6>
-        <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
-        <NuxtLink to="/projects/">
+        <p>A usability testing review and analysis conducted on Total Swimmings current webiste using variouse methods of data analysis, usability testing, acccessbility and performace testing.</p>
+        <NuxtLink to="/projects/casestudy3">
+          <button class="alt-btn">
+            Read case study
+          </button>
+        </NuxtLink>
+        <a href="">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
+        <h3>SpaceX Data Dashboard</h3>
+        <h6>Side-project (live prototype)</h6>
+        <p>A SpaceX Api client showing live data on all things rockets and space travel.</p>
+        <NuxtLink to="/projects/casestudy3">
+          <button class="alt-btn">
+            Read case study
+          </button>
+        </NuxtLink>
+        <a href="">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
+        <h3>Virtual Learning Platform</h3>
+        <h6>Side-project (live prototype)</h6>
+        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
+        <NuxtLink to="/projects/casestudy3">
           <button class="alt-btn">
             Read case study
           </button>

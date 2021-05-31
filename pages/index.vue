@@ -4,7 +4,8 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I recently graduated in BSc Web Design and Development and am now aspiring to be a Software Tester. I'm passionate about solving real-world problems through development and testing, creating web applications that are accessible to all.</p>
+      <p>I am a BSc (Hons) in Web Design &#x26; Development and now an aspiring Software Tester. I'm super passionate about solving real-world problems through development and testing and now seeking new opportunities to flourish as an automation tester.
+      </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
       </a>
@@ -17,8 +18,8 @@
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, aspiring Developer and Software Tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career in software testing, in particular automation testing which I will continue to learn this year. I have now graduated and am currently seeking out new opportunities where I further develop and flourish as a software tester.</p>
+        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
+        <p>I am passionate about building a career in software testing and have gained significant practical experience in both manual and automation testing in both my University work and my side-projects. I have a particular passion for automation testing and have gained competence in translating product requirements into user stories, creating test strategies, defining acceptance criteria and test scenarios. I embrace both TDD, BDD  &#x26; end-to-end automation testing using Cypress, which I will continue to learn throughout this summer through continual learning, engaging in online courses and crowdsourced testing projects. </p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -71,7 +72,7 @@
               <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z" />
             </svg>
             <h4>Testing</h4>
-            <p>Embracing automation testing creating test strategies and test cases using TDD, BDD, manual &#x26; usability testing</p>
+            <p>Embracing automation testing, creating test strategies and test cases using TDD, BDD, manual &#x26; usability testing</p>
           </li>
         </ul>
       </div>
@@ -527,7 +528,7 @@
       </ul>
     </div>
     <div id="contact-cta">
-      <h5>Lest chat. I'm always open to new opportunities!</h5>
+      <h5>I'm always open to new opportunities!</h5>
       <ContactCTA />
     </div>
   </section>
@@ -629,7 +630,6 @@ img.workflow-icons {
   height: auto;
   max-width: 100%;
   width: 120px;
-
 }
 
 #workflow h2:nth-of-type(1) {
