@@ -32,9 +32,9 @@
         <h3>Total Swimming Usability Testing Review</h3>
         <h6>Univeristy Project</h6>
         <p>A usability testing review and analysis conducted on Total Swimmings current webiste using variouse methods of data analysis, usability testing, acccessbility and performace testing.</p>
-        <NuxtLink to="/projects/casestudy3">
+        <NuxtLink to="/projects/">
           <button class="alt-btn">
-            Read case study
+            Case study coming soon
           </button>
         </NuxtLink>
         <a href="">
@@ -45,9 +45,9 @@
         <h3>SpaceX Data Dashboard</h3>
         <h6>Side-project (live prototype)</h6>
         <p>A SpaceX Api client showing live data on all things rockets and space travel.</p>
-        <NuxtLink to="/projects/casestudy3">
+        <NuxtLink to="/projects/">
           <button class="alt-btn">
-            Read case study
+            Case study coming soon
           </button>
         </NuxtLink>
         <a href="">
@@ -58,9 +58,9 @@
         <h3>Virtual Learning Platform</h3>
         <h6>Side-project (live prototype)</h6>
         <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
-        <NuxtLink to="/projects/casestudy3">
+        <NuxtLink to="/projects/">
           <button class="alt-btn">
-            Read case study
+            Case study coming soon
           </button>
         </NuxtLink>
         <a href="">
@@ -112,7 +112,7 @@ export default {
 <style scoped>
 section {
   grid-column: 2;
-  margin: 0 auto;
+  margin: 50px auto;
   text-align: center;
 }
 

@@ -528,7 +528,7 @@
       </ul>
     </div>
     <div id="contact-cta">
-      <h5>I'm always open to new opportunities!</h5>
+      <h5>I'm always open to new opportunities</h5>
       <ContactCTA />
     </div>
   </section>
