@@ -26,7 +26,7 @@ export default {
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -40,11 +40,11 @@ html {
 *:before,
 *:after {
   box-sizing: border-box;
-  line-height: 1.9;
+  line-height: 1.8;
 }
 
 body {
-  color: #444;
+  color: #000;
 }
 
 /* Mobile first css grid styles */
