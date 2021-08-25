@@ -19,7 +19,7 @@
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, development and reserach techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career as a user researcher and have gained significant practical experience of this with my University work and my side-projects. I will continue to learn throughout this year through continual learning and engaging in online courses and personal passion projects. </p>
+        <p>I am passionate about building a career in Web Development and Testing and have gained significant practical experience of this with my University work and my side-projects. I will continue to learn throughout this year through continual learning and engaging in online courses and personal passion projects. </p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
