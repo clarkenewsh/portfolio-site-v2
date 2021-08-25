@@ -4,7 +4,7 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>I am a BSc (Hons) in Web Design &#x26; Development and now an aspiring Software Tester. I'm super passionate about solving real-world problems through development and testing and now seeking new opportunities to flourish as an automation tester.
+      <p>BSc (Hons) Web Design &#x26; Development. I'm super passionate about solving real-world problems through the realm of User research, UX Design and Web Development.
       </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
@@ -17,9 +17,9 @@
     <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
-        <p>Hey, I'm Clarke Newsham, aspiring Developer and Software Tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career in software testing and have gained significant practical experience in both manual and automation testing in both my University work and my side-projects. I have a particular passion for automation testing and have gained competence in translating product requirements into user stories, creating test strategies, defining acceptance criteria and test scenarios. I embrace both TDD, BDD  &#x26; end-to-end automation testing using Cypress, which I will continue to learn throughout this summer through continual learning, engaging in online courses and crowdsourced testing projects. </p>
+        <p>Hey, I'm Clarke Newsham, aspiring User Researcher from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
+        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, development and reserach techniques by getting hands dirty building side projects and University studies.</p>
+        <p>I am passionate about building a career as a user researcher and have gained significant practical experience with my University work and my side-projects. I have a particular passion for automation testing and have gained competence in translating product requirements into user stories, creating test strategies, defining acceptance criteria and test scenarios. I will continue to learn throughout this year through continual learning and engaging in online courses and personal passion projects. </p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>

@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h1>A little about me</h1>
+    <!-- <h1>A little about me</h1>
     <div class="split-block">
       <div>
         <h3>I love tech.</h3>
@@ -16,7 +16,7 @@
         <p>I have gained knowledge and competence in translating product requirements into user stories, creating test strategies, writing test cases and defining acceptance criteria. I am continually looking to enhance my testing skills and have recently been working with a modern test suite, Cypress.io to write automated end-to-end tests cases.</p>
         <img src="~/assets/about-hero.jpg">
       </div>
-    </div>
+    </div> -->
     <!-- <h2>My Univeristy journey</h2>
     <p>Talk about my uni course, waht i excelled in and projects i worked on highlighting successess</p> -->
     <!-- <h3>Continual Learning</h3>
@@ -25,12 +25,12 @@
     <p>Coding live on twitch
     </p> -->
     <!-- <p>Specialising in all things automation testing</p> -->
-    <div class="cv-cta">
+    <!-- <div class="cv-cta">
       <h5>Check out my cv to learn more about me</h5>
       <a href="https://www.dropbox.com/s/p6x4euktmza4gd8/Clarke_Newsham_Resume.pdf?dl=0">
         <button>View my cv</button>
       </a>
-    </div>
+    </div> -->
   </section>
 </template>
 
