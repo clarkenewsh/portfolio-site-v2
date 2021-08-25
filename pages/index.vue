@@ -4,7 +4,7 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>BSc (Hons) Web Design &#x26; Development. I'm super passionate about solving real-world problems through the realm of User research, UX Design and Web Development.
+      <p>BSc (Hons) Web Design &#x26; Development. I'm super passionate about solving real-world problems through the realm of User Research, UX Design and Web Development.
       </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
