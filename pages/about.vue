@@ -5,9 +5,9 @@
       <div>
         <h3>I love tech.</h3>
         <h3>I want to make a difference.</h3>
-        <h3>Passionate about software testing.</h3>
+        <h3>My purpose is to serve others.</h3>
         <h3>Always learning.</h3>
-        <h3>I love all things motosport.</h3>
+        <h3>Passionate about Web Accessibility.</h3>
       </div>
       <div>
         <p>Hey, I'm Clarke Newsham, an aspiring developer and software tester from the North West, UK. I'm super passionate about technology and how we can embrace it to develop great things for humanity. Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. </p>
