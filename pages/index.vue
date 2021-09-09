@@ -4,7 +4,8 @@
       <h1>
         Hello, I'm Clarke
       </h1>
-      <p>BSc (Hons) Web Design &#x26; Development. I'm super passionate about solving real-world problems through the realm of User Research, UX Design and Web Development.
+      <p>
+        BSc (Hons) Web Design &#x26; Development. I'm super passionate about solving real-world problems through the realm of User Research, UX Design and Web Development.
       </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
@@ -17,9 +18,10 @@
     <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
-        <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently Graduated with 1st class, BSc (Hons) in Web Design and Development, full of curiosity with a genuine passion for Technology. I'm super passionate about technology and how we can embrace it to develop great things for humanity.</p>
+        <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently Graduated with 1st class, BSc (Hons) in Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, development and reserach techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career in User Research, UX Design and Usability Testing and have gained significant practical experience of this with my University work and my side-projects. I will continue to learn throughout this year through continual learning and engaging in online courses and personal passion projects. </p>
+        <p>I am passionate about building a career in User Research, UX Design and Usability Testing and  I have gained significant practical experience in applying UX Design principles, understanding users needs, behaviours & motivation, quantitative & qualitative research methods, data visualization and presenting research findings. I embrace continual online learning and now seeking an opportunity I can further develop my user research skills and flourish in a career as a User Researcher.</p>
+        </p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -82,23 +84,23 @@
       <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more.</p>
       <div>
         <figure>
-          <h4>Doggie Walks</h4>
-          <p>A client brief to develop a static website for a local dog-walking service</p>
-          <NuxtLink to="/projects/casestudy1">
+          <h4>Total Swimming Usability Testing Audit</h4>
+          <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
+          <NuxtLink to="/projects/">
             Read case study
           </NuxtLink>
         </figure>
         <figure>
-          <h4>Responsive Website UI Tester Tool</h4>
+          <h4>UX Design Case Study - E-Learning Platform</h4>
           <p>A single-page web app that allows for testing of responsive websites on multiple screen sizes</p>
           <NuxtLink to="/projects/casestudy2">
             Read case study
           </NuxtLink>
         </figure>
         <figure>
-          <h4>Total Swimming Usability Testing Review</h4>
-          <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
-          <NuxtLink to="/projects/">
+          <h4>Doggie Walks</h4>
+          <p>A client brief to develop a static website for a local dog-walking service</p>
+          <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
         </figure>
