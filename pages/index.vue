@@ -19,9 +19,8 @@
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently Graduated with 1st class, BSc (Hons) in Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, development and reserach techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career in User Research, UX Design and Usability Testing and  I have gained significant practical experience in applying UX Design principles, understanding users needs, behaviours & motivation, quantitative & qualitative research methods, data visualization and presenting research findings. I embrace continual online learning and now seeking an opportunity I can further develop my user research skills and flourish in a career as a User Researcher.</p>
-        </p>
+        <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, user research, development and usability testing techniques by getting hands dirty building side projects and University studies.</p>
+        <p>I am passionate about building a career in User Research, UX Design and Usability Testing and have gained significant practical experience in applying UX Design and UX Research principles, understanding users needs, behaviours and motivation, quantitative and qualitative research methods, data visualization and presenting research findings. I embrace continual online learning and now seeking an opportunity I can further develop my user research skills and flourish in a career as a User Researcher.</p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
