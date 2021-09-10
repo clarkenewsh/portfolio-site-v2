@@ -10,9 +10,9 @@
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
       </a>
-      <!-- <a href="https://www.dropbox.com/s/p6x4euktmza4gd8/Clarke_Newsham_Resume.pdf?dl=0">
+      <a href="https://www.dropbox.com/s/yajwkf98mtxn2fy/Clarke_Newsham_CV.pdf?dl=0">
         <button class="alt-btn">View my cv</button>
-      </a> -->
+      </a>
     </div>
     <img class="hero-banner" src="~/assets/download.png">
     <div id="about-me">
@@ -28,7 +28,7 @@
     </div>
     <div id="workflow">
       <div>
-        <h2>Design &#x26; Development skills</h2>
+        <h2>Design &#x26; Development Skills</h2>
       </div>
       <div>
         <ul>

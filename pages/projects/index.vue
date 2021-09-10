@@ -1,7 +1,11 @@
 <template>
   <section>
-    <h1>Project case studies</h1>
-    <p>A repository of some of my recent project work with links to the case study, live site and GitHub repo.</p>
+    <h1>Project Case Studies</h1>
+    <p>A repository of some of my recent project work with links to the case study's, live sites and GitHub repos.</p>
+    <div id="howIWork">
+      <h2>How I work</h2>
+      <img src="~/assets/workflow.png" alt="My worflow illutration">
+    </div>
     <div>
       <figure>
         <h3>Usability Testing Audit - Total Swimming </h3>
@@ -17,12 +21,12 @@
         </a>
       </figure>
       <figure>
-        <h3>UX Case Study - Virtual Learning Environment </h3>
+        <h3>UX Case Study - Virtual Learning Environment</h3>
         <h6>Univeristy Project</h6>
         <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment </p>
         <NuxtLink to="/projects/">
           <button class="alt-btn">
-            Read case study
+            Case study coming soon
           </button>
         </NuxtLink>
         <a href="https://doggiewalks-site.netlify.app/">
@@ -69,7 +73,7 @@
       <figure>
         <h3>User Research Case Study </h3>
         <h6>Passion Project - Live Project</h6>
-        <p>A User Reserach Project</p>
+        <p>A live User Reserach Project and case studies focusing on a current social issue</p>
         <NuxtLink to="/projects/">
           <button class="alt-btn">
             Case study coming soon
@@ -164,6 +168,15 @@ h6 {
   font-weight: 500;
   padding-top: 0;
   color: #75928E;
+}
+
+#howIWork {
+  margin: 150px 0px;
+}
+
+#howIWork img {
+  max-width: 100%;
+  height: auto;
 }
 
 #workflow {
