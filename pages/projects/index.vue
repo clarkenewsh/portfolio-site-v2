@@ -1,10 +1,10 @@
 <template>
   <section>
     <h1>Project case studies</h1>
-    <p>A repository of some of my recent project work with links to the live site and GitHub repo.</p>
+    <p>A repository of some of my recent project work with links to the case study, live site and GitHub repo.</p>
     <div>
       <figure>
-        <h3>Total Swimming Usability Testing Review</h3>
+        <h3>Usability Testing Audit - Total Swimming </h3>
         <h6>Univeristy Project</h6>
         <p>A usability testing review and analysis conducted on Total Swimmings current webiste using variouse methods of data analysis, usability testing, acccessbility and performace testing.</p>
         <NuxtLink to="/projects/">
@@ -17,7 +17,7 @@
         </a>
       </figure>
       <figure>
-        <h3>UX Design Case Study</h3>
+        <h3>UX Case Study - Virtual Learning Environment </h3>
         <h6>Univeristy Project</h6>
         <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment </p>
         <NuxtLink to="/projects/">
