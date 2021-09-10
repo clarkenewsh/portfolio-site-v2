@@ -29,7 +29,7 @@
             Case study coming soon
           </button>
         </NuxtLink>
-        <a href="https://doggiewalks-site.netlify.app/">
+        <a href="">
           <button class="alt-btn">View site</button></a>
       </figure>
       <figure>
