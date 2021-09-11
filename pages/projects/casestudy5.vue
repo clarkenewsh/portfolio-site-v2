@@ -8,33 +8,48 @@
       </p>
       <div>
         <h2>Methodology and Process</h2>
+        <p>Prior to completing the case study a suitable UX Research and UX Design methodology was developed to provide a effective solution to carrying out the project</p>
+        <ul>
+          <li>Empathise</li>
+          <li>Define</li>
+          <li>Ideate</li>
+          <li>Prototype</li>
+          <li>Test</li>
+        </ul>
       </div>
     </div>
     <div>
       <h2>Empathise</h2>
       <ul>
-        <li>Businnes golas vs user goals</li>
-        <li>Understand user</li>
-        <li>survey</li>
-        <li>Interviews</li>
+        <li>Mind Mapping - Businnes golas vs user goals</li>
+        <img src="~/assets/mind-map.png" alt="Mind Mapping illutration identifying user and busniess goals">
+        <li>Survey with Ethical considerations</li>
+        <img src="~/assets/Question1.png" alt="Question 1 - Survey results displayed bar chart">
+        <li>User Personas</li>
+        <img src="~/assets/persona1-img.png" alt="User persona 1 modelling potential user">
+        <img src="~/assets/persona2-img.png" alt="User persona 2 modelling potential user">
+        <li>Feature Prioritisation Mapping</li>
+        <img src="~/assets/feature-mapping-img.png" alt="Feature prioritisation map displayed in cross axis diagram">
       </ul>
     </div>
     <div>
       <h2>Define</h2>
       <ul>
-        <li>Data anlaysis</li>
+        <li>Lab Testing - Think Aloud Test</li>
+        <li>Data Anlaysis</li>
+        <li>Data Clustering and Visulisation</li>
       </ul>
     </div>
     <div>
       <h2>Ideate</h2>
       <ul>
+        <li>Proposed Recommendations</li>
         <li>Sketches and wireframes</li>
         <li>Paper prototype</li>
       </ul>
     </div>
     <div>
       <h2>Prototype</h2>
-
       <ul>
         <li>Paper prototype</li>
         <li>low res</li>
@@ -45,7 +60,7 @@
       <h2>Test</h2>
       <ul>
         <li>A/B Testing</li>
-        <li>heuristic evaluation</li>
+        <li>Cognitive Walk-through</li>
       </ul>
     </div>
     <div>

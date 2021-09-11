@@ -11,7 +11,7 @@
         <button class="alt-btn">Get in touch</button>
       </a>
       <a href="https://www.dropbox.com/s/yajwkf98mtxn2fy/Clarke_Newsham_CV.pdf?dl=0">
-        <button class="alt-btn">View my cv</button>
+        <button class="alt-btn">View my CV</button>
       </a>
     </div>
     <img class="hero-banner" src="~/assets/download.png">
@@ -83,12 +83,13 @@
       <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more.</p>
       <div>
         <figure>
-          <h4>Total Swimming Usability Testing Audit</h4>
-          <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
+          <h4>Doggie Walks</h4>
+          <p>A client brief to develop a static website for a local dog-walking service</p>
           <NuxtLink to="/projects">
             Read case study
           </NuxtLink>
         </figure>
+
         <figure>
           <h4>UX Design Case Study - E-Learning Platform</h4>
           <p>A single-page web app that allows for testing of responsive websites on multiple screen sizes</p>
@@ -97,8 +98,8 @@
           </NuxtLink>
         </figure>
         <figure>
-          <h4>Doggie Walks</h4>
-          <p>A client brief to develop a static website for a local dog-walking service</p>
+          <h4>Total Swimming Usability Testing Audit</h4>
+          <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
           <NuxtLink to="/projects">
             Read case study
           </NuxtLink>
