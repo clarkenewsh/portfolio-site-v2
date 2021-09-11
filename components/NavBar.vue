@@ -14,9 +14,9 @@
     </button>
     <div id="navbarNavAltMarkup" class="flex-end collapse navbar-collapse">
       <div class="navbar-nav">
-        <NuxtLink to="/about">
+        <!-- <NuxtLink to="/about">
           About
-        </NuxtLink>
+        </NuxtLink> -->
         <NuxtLink to="/projects">
           Portfolio
         </NuxtLink>
