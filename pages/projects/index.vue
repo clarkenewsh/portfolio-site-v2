@@ -13,7 +13,7 @@
         <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment </p>
         <NuxtLink to="/projects/casestudy5">
           <button class="alt-btn">
-            Case study coming soon
+            Read case study
           </button>
         </NuxtLink>
         <a href="">
