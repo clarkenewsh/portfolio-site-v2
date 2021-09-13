@@ -89,7 +89,7 @@
         <ol>
           <strong>
             <li>To simplify the process of locating timetable related materials without having to tackle complex navigation paths in the ’Organisations Tab’ by relocating the weekly overview student timetable to the VLE Home Page.</li>
-            <li>rovide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for contunial updates of their semester progress (Brian Weimers thinking behind the three P’s of e-learning engagement).</li>
+            <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for contunial updates of their semester progress (Brian Weimers thinking behind the three P’s of e-learning engagement).</li>
           </strong>
         </ol>
       </ul>
