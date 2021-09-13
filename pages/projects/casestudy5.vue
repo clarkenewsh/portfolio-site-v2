@@ -77,9 +77,6 @@
         </p>
         <img src="~/assets/test1-click-time-data.png" alt="Time count results displayed in data table">
         <img src="~/assets/test1-all-data1.png" alt="Time count results displayed in data table">
-        <li><h4>&#x2758; Feature Prioritisation Mapping</h4></li>
-        <p>The ideas generated from the discovery phase were brought forward and bundled into a feature prioritisation illustration. Figure 3 below sets out the proposed features and or concepts of which have been ideated and developed throughout conducting direct user research and wider research on engaging learning environments. The chart has two axis, low to high effort on the x-axis and high impact to low impact on the y-axis. Features where then mapped out upon both access to gauge which feature would essentially pro- vide a high import with medium to minimal effort. The features of which fell into this category where outlined of which a final concept would be developed from these features.</p>
-        <img src="~/assets/feature-mapping-img.png" alt="Feature prioritisation map displayed in cross axis diagram">
         <li>
           <h4>&#x2758; Inisghts and Recommendations</h4>
         </li>
@@ -97,9 +94,12 @@
     <div>
       <h2>Ideate</h2>
       <ul>
+        <li><h4>&#x2758; Feature Prioritisation Mapping</h4></li>
+        <p>The ideas generated from the discovery phase were brought forward and bundled into a feature prioritisation illustration. Figure 3 below sets out the proposed features and or concepts of which have been ideated and developed throughout conducting direct user research and wider research on engaging learning environments. The chart has two axis, low to high effort on the x-axis and high impact to low impact on the y-axis. Features where then mapped out upon both access to gauge which feature would essentially pro- vide a high import with medium to minimal effort. The features of which fell into this category where outlined of which a final concept would be developed from these features.</p>
+        <img src="~/assets/feature-mapping-img.png" alt="Feature prioritisation map displayed in cross axis diagram">
         <li><h4>&#x2758; Proposed Recommendations</h4></li>
         <p>A set of proposed recommendations were created of which the knowledge gained from user research, user testing (think-aloud protocol) and exist- ing case studies and key principles around user experience principles for e-learning environments (VLE) were considered in conjunction. The recommendations would therefore be designed to compliment the direct user research and testing conducted in this case study and credible existing research around VLE’s to form a solid recommendation to improve the user experience.</p>
-        <p>The basis of the recommendations proposed to improve the user experi- ence are that to align with the problem statement outlined in section 1.1 and are as follows.</p>
+        <p>The basis of the recommendations proposed to improve the user experience are that to align with the problem statement outlined in section 1.1 and are as follows.</p>
         <ul>
           <li>To simplify the process of locating timetable related materials without having to tackle complex navigation paths in the ’Organisations Tab’ by relocating the weekly overview student timetable to the VLE Home Page</li>
           <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for contunial updates of their semester progress (Brian Weimers thinking behind the three P’s of e-learning engagement)</li>
