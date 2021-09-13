@@ -107,9 +107,9 @@
         <li><h4>&#x2758; Sketches and Wireframes</h4></li>
         <p>With the desired recommendations in place low-fidelity mock-ups in the form of wire frames were drafted to provide an low level design solution to overcome the user experience issues exhibited along with the recommendations outlined above</p>
         <p>he low-fidelity mock-ups designed in line with said recommendations. At this stage design thinking was rapid and several solution were sketched, four in total, which would then be refined to produce a final prototype to used for phase two user testing.</p>
-        <!-- <img src="~/assets/wireframe-1.jpg" alt="">
+        <img src="~/assets/wireframe-1.jpg" alt="">
         <img src="~/assets/wireframe-2.jpg" alt="">
-        <img src="~/assets/wireframe-3.jpg" alt=""> -->
+        <img src="~/assets/wireframe-3.jpg" alt="">
       </ul>
     </div>
     <div>
