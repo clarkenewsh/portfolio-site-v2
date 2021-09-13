@@ -16,8 +16,6 @@
             Read case study
           </button>
         </NuxtLink>
-        <a href="">
-          <button class="alt-btn">View site</button></a>
       </figure>
       <figure>
         <h3>Usability Testing Audit - Total Swimming </h3>
@@ -27,9 +25,6 @@
           <button class="alt-btn">
             Read case study
           </button>
-        </a>
-        <a href="">
-          <button class="alt-btn">View site</button>
         </a>
       </figure>
       <figure>
