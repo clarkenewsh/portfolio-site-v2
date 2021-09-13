@@ -2,6 +2,7 @@
   <section>
     <div>
       <h1>UX Case Study - Virtual Learning Environment</h1>
+      <img class="banner-img" src="~/assets/blackboard.jpeg" alt="Blackboard Logo banner">
       <h4>&#x2758; Case Study Overview</h4>
       <p>
         A UX case study project conducted on educational Virtual Learning Environment, named Blackboard. The user based case study was was broken down into three key phases; Firstly addressing and identifying issues with the user experience of Blackboard VLE and to understand the behaviours and motivations of its users by conducting user research, UX analyses and lab based user testing. An analysis of the gathered data produced from user dicovery and user testing will be anlysed to uncover findings to propose a series of modifications that will improve the user experience. The case study will showcase a second phase of user testing based upon the low fidelity prototypes created from the in sights and findings uneratherd within the dicovery phase.
@@ -47,7 +48,7 @@
         <p>
           A mind mapping exercise was conducted to further gather ideas and visualise what was what was genuinely important when e-learning/Virtual Learning Environments are concerned. The mind mapping exercises contained two main ideas; What was important to Virtual Learning Environments in gen- eral, what is important to the user. It is important to align these both ideas of the user and ideas of the business/service of which the users are engaging with.
         </p>
-        <img src="~/assets/mind-map.png" alt="Mind Mapping illutration identifying user and busniess goals">
+        <img class="banner-img" src="~/assets/mind-map.png" alt="Mind Mapping illutration identifying user and busniess goals">
       </ul>
     </div>
     <div>
@@ -103,7 +104,7 @@
           <li>To simplify the process of locating timetable related materials without having to tackle complex navigation paths in the ’Organisations Tab’ by relocating the weekly overview student timetable to the VLE Home Page</li>
           <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for contunial updates of their semester progress (Brian Weimers thinking behind the three P’s of e-learning engagement)</li>
         </ul>
-        <li><h4>Sketches and Wireframes</h4></li>
+        <li><h4>&#x2758; Sketches and Wireframes</h4></li>
         <p>With the desired recommendations in place low-fidelity mock-ups in the form of wire frames were drafted to provide an low level design solution to overcome the user experience issues exhibited along with the recommendations outlined above</p>
         <p>he low-fidelity mock-ups designed in line with said recommendations. At this stage design thinking was rapid and several solution were sketched, four in total, which would then be refined to produce a final prototype to used for phase two user testing.</p>
         <!-- <img src="~/assets/wireframe-1.jpg" alt="">
@@ -184,6 +185,17 @@ section > div {
 
 h2 {
     padding-bottom: 15px;
+    padding-top: 65px;
+}
+
+h4 {
+    padding-top:45px;
+}
+
+.banner-img {
+    max-width: 100%;
+    height: auto;
+    width: 700px;
 }
 
 img {
