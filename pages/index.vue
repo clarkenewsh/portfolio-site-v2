@@ -92,7 +92,7 @@
 
         <figure>
           <h4>UX Design Case Study - E-Learning Platform</h4>
-          <p>A single-page web app that allows for testing of responsive websites on multiple screen sizes</p>
+          <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment </p>
           <NuxtLink to="/projects">
             Read case study
           </NuxtLink>
