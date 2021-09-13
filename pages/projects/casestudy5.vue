@@ -26,9 +26,9 @@
       </div>
     </div>
     <div>
-      <h2> Disovery and Empathise</h2>
+      <h2>Disovery and Empathise</h2>
       <ul>
-        <li><h4>&#x2758; User Survey and Data Analysis to uncover Insights</h4></li>
+        <li><h4>&#x2758; User Survey and Data Analysis</h4></li>
         <p>
           The first form of user research conducted was a Blackboard user survey, created and circulated to ten direct users of Blackboard. The survey was circulated to primarily University Computer Science students all of varying ages and year of study. The aim of said survey was to gain an general oversight of its regular users, their habits and reasons for use, frustrations they encounter in completing these day to day tasks in improvements they wish to see to easier complete their these common task.
         </p>
