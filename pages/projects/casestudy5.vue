@@ -97,7 +97,7 @@
       <h2>Ideate</h2>
       <ul>
         <li><h4>&#x2758; Proposed Recommendations</h4></li>
-        <p>A set of proposed recommendations were created of which the knowledge gained from user research, user testing (think-aloud protocol) and exist- ing case studies and key principles around user experience principles for e-learning environments (VLE) were considered in conjunction. The rec- ommendations would therefore be designed to compliment the direct user research and testing conducted in this case study and credible existing re- search around VLE’s to form a solid recommendation to improve the user experience.</p>
+        <p>A set of proposed recommendations were created of which the knowledge gained from user research, user testing (think-aloud protocol) and exist- ing case studies and key principles around user experience principles for e-learning environments (VLE) were considered in conjunction. The recommendations would therefore be designed to compliment the direct user research and testing conducted in this case study and credible existing research around VLE’s to form a solid recommendation to improve the user experience.</p>
         <p>The basis of the recommendations proposed to improve the user experi- ence are that to align with the problem statement outlined in section 1.1 and are as follows.</p>
         <ul>
           <li>To simplify the process of locating timetable related materials without having to tackle complex navigation paths in the ’Organisations Tab’ by relocating the weekly overview student timetable to the VLE Home Page</li>
@@ -116,7 +116,7 @@
       <ul>
         <li><h4>&#x2758; Paper Prototype</h4></li>
         <p>
-          The most effective design features from the low fidelity prototypes were re- fined into a final low fidelity prototype of which was carried forward and used in a cognitive walkabout to test the proposed recommendations.
+          The most effective design features from the low fidelity prototypes were refined into a final low fidelity prototype of which was carried forward and used in a cognitive walkabout to test the proposed recommendations.
         </p>
         <img src="~/assets/prototype-1.jpg" alt="">
         <img src="~/assets/prototype-2.jpg" alt="">
@@ -136,10 +136,10 @@
         <img src="~/assets/cognitive-test-data.png" alt="">
         <img src="~/assets/cognative-click-count.png" alt="">
         <p>
-          The data gathered from phase two testing was further broken down and analysed of which was desired to support the research aim and problem statement. The data gathered from phase 1 was analysed alongside phase two testing were direct comparisons could be made against the click count and time taken to complete the task data through the use of A/B Testing. Figure 15 below shows the click count data recorded for the cognitive walk- through. The comparison to be made with the click counts recorded for phase one testing, clicks were reduced by an average of approximately 3 clicks.
+          The data gathered from phase two testing was further broken down and analysed of which was desired to support the research aim and problem statement. The data gathered from phase 1 was analysed alongside phase two testing were direct comparisons could be made against the click count and time taken to complete the task data through the use of A/B Testing. Figure 15 below shows the click count data recorded for the cognitive walk-through. The comparison to be made with the click counts recorded for phase one testing, clicks were reduced by an average of approximately 3 clicks.
         </p>
         <p>
-          A selection of questions were drafted of which would then document the experiences the test participant encountered while completing the task. Fig- ure 16 below displays the question measured against for said test. The ques- tions answered were all of positive nature where the user did not have any significant issues upon understanding the task at hand and completing the task without any prompts.
+          A selection of questions were drafted of which would then document the experiences the test participant encountered while completing the task. Figure below displays the question measured against for said test. The questions answered were all of positive nature where the user did not have any significant issues upon understanding the task at hand and completing the task without any prompts.
         </p>
       </ul>
     </div>
