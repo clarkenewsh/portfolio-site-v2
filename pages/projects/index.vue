@@ -23,11 +23,11 @@
         <h3>Usability Testing Audit - Total Swimming </h3>
         <h6>Univeristy Project</h6>
         <p>A usability testing review and analysis conducted on Total Swimmings current webiste using variouse methods of data analysis, usability testing, acccessbility and performace testing.</p>
-        <NuxtLink to="/projects/">
+        <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">
           <button class="alt-btn">
-            Case study coming soon
+            Read case study
           </button>
-        </NuxtLink>
+        </a>
         <a href="">
           <button class="alt-btn">View site</button>
         </a>
