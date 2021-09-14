@@ -85,7 +85,7 @@
         <figure>
           <h4>Doggie Walks</h4>
           <p>A client brief to develop a static website for a local dog-walking service</p>
-          <NuxtLink to="/projects">
+          <NuxtLink to="/projects/casestudy1">
             Read case study
           </NuxtLink>
         </figure>
@@ -93,16 +93,16 @@
         <figure>
           <h4>UX Design Case Study - E-Learning Platform</h4>
           <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment </p>
-          <NuxtLink to="/projects">
+          <NuxtLink to="/projects/casestudy5">
             Read case study
           </NuxtLink>
         </figure>
         <figure>
           <h4>Total Swimming Usability Testing Audit</h4>
           <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
-          <NuxtLink to="/projects">
+          <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">>
             Read case study
-          </NuxtLink>
+          </a>
         </figure>
       </div>
       <NuxtLink to="/projects">
