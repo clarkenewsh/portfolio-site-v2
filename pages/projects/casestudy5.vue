@@ -108,10 +108,10 @@
         <li><h4>&#x2758; Sketches and Wireframes</h4></li>
         <p>With the desired recommendations in place low-fidelity mock-ups in the form of wire frames were drafted to provide an low level design solution to overcome the user experience issues exhibited along with the recommendations outlined above</p>
         <p>The low-fidelity mock-ups designed in line with said recommendations. At this stage design thinking was rapid and several solution were sketched, four in total, which would then be refined to produce a final prototype to used for phase two user testing.</p>
-        <img src="~/assets/wire1.png" alt="Wireframe od propsed UI design 1">
-        <img src="~/assets/wire2.png" alt="Wireframe od propsed UI design 2">
-        <img src="~/assets/wire3.png" alt="Wireframe od propsed UI design 3">
-        <img src="~/assets/wire4.png" alt="Wireframe od propsed UI design 4">
+        <img src="~/assets/wire1.png" alt="Wireframe of propsed UI design 1">
+        <img src="~/assets/wire2.png" alt="Wireframe of propsed UI design 2">
+        <img src="~/assets/wire3.png" alt="Wireframe of propsed UI design 3">
+        <img src="~/assets/wire4.png" alt="Wireframe of propsed UI design 4">
       </ul>
     </div>
     <div>
@@ -135,9 +135,9 @@
           A suitable test laboratory was then acquired and set up within the required prototype materials to conduct the test.
           With that in place a suitable test sample was acquired of which Edge Hill University students completed the two tasks outlined for the cognitive walk-through. The data recorded was then amalgamated for further analysis.
         </p>
-        <img src="~/assets/cognative-walkthough-instruc.png" alt="">
-        <img src="~/assets/cognitive-test-data.png" alt="">
-        <img src="~/assets/cognative-click-count.png" alt="">
+        <img src="~/assets/cognative-walkthough-instruc.png" alt="cognitive walk-through instruction sheet">
+        <img src="~/assets/cognitive-test-data.png" alt="cognitive walk-through recorded test data">
+        <img src="~/assets/cognative-click-count.png" alt="cognitive walk-through recorded click count data">
         <p>
           The data gathered from phase two testing was further broken down and analysed of which was desired to support the research aim and problem statement. The data gathered from the disocvery phase was analysed alongside phase two testing were direct comparisons could be made against the click count and time taken to complete the task data through the use of A/B Testing. Figures below shows the click count data recorded for the cognitive walk-through. The comparison to be made with the click counts recorded for phase one testing, clicks were reduced by an average of approximately 3 clicks.
         </p>
