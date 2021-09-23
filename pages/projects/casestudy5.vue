@@ -28,6 +28,7 @@
     <div>
       <h2>Disovery and Empathise</h2>
       <ul>
+        <li><h4> &#x2758; Mind Mapping - Businnes goals vs user goals</h4></li>
         <p>
           A mind mapping exercise was conducted to further gather ideas and visualise what was what was genuinely important when e-learning/Virtual Learning Environments are concerned. The mind mapping exercises contained two main ideas; What was important to Virtual Learning Environments in general, what is important to the user. It is important to align these both ideas of the user and ideas of the business/service of which the users are engaging with.
         </p>
@@ -48,8 +49,6 @@
         <img src="~/assets/Question6.png" alt="Question 6 - Survey results displayed bar chart">
         <img src="~/assets/Question7.png" alt="Question 7 - Survey results displayed bar chart">
         <img src="~/assets/Question8.png" alt="Question 8 - Survey results displayed bar chart">
-        <li><h4> &#x2758; Mind Mapping - Businnes goals vs user goals</h4></li>
-
         <li><h4>&#x2758; Lab Testing - Think Aloud Usability Test</h4></li>
         <p>The usability testing conducted for this UX case study was that of direct user testing in laboratory conditions. A Lab based think aloud protocol test will form the initial phase of user testing and will be based on the existing user interface of Blackboard to uncover outstanding usability issues. The first aspect of usability testing was conducting in the form of a think- aloud protocol test on a test sample of ten Blackboard users of which were Edge Hill University students. The sole purpose of the think aloud protocols test was to uncover user experiences issues exhibited by the VLE, Blackboard.</p>
         <p>The test laboratory was then set up with the required hardware and software of which would be used to conduct the test. Quick Time was the software used to provide screen screen recording capability which would then later be analysed to gather the time taken to complete the task and the number of click count. In additional the verbal communications dialogues of which included the tests participants thoughts frustrations were noted on the data collection form and later analysed</p>
