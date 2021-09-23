@@ -52,7 +52,8 @@
         <li><h4>&#x2758; Lab Testing - Think Aloud Usability Test</h4></li>
         <p>The usability testing conducted for this UX case study was that of direct user testing in laboratory conditions. A Lab based think aloud protocol test will form the initial phase of user testing and will be based on the existing user interface of Blackboard to uncover outstanding usability issues. The first aspect of usability testing was conducting in the form of a think- aloud protocol test on a test sample of ten Blackboard users of which were Edge Hill University students. The sole purpose of the think aloud protocols test was to uncover user experiences issues exhibited by the VLE, Blackboard.</p>
         <p>The test laboratory was then set up with the required hardware and software of which would be used to conduct the test. Quick Time was the software used to provide screen screen recording capability which would then later be analysed to gather the time taken to complete the task and the number of click count. In additional the verbal communications dialogues of which included the tests participants thoughts frustrations were noted on the data collection form and later analysed</p>
-        <img src="~/assets/test1-instructions-consent-img.png" alt="">
+        <img src="~/assets/test1-instructions-consent-img.png" alt="think aloud test instructions and consent form">
+        <img src="~/assets/data-collection-form.png" alt="think aloud test data collection form">
       </ul>
     </div>
     <div>
@@ -62,9 +63,7 @@
         <p>A set of user personas were then created from the data gathered from the Blackboard User Survey. The personas is intended to outline a typical and or potential user of a Virtual Learning Environment in particular Blackboard.</p>
         <img src="~/assets/persona1-img.png" alt="User persona 1 modelling potential user">
         <img src="~/assets/persona2-img.png" alt="User persona 2 modelling potential user">
-
-        <img src="~/assets/data-collection-form.png" alt="">
-        <li><h4>&#x2758; UX Data Anlaysis and Data Visulisation - Usability Testing</h4></li>
+        <li><h4>&#x2758; UX Data Anlaysis and Data Visualisation - Usability Testing</h4></li>
         <p>The first aspect of usability testing was conducting in the form of a think-aloud protocol test on a test sample of ten Blackboard users of which were Edge Hill University students. The sole purpose of the think aloud protocols test was to uncover user experiences issues exhibited by the VLE, Blackboard</p>
         <p>On completion of phase one user testing the recorded data was amalgamated and then analysed to gain further insights on the identified user experience issues found while completing the test instructions.</p>
         <p>The test had several measures of which the data would be recorded against and later analysed. The test measures are as follows; noting and analysing the verbal thoughts and frustrations communicated by the test participant while conducting the test. The number of clicks recorded to complete the task. The amount of time the user took to complete the task.</p>
