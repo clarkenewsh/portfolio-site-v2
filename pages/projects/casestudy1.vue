@@ -13,7 +13,7 @@
     <div id="process">
       <h2>The Solution &#x26; my workflow</h2>
       <div class="process-block">
-        <h3>&#x2758; Reserach &#x26; Dicovery</h3>
+        <h3>&#x2758; Research &#x26; Discovery</h3>
         <div>
           <h6>Project Requirements and Brand Clarity</h6>
           <p>A customer requirements form was completed by Doggie Walk to help me to understand the brand, their problems and goals, and the vision they had for their site. A set of functional requirements were then created including the additional feature Doggie Walks requested.</p>
@@ -81,7 +81,7 @@
           </svg>
         </div>
         <div>
-          <h6>Behavioural Driven Development</h6>
+          <h6>Behavioral Driven Development</h6>
           <p>The website was developed using TDD and BDD approach, embracing automation testing, writing test cases in Cypress.io test suite to test the user stories derived from the identified functional software requirements.</p>
         </div>
       </div>
@@ -107,7 +107,7 @@
       <div class="process-block">
         <h3>&#x2758; Deploy &#x26; Monitor</h3>
         <div>
-          <h6>Deployment with Nelify</h6>
+          <h6>Deployment with Netlify</h6>
           <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of the continuous deployment feature provided by Netlify and GitHub.</p>
         </div>
       </div>

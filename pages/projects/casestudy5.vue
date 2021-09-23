@@ -5,11 +5,11 @@
       <img class="banner-img" src="~/assets/blackboard.jpeg" alt="Blackboard Logo banner">
       <h4>&#x2758; Case Study Overview</h4>
       <p>
-        A UX case study project conducted on educational Virtual Learning Environment, named Blackboard. The user based case study was was broken down into three key phases; Firstly addressing and identifying issues with the user experience of Blackboard VLE and to understand the behaviours and motivations of its users by conducting user research, UX analyses and lab based user testing. An analysis of the gathered data produced from user dicovery and user testing will be anlysed to uncover findings to propose a series of modifications that will improve the user experience. The case study will showcase a second phase of user testing based upon the low fidelity prototypes created from the in sights and findings uneratherd within the dicovery phase.
+        A UX case study project conducted on educational Virtual Learning Environment, named Blackboard. The user based case study was was broken down into three key phases; Firstly addressing and identifying issues with the user experience of Blackboard VLE and to understand the behaviors and motivations of its users by conducting user research, UX analyses and lab based user testing. An analysis of the gathered data produced from user discovery and user testing will be analysed to uncover findings to propose a series of modifications that will improve the user experience. The case study will showcase a second phase of user testing based upon the low fidelity prototypes created from the in sights and findings unearthed within the discovery phase.
       </p>
-      <h4>&#x2758; Reserach Objectives</h4>
+      <h4>&#x2758; Research Objectives</h4>
       <p>
-        The core objectives contained in conducting this research is one of developing one or two improvements to the user experience an existing virtual learning environment, Blackboard. The proposed improvements were formed and deciidde upon after the initial phase of user research of which then a problem statement was produced which will be the baseline for the proposed modifications through the project.
+        The core objectives contained in conducting this research is one of developing one or two improvements to the user experience an existing virtual learning environment, Blackboard. The proposed improvements were formed and decided upon after the initial phase of user research of which then a problem statement was produced which will be the baseline for the proposed modifications through the project.
         The problem statement was developed upon understanding the core users of the VLE;
       </p>
       <p><strong>”Blackboard users need a solution in quickly finding features of the VLE of which are used frequently. In particular users would not like to tackle complex and confusing navigation systems when using the feature of the VLE to continually check their course related materials”.</strong></p>
@@ -22,23 +22,23 @@
           <li>User Testing Phase 1 - Think aloud Protocol Testing</li>
           <li>User Testing Phase 2 - Cognitive Walk-through conducted on the pro- posed improvements</li>
         </ol>
-        <img src="~/assets/workflow.png" alt="My worflow illutration">
+        <img src="~/assets/workflow.png" alt="My workflow illustration">
       </div>
     </div>
     <div>
-      <h2>Disovery and Empathise</h2>
+      <h2>Discovery and Empathies</h2>
       <ul>
-        <li><h4> &#x2758; Mind Mapping - Businnes goals vs user goals</h4></li>
+        <li><h4> &#x2758; Mind Mapping - Business goals vs user goals</h4></li>
         <p>
-          A mind mapping exercise was conducted to further gather ideas and visualise what was what was genuinely important when e-learning/Virtual Learning Environments are concerned. The mind mapping exercises contained two main ideas; What was important to Virtual Learning Environments in general, what is important to the user. It is important to align these both ideas of the user and ideas of the business/service of which the users are engaging with.
+          A mind mapping exercise was conducted to further gather ideas and visualize what was what was genuinely important when e-learning/Virtual Learning Environments are concerned. The mind mapping exercises contained two main ideas; What was important to Virtual Learning Environments in general, what is important to the user. It is important to align these both ideas of the user and ideas of the business/service of which the users are engaging with.
         </p>
-        <img class="banner-img" src="~/assets/mind-map.png" alt="Mind Mapping illutration identifying user and busniess goals">
+        <img class="banner-img" src="~/assets/mind-map.png" alt="Mind Mapping illustration identifying user and business goals">
         <li><h4>&#x2758; User Survey and Data Analysis</h4></li>
         <p>
           The first form of user research conducted was a Blackboard user survey, created and circulated to ten direct users of Blackboard. The survey was circulated to primarily University Computer Science students all of varying ages and year of study. The aim of said survey was to gain an general oversight of its regular users, their habits and reasons for use, frustrations they encounter in completing these day to day tasks in improvements they wish to see to easier complete their these common task.
         </p>
         <p>
-          After users had completed the survey and the data was gathered it was analysed for further insight and would be carried forward into the following aspects of user research. To begin we wanted to understand the general amount of time spent using blackboard and the devices used to do so. It was clear that there was a varied range usage of Blackboard with approximately 35 percentage using it between 0-1 hours per day and the remaining 65 percent between 1-4 hours per day. The two main devices users were likely to use to complete a task on Blackboard were desktop and mobile devices. Blackboard users then specified their core reasons for using the VLE along with any common frustrations they encountered while trying to complete this task. Accessing coursework material viewing grades and submitting coursework scored highest, followed by access the timetable, viewing coursework deadlines and access course related information in the organisations tab. A number of reoccurring comments were noted in rela- tion to the navigation path to find course related context was ”long winded” and ”confusing”. We then asked how complicated these users felt the organisation navigation was in relation to finding said related course content. Further insights were identified in that approximately 65 percentage of users felt that there was some form of complexity finding course material through this method of navigation.
+          After users had completed the survey and the data was gathered it was analysed for further insight and would be carried forward into the following aspects of user research. To begin we wanted to understand the general amount of time spent using blackboard and the devices used to do so. It was clear that there was a varied range usage of Blackboard with approximately 35 percentage using it between 0-1 hours per day and the remaining 65 percent between 1-4 hours per day. The two main devices users were likely to use to complete a task on Blackboard were desktop and mobile devices. Blackboard users then specified their core reasons for using the VLE along with any common frustrations they encountered while trying to complete this task. Accessing coursework material viewing grades and submitting coursework scored highest, followed by access the timetable, viewing coursework deadlines and access course related information in the organisations tab. A number of reoccurring comments were noted in relation to the navigation path to find course related context was ”long winded” and ”confusing”. We then asked how complicated these users felt the organisation navigation was in relation to finding said related course content. Further insights were identified in that approximately 65 percentage of users felt that there was some form of complexity finding course material through this method of navigation.
         </p>
         <p>It was clear that the survey participants wanted to be able to find course material much more easily to complete tasks in an efficient manner. Although submitting coursework and accessing coursework ranked highest in usage reasons there was a clear correlation in the complex navigation paths and complexity to locate course material. At this point the problem statement created as outlined in research objectives</p>
         <img src="~/assets/Question1.png" alt="Question 1 - Survey results displayed bar chart">
@@ -63,7 +63,7 @@
         <p>A set of user personas were then created from the data gathered from the Blackboard User Survey. The personas is intended to outline a typical and or potential user of a Virtual Learning Environment in particular Blackboard.</p>
         <img src="~/assets/persona1-img.png" alt="User persona 1 modelling potential user">
         <img src="~/assets/persona2-img.png" alt="User persona 2 modelling potential user">
-        <li><h4>&#x2758; UX Data Anlaysis and Data Visualisation - Usability Testing</h4></li>
+        <li><h4>&#x2758; UX Data Analysis and Data Visualization - Usability Testing</h4></li>
         <p>The first aspect of usability testing was conducting in the form of a think-aloud protocol test on a test sample of ten Blackboard users of which were Edge Hill University students. The sole purpose of the think aloud protocols test was to uncover user experiences issues exhibited by the VLE, Blackboard</p>
         <p>On completion of phase one user testing the recorded data was amalgamated and then analysed to gain further insights on the identified user experience issues found while completing the test instructions.</p>
         <p>The test had several measures of which the data would be recorded against and later analysed. The test measures are as follows; noting and analysing the verbal thoughts and frustrations communicated by the test participant while conducting the test. The number of clicks recorded to complete the task. The amount of time the user took to complete the task.</p>
@@ -73,12 +73,12 @@
         <p>The second test measure to be recorded against was the time taken to complete the task. The figure below displays a scattering of data displaying the times taken for each test participant to complete the test in question. Five participants completed the task in under 40 seconds with the remaining five completing 40 seconds and over. Three of them five participants recorded times over a minute to complete the task. In analysing the think aloud comments against these times stamps of which took one minute or over, there was a connection with the nature of the comments recorded for that task. The comments of which the test participant communicate of which displayed confusion took longer to complete the task and eventually showed physical signs of frustration.</p>
         <img src="~/assets/time-count-scatter.png" alt="Time count results displayed in data table">
         <p>
-          The final test measure and the sole purpose of conducting a think-aloud protocol was to observe the test participants while completing the task while asking them to communicate any verbal thoughts, confusions and or frustrations. Figures below illustrates the verbal think aloud comments exhibited by each participants of which the click count and time taken to complete the task can be matched with their respective comments. It was therefore clear that the participants that found the tasking confusing and or showed frus- trations completing the task were the ones that took the longest to complete the task (40 seconds or over) and were also the ones with the highest click count.
+          The final test measure and the sole purpose of conducting a think-aloud protocol was to observe the test participants while completing the task while asking them to communicate any verbal thoughts, confusions and or frustrations. Figures below illustrates the verbal think aloud comments exhibited by each participants of which the click count and time taken to complete the task can be matched with their respective comments. It was therefore clear that the participants that found the tasking confusing and or showed frustrations completing the task were the ones that took the longest to complete the task (40 seconds or over) and were also the ones with the highest click count.
         </p>
         <img src="~/assets/test1-click-time-data.png" alt="Time count results displayed in data table">
         <img src="~/assets/test1-all-data1.png" alt="Time count results displayed in data table">
         <li>
-          <h4>&#x2758; Inisghts and Recommendations</h4>
+          <h4>&#x2758; Insights and Recommendations</h4>
         </li>
         <p>
           A set of proposed recommendations were created of which the knowledge gained from user research, user testing (think-aloud protocol) and existing case studies and key principles around user experience principles for E-Learning Environments (VLE) were considered in conjunction. The recommendations would therefore be designed to compliment the direct user research and testing conducted in this case study and credible existing research around VLE’s to form a solid recommendation to improve the user experience.
@@ -86,7 +86,7 @@
         <ol>
           <strong>
             <li>To simplify the process of locating timetable related materials without having to tackle complex navigation paths in the ’Organisations Tab’ by relocating the weekly overview student timetable to the VLE Home Page.</li>
-            <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for contunial updates of their semester progress (Brian Weimers thinking behind the three P’s of E-Learning engagement).</li>
+            <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for continual updates of their semester progress (Brian Weiners thinking behind the three P’s of E-Learning engagement).</li>
           </strong>
         </ol>
       </ul>
@@ -102,15 +102,15 @@
         <p>The basis of the recommendations proposed to improve the user experience are that to align with the problem statement outlined and are as follows.</p>
         <ul>
           <li>To simplify the process of locating timetable related materials without having to tackle complex navigation paths in the ’Organisations Tab’ by relocating the weekly overview student timetable to the VLE Home Page</li>
-          <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for contunial updates of their semester progress (Brian Weimers thinking behind the three P’s of e-learning engagement)</li>
+          <li>Provide create increased student engagement on the VLE home page by providing a ‘My Progress’ feature for to students to view on a week by week basis for continual updates of their semester progress (Brian Weiners thinking behind the three P’s of e-learning engagement)</li>
         </ul>
         <li><h4>&#x2758; Sketches and Wireframes</h4></li>
         <p>With the desired recommendations in place low-fidelity mock-ups in the form of wire frames were drafted to provide an low level design solution to overcome the user experience issues exhibited along with the recommendations outlined above</p>
         <p>The low-fidelity mock-ups designed in line with said recommendations. At this stage design thinking was rapid and several solution were sketched, four in total, which would then be refined to produce a final prototype to used for phase two user testing.</p>
-        <img src="~/assets/wire1.png" alt="Wireframe of propsed UI design 1">
-        <img src="~/assets/wire2.png" alt="Wireframe of propsed UI design 2">
-        <img src="~/assets/wire3.png" alt="Wireframe of propsed UI design 3">
-        <img src="~/assets/wire4.png" alt="Wireframe of propsed UI design 4">
+        <img src="~/assets/wire1.png" alt="Wireframe of proposed UI design 1">
+        <img src="~/assets/wire2.png" alt="Wireframe of proposed UI design 2">
+        <img src="~/assets/wire3.png" alt="Wireframe of proposed UI design 3">
+        <img src="~/assets/wire4.png" alt="Wireframe of proposed UI design 4">
       </ul>
     </div>
     <div>
@@ -138,7 +138,7 @@
         <img src="~/assets/cognitive-test-data.png" alt="cognitive walk-through recorded test data">
         <img src="~/assets/cognative-click-count.png" alt="cognitive walk-through recorded click count data">
         <p>
-          The data gathered from phase two testing was further broken down and analysed of which was desired to support the research aim and problem statement. The data gathered from the disocvery phase was analysed alongside phase two testing were direct comparisons could be made against the click count and time taken to complete the task data through the use of A/B Testing. Figures below shows the click count data recorded for the cognitive walk-through. The comparison to be made with the click counts recorded for phase one testing, clicks were reduced by an average of approximately 3 clicks.
+          The data gathered from phase two testing was further broken down and analysed of which was desired to support the research aim and problem statement. The data gathered from the discovery phase was analysed alongside phase two testing were direct comparisons could be made against the click count and time taken to complete the task data through the use of A/B Testing. Figures below shows the click count data recorded for the cognitive walk-through. The comparison to be made with the click counts recorded for phase one testing, clicks were reduced by an average of approximately 3 clicks.
         </p>
         <p>
           A selection of questions were drafted of which would then document the experiences the test participant encountered while completing the task. Figure below displays the question measured against for said test. The questions answered were all of positive nature where the user did not have any significant issues upon understanding the task at hand and completing the task without any prompts.
@@ -147,10 +147,10 @@
     </div>
     <div>
       <h2>Analysis and Outcomes</h2>
-      <p>On completion of the UX case study a number of reflections were considered of which would determine the success of the proposed features of which aimed to improve the user experience of the VLE. First the process to locate the weekly view student timetabe was improvement showing significant efficiency’s in time take to complete the task and click counts. Looking back to phase one testing there was a correlation between the higher scoring click counts and the verbal frustrations communicated. Upon using the newly proposed features there would be some expectation that because the click count was significantly reduced the negative dialogues around completing said task would also improve.</p>
+      <p>On completion of the UX case study a number of reflections were considered of which would determine the success of the proposed features of which aimed to improve the user experience of the VLE. First the process to locate the weekly view student timetable was improvement showing significant efficiency’s in time take to complete the task and click counts. Looking back to phase one testing there was a correlation between the higher scoring click counts and the verbal frustrations communicated. Upon using the newly proposed features there would be some expectation that because the click count was significantly reduced the negative dialogues around completing said task would also improve.</p>
       <p>Secondly the ’My progress’ proved to be a success although improvements could be made to this feature to make aware that the displayed progress is integrated with their timetable calendar of which the feature would then make much more sense.</p>
       <p>
-        Finally the way in which the UX case study was conducted as a whole was a success although did also contain areeas of improvement. There was significant advantages to completing extensive user testing although in future UX design projects additional user research could be conducted to further understand the emotions and or real scenario users of the VLE find themselves
+        Finally the way in which the UX case study was conducted as a whole was a success although did also contain areas of improvement. There was significant advantages to completing extensive user testing although in future UX design projects additional user research could be conducted to further understand the emotions and or real scenario users of the VLE find themselves
       </p>
     </div>
   </section>

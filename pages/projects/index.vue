@@ -4,12 +4,12 @@
     <p>A repository of some of my recent project work with links to the case study's, live sites and GitHub repos.</p>
     <div id="howIWork">
       <h2>How I work</h2>
-      <img src="~/assets/workflow.png" alt="My worflow illutration">
+      <img src="~/assets/workflow.png" alt="My worklow illustration">
     </div>
     <div>
       <figure>
         <h3>UX Case Study - Virtual Learning Environment</h3>
-        <h6>Univeristy Project</h6>
+        <h6>University Project</h6>
         <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment</p>
         <NuxtLink to="/projects/casestudy5">
           <button class="alt-btn">
@@ -19,7 +19,7 @@
       </figure>
       <figure>
         <h3>Usability Testing Audit - Total Swimming </h3>
-        <h6>Univeristy Project</h6>
+        <h6>University Project</h6>
         <p>A usability testing review and analysis conducted on Total Swimmings current webiste using variouse methods of data analysis, usability testing, acccessbility and performace testing</p>
         <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">
           <button class="alt-btn">
@@ -29,7 +29,7 @@
       </figure>
       <figure>
         <h3>Doggie Walks</h3>
-        <h6>Univeristy Project</h6>
+        <h6>University Project</h6>
         <p>A real life client brief to design and develop a static website for a local dog-walking service</p>
         <NuxtLink to="/projects/casestudy1">
           <button class="alt-btn">
@@ -41,7 +41,7 @@
       </figure>
       <figure>
         <h3>E-Learning Platform</h3>
-        <h6>Univeristy Project - Dissertation</h6>
+        <h6>University Project - Dissertation</h6>
         <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
         <NuxtLink to="/projects/">
           <button class="alt-btn">
@@ -53,7 +53,7 @@
         </a>
       </figure>
       <figure>
-        <h3>Test Automation for Accessbility</h3>
+        <h3>Test Automation for Accessability</h3>
         <h6>Passion Project - Live Project</h6>
         <p>Test Automation Framework to test website Accessibility to WCAG 2.1</p>
         <NuxtLink to="/projects/">
@@ -68,7 +68,7 @@
       <figure>
         <h3>User Research Case Study </h3>
         <h6>Passion Project - Live Project</h6>
-        <p>A live User Reserach Project and case studies focusing on a current social issue</p>
+        <p>A live User Research Project and case studies focusing on a current social issue</p>
         <NuxtLink to="/projects/">
           <button class="alt-btn">
             Case study coming soon

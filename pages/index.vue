@@ -20,7 +20,7 @@
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently Graduated with 1st class, BSc (Hons) in Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and creative problem solving is what keeps me ambitious to research, design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, user research, development and usability testing techniques by getting hands dirty building side projects and University studies.</p>
-        <p>I am passionate about building a career in UX Research, UX Design and Usability Testing and have gained significant practical experience in applying UX Research and UX Design principles, understanding users needs, behaviours and motivations, quantitative and qualitative research methods, remote and lab based user testing, UX analysis and data visualization and presenting research insights. I embrace continual online learning and now seeking an opportunity I can further develop my user research skills and flourish in a career as a User Researcher.</p>
+        <p>I am passionate about building a career in UX Research, UX Design and Usability Testing and have gained significant practical experience in applying UX Research and UX Design principles, understanding users needs, behaviors and motivations, quantitative and qualitative research methods, remote and lab based user testing, UX analysis and data visualization and presenting research insights. I embrace continual online learning and now seeking an opportunity I can further develop my user research skills and flourish in a career as a User Researcher.</p>
       </div>
       <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -45,7 +45,7 @@
               <path d="M0 12.995V13a3.07 3.07 0 0 0 0-.005z" />
             </svg>
             <h4>User Research &#x26; UX Design</h4>
-            <p>Understanding users motivations &#x26; behaviours, applying UX principles &#x26; techniques to develop accessible, user-friendly interfaces</p>
+            <p>Understanding users motivations &#x26; behaviors, applying UX principles &#x26; techniques to develop accessible, user-friendly interfaces</p>
           </li>
           <li>
             <svg
@@ -99,7 +99,7 @@
         </figure>
         <figure>
           <h4>Total Swimming Usability Testing Audit</h4>
-          <p>A Usability Testing review and report conducted on Total Swimmings current webiste</p>
+          <p>A Usability Testing review and report conducted on Total Swimmings current website</p>
           <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">>
             Read case study
           </a>
@@ -111,7 +111,7 @@
     </div>
     <div id="hobbies">
       <h2>Things I love to do</h2>
-      <p>As much as I love to solve problems with code, I like to play too. I am a huge NFL and Motosport fan, enjoy camping and exploring the great outdoors and Space travel.</p>
+      <p>As much as I love to solve problems with code, I like to play too. I am a huge NFL and Motor sport fan, enjoy camping and exploring the great outdoors and Space travel.</p>
       <ul>
         <li>
           <svg

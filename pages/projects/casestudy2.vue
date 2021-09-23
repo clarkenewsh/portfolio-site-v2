@@ -14,7 +14,7 @@
     <div id="process">
       <h2>The Solution &#x26; my workflow</h2>
       <div class="process-block">
-        <h3>&#x2758; Reserach &#x26; Dicovery</h3>
+        <h3>&#x2758; Research &#x26; Discovery</h3>
         <div>
           <h6>Project Requirements</h6>
           <p>The project brief outlined that it must contain some form of input to allow a user to enter a website URL, and the application must contain the following resolutions (or allow a selection of these to be made so the views can be compared):</p>
@@ -86,7 +86,7 @@
           </svg>
         </div>
         <div>
-          <h6>Behavioural Driven Development</h6>
+          <h6>Behavioral Driven Development</h6>
           <p>The website was developed using TDD and BDD approach, embracing automation testing, writing test cases in Cypress.io test suite to test the user stories derived from the identified functional software requirements.</p>
         </div>
       </div>
@@ -114,7 +114,7 @@
       <div class="process-block">
         <h3>&#x2758; Deploy &#x26; Monitor</h3>
         <div>
-          <h6>Deployment with Nelify</h6>
+          <h6>Deployment with Netlify</h6>
           <p>The final website build was pushed to a GitHub repo and deployed using Netlify, taking advantage of the continuous deployment feature provided by Netlify and GitHub.</p>
         </div>
       </div>
