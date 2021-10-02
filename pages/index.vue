@@ -22,9 +22,9 @@
         <p>Curiosity and creative problem solving is what keeps me ambitious to research, design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, user research, development and usability testing techniques by getting hands dirty building side projects and University studies.</p>
         <p>I am passionate about building a career in UX Research, UX Design and Usability Testing and have gained significant practical experience in applying UX Research and UX Design principles, understanding users needs, behaviors and motivations, quantitative and qualitative research methods, remote and lab based user testing, UX analysis and data visualization and presenting research insights. I embrace continual online learning and now seeking an opportunity I can further develop my user research skills and flourish in a career as a User Researcher.</p>
       </div>
-      <NuxtLink to="/about">
+      <!-- <NuxtLink to="/about">
         <button>Learn more about me</button>
-      </NuxtLink>
+      </NuxtLink> -->
     </div>
     <div id="workflow">
       <div>
