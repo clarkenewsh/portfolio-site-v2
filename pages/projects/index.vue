@@ -32,7 +32,7 @@
         <h3>UX Case Study - Virtual Learning Environment</h3>
         <h6>University Project</h6>
         <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment</p>
-        <NuxtLink to="/projects/casestudy5">
+        <NuxtLink to="/projects/">
           <button class="alt-btn">
             Read case study
           </button>
