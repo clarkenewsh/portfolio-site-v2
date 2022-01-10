@@ -52,32 +52,6 @@
           <button class="alt-btn">View site</button>
         </a>
       </figure>
-      <figure>
-        <h3>Test Automation for Accessability</h3>
-        <h6>Passion Project - Live Project</h6>
-        <p>Test Automation Framework to test website Accessibility to WCAG 2.1</p>
-        <NuxtLink to="/projects/">
-          <button class="alt-btn">
-            Case study coming soon
-          </button>
-        </NuxtLink>
-        <a href="">
-          <button class="alt-btn">View site</button>
-        </a>
-      </figure>
-      <figure>
-        <h3>User Research Case Study </h3>
-        <h6>Passion Project - Live Project</h6>
-        <p>A live User Research Project and case studies focusing on a current social issue</p>
-        <NuxtLink to="/projects/">
-          <button class="alt-btn">
-            Case study coming soon
-          </button>
-        </NuxtLink>
-        <a href="">
-          <button class="alt-btn">View site</button>
-        </a>
-      </figure>
     </div>
   </section>
 </template>
