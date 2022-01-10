@@ -109,7 +109,6 @@
         <p>The low-fidelity mock-ups designed in line with said recommendations. At this stage design thinking was rapid and several solution were sketched, four in total, which would then be refined to produce a final prototype to used for phase two user testing.</p>
         <img src="~/assets/wire1.png" alt="Wireframe of proposed UI design 1">
         <img src="~/assets/wire2.png" alt="Wireframe of proposed UI design 2">
-        <img src="~/assets/wire3.png" alt="Wireframe of proposed UI design 3">
         <img src="~/assets/wire4.png" alt="Wireframe of proposed UI design 4">
       </ul>
     </div>
