@@ -679,13 +679,13 @@ img.workflow-icons {
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
-
+/*
 #my-work div figure:nth-of-type(4) {
   background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb.png');
   background-size: cover;
   background-position: 50% 75%;
   background-repeat: no-repeat;
-}
+} */
 
 #my-work figure {
   border-radius: 0.375rem;
