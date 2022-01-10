@@ -8,6 +8,31 @@
     </div>
     <div>
       <figure>
+        <h3>E-Learning Platform</h3>
+        <h6>University Project - Dissertation</h6>
+        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
+        <NuxtLink to="https://github.com/clarkenewsh/final-year-project-vle-webapp">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <a href="https://virtual-learning-platform.netlify.app">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
+        <h3>Doggie Walks</h3>
+        <h6>University Project</h6>
+        <p>A real life client brief to design and develop a static website for a local dog-walking service</p>
+        <NuxtLink to="https://github.com/clarkenewsh/doggie-walks-site">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <a href="https://doggiewalks-site.netlify.app/">
+          <button class="alt-btn">View site</button></a>
+      </figure>
+      <figure>
         <h3>UX Case Study - Virtual Learning Environment</h3>
         <h6>University Project</h6>
         <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment</p>
@@ -25,31 +50,6 @@
           <button class="alt-btn">
             Read case study
           </button>
-        </a>
-      </figure>
-      <figure>
-        <h3>Doggie Walks</h3>
-        <h6>University Project</h6>
-        <p>A real life client brief to design and develop a static website for a local dog-walking service</p>
-        <NuxtLink to="/projects/casestudy1">
-          <button class="alt-btn">
-            Read case study
-          </button>
-        </NuxtLink>
-        <a href="https://doggiewalks-site.netlify.app/">
-          <button class="alt-btn">View site</button></a>
-      </figure>
-      <figure>
-        <h3>E-Learning Platform</h3>
-        <h6>University Project - Dissertation</h6>
-        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
-        <NuxtLink to="/projects/">
-          <button class="alt-btn">
-            Case study coming soon
-          </button>
-        </NuxtLink>
-        <a href="">
-          <button class="alt-btn">View site</button>
         </a>
       </figure>
     </div>

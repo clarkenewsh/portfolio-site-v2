@@ -88,11 +88,10 @@
             Read case study
           </NuxtLink>
         </figure>
-
         <figure>
-          <h4>UX Design Case Study - E-Learning Platform</h4>
-          <p>A user research and UX Design project and case study on Blackboard, an E-Learning Environment </p>
-          <NuxtLink to="/projects/casestudy5">
+          <h4>E-Learning Platform</h4>
+          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
+          <NuxtLink to="/projects/">
             Read case study
           </NuxtLink>
         </figure>
