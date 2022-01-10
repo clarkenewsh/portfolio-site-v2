@@ -2,10 +2,6 @@
   <section>
     <h1>Project Case Studies</h1>
     <p>A repository of some of my recent project work with links to the case study's, live sites and GitHub repos.</p>
-    <div id="howIWork">
-      <h2>How I work</h2>
-      <img src="~/assets/workflow.png" alt="My worklow illustration">
-    </div>
     <div>
       <figure>
         <h3>E-Learning Platform</h3>
