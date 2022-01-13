@@ -89,11 +89,13 @@
           </NuxtLink>
         </figure>
         <figure>
-          <h4>E-Learning Platform Web App/h4>
-          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
-          <NuxtLink to="/projects/">
-            View project
-          </NuxtLink>
+          <h4>
+            E-Learning Platform Web App/h4>
+            <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
+            <NuxtLink to="/projects/">
+              View project
+            </NuxtLink>
+          </h4>
         </figure>
         <figure>
           <h4>Adventure Planner Web App</h4>
