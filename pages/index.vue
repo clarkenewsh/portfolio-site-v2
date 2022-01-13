@@ -681,14 +681,14 @@ img.workflow-icons {
 }
 
 #my-work div figure:nth-of-type(3) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb-1.png');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/adventure.png');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 #my-work div figure:nth-of-type(4) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/adventure.png');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb-1.png');
   background-size: cover;
   background-position: 50% 75%;
   background-repeat: no-repeat;
