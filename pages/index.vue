@@ -84,13 +84,20 @@
         <figure>
           <h4>Doggie Walks</h4>
           <p>A client brief to develop a static website for a local dog-walking service</p>
-          <NuxtLink to="/projects/">
+          <NuxtLink to="/projects/casestudy1">
             View project
           </NuxtLink>
         </figure>
         <figure>
           <h4>E-Learning Platform</h4>
           <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
+          <NuxtLink to="/projects/">
+            View project
+          </NuxtLink>
+        </figure>
+        <figure>
+          <h4>Adventure Planner Web App</h4>
+          <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
