@@ -89,13 +89,11 @@
           </NuxtLink>
         </figure>
         <figure>
-          <h4>
-            E-Learning Platform Web App/h4>
-            <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
-            <NuxtLink to="/projects/">
-              View project
-            </NuxtLink>
-          </h4>
+          <h4>E-Learning Platform Web App</h4>
+          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
+          <NuxtLink to="/projects/">
+            View project
+          </NuxtLink>
         </figure>
         <figure>
           <h4>Adventure Planner Web App</h4>
@@ -688,13 +686,13 @@ img.workflow-icons {
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
-/*
+
 #my-work div figure:nth-of-type(4) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb.png');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/adventure.png');
   background-size: cover;
   background-position: 50% 75%;
   background-repeat: no-repeat;
-} */
+}
 
 #my-work figure {
   border-radius: 0.375rem;
