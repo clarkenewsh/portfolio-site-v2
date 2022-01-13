@@ -84,7 +84,7 @@
         <figure>
           <h4>Doggie Walks</h4>
           <p>A client brief to develop a static website for a local dog-walking service</p>
-          <NuxtLink to="/projects/casestudy1">
+          <NuxtLink to="/projects/">
             View project
           </NuxtLink>
         </figure>
@@ -92,7 +92,7 @@
           <h4>E-Learning Platform</h4>
           <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
           <NuxtLink to="/projects/">
-             View project
+            View project
           </NuxtLink>
         </figure>
         <figure>
