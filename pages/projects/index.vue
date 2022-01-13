@@ -4,7 +4,7 @@
     <p>A repository of some of my recent project work with links to the case study's, live sites and GitHub repos.</p>
     <div>
       <figure>
-        <h3>E-Learning Platform</h3>
+        <h3>E-Learning Platform Web App</h3>
         <h6>University Project - Dissertation</h6>
         <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
         <NuxtLink to="https://github.com/clarkenewsh/final-year-project-vle-webapp">
