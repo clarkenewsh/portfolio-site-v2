@@ -5,7 +5,7 @@
         Hello, I'm Clarke
       </h1>
       <p>
-        I recently graduated in BSc (Hons) Web Design &#x26; Development, full of curiosity and a passion to solve real-world problems through User Research, UX Design and Web Development.
+        I recently graduated with First Class Honours in BSc Web Design and Development. I'm full of curiosity with a passion to solve real-world problems through User Research, UX Design and Web Development.
       </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
@@ -18,8 +18,8 @@
     <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
-        <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently Graduated with First Class, BSc (Hons) in Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and creative problem solving is what keeps me ambitious to research, design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, user research, development and usability testing techniques by getting hands dirty building side projects and University studies.</p>
+        <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently graduated with First Class Honours in BSc Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
+        <p>Curiosity and creative problem solving is what keeps me ambitious to research, design and develop web apps accessible to all, using the skills and techniques I have learned over the last 3 years studying at Edge Hill University. I love to stay creative and up to date with emerging technologies, user research, development and usability testing techniques by getting hands dirty building side projects and University studies.</p>
       </div>
       <!-- <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -57,7 +57,7 @@
             >
               <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z" />
             </svg>
-            <h4>Development</h4>
+            <h4>Web Development</h4>
             <p>Using an agile approach and modern web technologies to develop websites and web applications that are accessible to all</p>
           </li>
           <li>

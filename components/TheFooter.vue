@@ -55,7 +55,7 @@
       </li>
     </ul>
     <p class="copyright">
-      Design and code by Clarke Newsham 2021 &copy; &#9996;
+      Design and code by Clarke Newsham 2022 &copy; &#9996;
     </p>
   </footer>
 </template>
