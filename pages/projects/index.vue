@@ -47,7 +47,7 @@
         <h3>Academic Tracker Web App</h3>
         <h6>University Project</h6>
         <p>Web App that tracks academic courses, modules and assessments</p>
-        <a href="https://github.com/clarkenewsh/PopUps-Landing-Page">
+        <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">
           <button class="alt-btn">
             GitHub Repo
           </button>
@@ -94,7 +94,7 @@
         <h3>Ryder Crap Golf Website</h3>
         <h6>Freelance Project</h6>
         <p>A website built for a friends golf society for their annual Ryder Crap golf trip.</p>
-        <a href="https://github.com/clarkenewsh/roxanne-film-landing-page">
+        <a href="https://github.com/clarkenewsh/ryder-crap-golf-site">
           <button class="alt-btn">
             GitHub Repo
           </button>
