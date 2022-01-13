@@ -79,27 +79,27 @@
     </div>
     <div id="my-work">
       <h2>Projects</h2>
-      <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more.</p>
+      <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more</p>
       <div>
         <figure>
           <h4>Doggie Walks</h4>
           <p>A client brief to develop a static website for a local dog-walking service</p>
           <NuxtLink to="/projects/casestudy1">
-            Read case study
+            View project
           </NuxtLink>
         </figure>
         <figure>
           <h4>E-Learning Platform</h4>
-          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
+          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
           <NuxtLink to="/projects/">
-            Read case study
+             View project
           </NuxtLink>
         </figure>
         <figure>
           <h4>Total Swimming Usability Testing Audit</h4>
           <p>A Usability Testing review and report conducted on Total Swimmings current website</p>
-          <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">>
-            Read case study
+          <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">
+            View project
           </a>
         </figure>
       </div>
