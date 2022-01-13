@@ -48,6 +48,78 @@
           </button>
         </a>
       </figure>
+      <figure>
+        <h3>Adventure Planner Web App</h3>
+        <h6>Personal Project</h6>
+        <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas</p>
+        <NuxtLink to="https://github.com/clarkenewsh/react-adventure-app">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <a href="">
+          <button class="alt-btn">Coming soon</button></a>
+      </figure>
+      <figure>
+        <h3>Roxanne Film Landing Page</h3>
+        <h6>Freelance Project</h6>
+        <p>A landing page created for a film student to launch and promote their short film.</p>
+        <NuxtLink to="https://github.com/clarkenewsh/roxanne-film-landing-page">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <NuxtLink to="https://roxannefilm.netlify.app">
+          <button class="alt-btn">
+            View site
+          </button>
+        </NuxtLink>
+      </figure>
+      <figure>
+        <h3>Ryder Crap Golf Website</h3>
+        <h6>Freelance Project</h6>
+        <p>A website built for a friends golf society for their annual Ryder Crap golf trip.</p>
+        <NuxtLink to="https://github.com/clarkenewsh/roxanne-film-landing-page">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <NuxtLink to="">
+          <button class="alt-btn">
+            View site
+          </button>
+        </NuxtLink>
+      </figure>
+      <figure>
+        <h3>Pop-Ups Landing Page</h3>
+        <h6>Personal Project</h6>
+        <p>A static landing page for pop-up shop locator idea.</p>
+        <NuxtLink to="https://github.com/clarkenewsh/PopUps-Landing-Page">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <NuxtLink to="">
+          <button class="alt-btn">
+            View site
+          </button>
+        </NuxtLink>
+      </figure>
+      <figure>
+        <h3>Academic Tracker Web App</h3>
+        <h6>University Project</h6>
+        <p>Web App that tracks academic courses, modules and assessments</p>
+        <NuxtLink to="https://github.com/clarkenewsh/PopUps-Landing-Page">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </NuxtLink>
+        <NuxtLink to="">
+          <button class="alt-btn">
+            View site
+          </button>
+        </NuxtLink>
+      </figure>
     </div>
   </section>
 </template>
