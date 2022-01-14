@@ -5,7 +5,7 @@
         Hello, I'm Clarke
       </h1>
       <p>
-        I recently graduated with First Class Honours in BSc Web Design and Development. I'm full of curiosity with a passion to solve real-world problems through User Research, UX Design and Web Development.
+        I recently graduated with First Class Honours in BSc Web Design and Development. I'm full of curiosity with a passion to solve real-world problems through UX Design and Web Development.
       </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
