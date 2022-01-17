@@ -1,6 +1,6 @@
 <template>
   <NuxtLink to="/">
-    <span>CLARKE</span> NEWSHAM
+    <img src="~/assets/logo.png" alt="Clarke Newsham logo">
   </NuxtLink>
 </template>
 
@@ -10,6 +10,12 @@
     font-weight: 700;
     margin-right: auto;
     text-decoration: none;
+  }
+
+  img {
+    height: 78px;
+    width: 78px;
+    margin-left: -30px;
   }
 
   span {
