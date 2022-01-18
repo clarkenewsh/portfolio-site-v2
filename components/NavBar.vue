@@ -53,6 +53,7 @@ nav a  {
   align-self: center;
   padding: 15px;
   font-weight: 500;
+  text-decoration: none;
   font-size: 120%;
 }
 

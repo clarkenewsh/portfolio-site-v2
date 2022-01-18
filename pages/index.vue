@@ -10,7 +10,7 @@
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
       </a>
-      <a href="https://www.dropbox.com/s/yajwkf98mtxn2fy/Clarke_Newsham_CV.pdf?dl=0">
+      <a href="">
         <button class="alt-btn">View my CV</button>
       </a>
     </div>
@@ -19,8 +19,8 @@
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently graduated with First Class Honours in BSc Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and creative problem solving is what keeps me ambitious to design and develop web apps accessible to all, using the skills and experience I have learned by developing side projects and over the last 3 years studying at Edge Hill University. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
-        <p>I am currently completing a Masters Full Stack Web Development Bootcamp with Code Nation where I am learning to develop full-stack web applications using a modern tech stack of MongoDB, Express, React and NodeJs.</p>
+        <p>Curiosity and creative problem solving is what keeps me ambitious to design and develop web apps accessible to all, using the skills and experience I have learned by at Code Nation Masters Bootcamp, developing side projects and over the last 3 years studying at Edge Hill University. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
+        <p>I am currently completing a Masters Full Stack Web Development Bootcamp with Code Nation where I am learning to develop full-stack web applications within development teams, using agile principles utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
       </div>
       <!-- <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -84,7 +84,7 @@
         <li><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="221.807 89.47 440 621.061" enable-background="new 221.807 89.47 440 621.061"><filter id="a" width="150%" height="150%" x="-5%" y="-5%"><feFlood flood-color="#000" result="floodFill" flood-opacity=".5" /><feComposite in="floodFill" in2="SourceAlpha" operator="in" result="coloredAlpha" /><feGaussianBlur in="coloredAlpha" result="blur" stdDeviation="8" /><feComposite in="blur" in2="SourceGraphic" operator="out" result="maskedOffsetBlur" /><feMerge><feMergeNode in="maskedOffsetBlur" /><feMergeNode in="SourceGraphic" /></feMerge></filter><g filter="url(#a)"><path fill="#e44d26" d="M261.849 660.647l-40.042-449.125h440l-40.086 449.054-180.184 49.954z" /><path fill="#f16529" d="M441.807 672.348l145.596-40.367 34.258-383.735H441.807z" /><path fill="#ebebeb" d="M441.807 414.82h-72.888l-5.035-56.406h77.923V303.33H303.683l1.32 14.778 13.538 151.794h123.266zM441.807 557.876l-.242.066-61.346-16.566-3.922-43.93h-55.294l7.718 86.489 112.834 31.323.252-.071z" /><path d="M262.745 89.47h27.992v27.656h25.606V89.47h27.993v83.75h-27.993v-28.044h-25.606v28.044h-27.99l-.002-83.75zM381.149 117.244h-24.642V89.47H433.8v27.774h-24.654v55.976H381.15v-55.976h-.001zM446.065 89.47h29.19l17.955 29.428 17.938-29.428h29.2v83.75h-27.882v-41.512l-19.259 29.778h-.481l-19.272-29.778v41.512h-27.39V89.47zM554.277 89.47h28v56.068h39.368v27.682h-67.368V89.47z" /><path fill="#fff" d="M441.617 414.82v55.082h67.83l-6.395 71.44-61.435 16.58v57.307l112.924-31.294.826-9.309 12.946-145.014 1.344-14.792h-14.842zM441.617 303.33v55.084H574.67l1.103-12.382 2.51-27.924 1.318-14.778z" /></g></svg></li>
         <li><svg enable-background="new 0 0 1771 2499.8" width="70" height="70" viewBox="0 0 1771 2499.8" xmlns="http://www.w3.org/2000/svg"><path d="m1387.8 92.5h-146.9l152.8 165.9v78.9h-314.8v-92.4h152.8l-152.8-165.9v-79h309zm-371.4 0h-147.1l153 165.9v78.9h-314.9v-92.4h152.8l-152.8-165.9v-79h309zm-367.8 3.8h-158.5v144.8h158.5v96.3h-271.3v-337.4h271.3z" fill="#131313" /><path d="m161.2 2299.1-161.2-1807.7h1771l-161.4 1807.4-725.2 201z" fill="#1572b6" /><path d="m885.5 2346.2 586-162.5 137.8-1544.5h-723.8z" fill="#33a9dc" /><path d="m885.5 1294.1h293.4l20.2-227h-313.6v-221.6h556l-5.3 59.5-54.5 611h-496.2z" fill="#fff" /><path d="m886.7 1869.9h-1l-246.9-66.7-15.8-176.8h-222.4l31.1 348.1 454.2 126.4h1.3v-231z" fill="#ebebeb" /><path d="m1160.1 1506.3-26.7 296.7-247.3 66.7v231l454.5-126 3.3-37.5 38.6-431h-222.4z" fill="#fff" /><path d="m886.3 845.5v221.7h-535.4l-4.6-49.8-10.1-112.4-5.3-59.5zm-.8 448.6v221.7h-244.1l-4.3-49.8-10.1-112.4-5.3-59.5h263.7z" fill="#ebebeb" /></svg></li>
         <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="70px" height="70px"><path fill="#ffd600" d="M6,42V6h36v36H6z" /><path fill="#000001" d="M29.538 32.947c.692 1.124 1.444 2.201 3.037 2.201 1.338 0 2.04-.665 2.04-1.585 0-1.101-.726-1.492-2.198-2.133l-.807-.344c-2.329-.988-3.878-2.226-3.878-4.841 0-2.41 1.845-4.244 4.728-4.244 2.053 0 3.528.711 4.592 2.573l-2.514 1.607c-.553-.988-1.151-1.377-2.078-1.377-.946 0-1.545.597-1.545 1.377 0 .964.6 1.354 1.985 1.951l.807.344C36.452 29.645 38 30.839 38 33.523 38 36.415 35.716 38 32.65 38c-2.999 0-4.702-1.505-5.65-3.368L29.538 32.947zM17.952 33.029c.506.906 1.275 1.603 2.381 1.603 1.058 0 1.667-.418 1.667-2.043V22h3.333v11.101c0 3.367-1.953 4.899-4.805 4.899-2.577 0-4.437-1.746-5.195-3.368L17.952 33.029z" /></svg></li>
-        <li><svg height="70" viewBox="175.7 78 490.6 436.9" width="70" xmlns="http://www.w3.org/2000/svg"><g fill="#61dafb"><path d="m666.3 296.5c0-32.5-40.7-63.3-103.1-82.4 14.4-63.6 8-114.2-20.2-130.4-6.5-3.8-14.1-5.6-22.4-5.6v22.3c4.6 0 8.3.9 11.4 2.6 13.6 7.8 19.5 37.5 14.9 75.7-1.1 9.4-2.9 19.3-5.1 29.4-19.6-4.8-41-8.5-63.5-10.9-13.5-18.5-27.5-35.3-41.6-50 32.6-30.3 63.2-46.9 84-46.9v-22.3c-27.5 0-63.5 19.6-99.9 53.6-36.4-33.8-72.4-53.2-99.9-53.2v22.3c20.7 0 51.4 16.5 84 46.6-14 14.7-28 31.4-41.3 49.9-22.6 2.4-44 6.1-63.6 11-2.3-10-4-19.7-5.2-29-4.7-38.2 1.1-67.9 14.6-75.8 3-1.8 6.9-2.6 11.5-2.6v-22.3c-8.4 0-16 1.8-22.6 5.6-28.1 16.2-34.4 66.7-19.9 130.1-62.2 19.2-102.7 49.9-102.7 82.3 0 32.5 40.7 63.3 103.1 82.4-14.4 63.6-8 114.2 20.2 130.4 6.5 3.8 14.1 5.6 22.5 5.6 27.5 0 63.5-19.6 99.9-53.6 36.4 33.8 72.4 53.2 99.9 53.2 8.4 0 16-1.8 22.6-5.6 28.1-16.2 34.4-66.7 19.9-130.1 62-19.1 102.5-49.9 102.5-82.3zm-130.2-66.7c-3.7 12.9-8.3 26.2-13.5 39.5-4.1-8-8.4-16-13.1-24-4.6-8-9.5-15.8-14.4-23.4 14.2 2.1 27.9 4.7 41 7.9zm-45.8 106.5c-7.8 13.5-15.8 26.3-24.1 38.2-14.9 1.3-30 2-45.2 2-15.1 0-30.2-.7-45-1.9-8.3-11.9-16.4-24.6-24.2-38-7.6-13.1-14.5-26.4-20.8-39.8 6.2-13.4 13.2-26.8 20.7-39.9 7.8-13.5 15.8-26.3 24.1-38.2 14.9-1.3 30-2 45.2-2 15.1 0 30.2.7 45 1.9 8.3 11.9 16.4 24.6 24.2 38 7.6 13.1 14.5 26.4 20.8 39.8-6.3 13.4-13.2 26.8-20.7 39.9zm32.3-13c5.4 13.4 10 26.8 13.8 39.8-13.1 3.2-26.9 5.9-41.2 8 4.9-7.7 9.8-15.6 14.4-23.7 4.6-8 8.9-16.1 13-24.1zm-101.4 106.7c-9.3-9.6-18.6-20.3-27.8-32 9 .4 18.2.7 27.5.7 9.4 0 18.7-.2 27.8-.7-9 11.7-18.3 22.4-27.5 32zm-74.4-58.9c-14.2-2.1-27.9-4.7-41-7.9 3.7-12.9 8.3-26.2 13.5-39.5 4.1 8 8.4 16 13.1 24s9.5 15.8 14.4 23.4zm73.9-208.1c9.3 9.6 18.6 20.3 27.8 32-9-.4-18.2-.7-27.5-.7-9.4 0-18.7.2-27.8.7 9-11.7 18.3-22.4 27.5-32zm-74 58.9c-4.9 7.7-9.8 15.6-14.4 23.7-4.6 8-8.9 16-13 24-5.4-13.4-10-26.8-13.8-39.8 13.1-3.1 26.9-5.8 41.2-7.9zm-90.5 125.2c-35.4-15.1-58.3-34.9-58.3-50.6s22.9-35.6 58.3-50.6c8.6-3.7 18-7 27.7-10.1 5.7 19.6 13.2 40 22.5 60.9-9.2 20.8-16.6 41.1-22.2 60.6-9.9-3.1-19.3-6.5-28-10.2zm53.8 142.9c-13.6-7.8-19.5-37.5-14.9-75.7 1.1-9.4 2.9-19.3 5.1-29.4 19.6 4.8 41 8.5 63.5 10.9 13.5 18.5 27.5 35.3 41.6 50-32.6 30.3-63.2 46.9-84 46.9-4.5-.1-8.3-1-11.3-2.7zm237.2-76.2c4.7 38.2-1.1 67.9-14.6 75.8-3 1.8-6.9 2.6-11.5 2.6-20.7 0-51.4-16.5-84-46.6 14-14.7 28-31.4 41.3-49.9 22.6-2.4 44-6.1 63.6-11 2.3 10.1 4.1 19.8 5.2 29.1zm38.5-66.7c-8.6 3.7-18 7-27.7 10.1-5.7-19.6-13.2-40-22.5-60.9 9.2-20.8 16.6-41.1 22.2-60.6 9.9 3.1 19.3 6.5 28.1 10.2 35.4 15.1 58.3 34.9 58.3 50.6-.1 15.7-23 35.6-58.4 50.6z"/><circle cx="420.9" cy="296.5" r="45.7"/></g></svg></li>
+        <li><svg height="70" viewBox="175.7 78 490.6 436.9" width="70" xmlns="http://www.w3.org/2000/svg"><g fill="#61dafb"><path d="m666.3 296.5c0-32.5-40.7-63.3-103.1-82.4 14.4-63.6 8-114.2-20.2-130.4-6.5-3.8-14.1-5.6-22.4-5.6v22.3c4.6 0 8.3.9 11.4 2.6 13.6 7.8 19.5 37.5 14.9 75.7-1.1 9.4-2.9 19.3-5.1 29.4-19.6-4.8-41-8.5-63.5-10.9-13.5-18.5-27.5-35.3-41.6-50 32.6-30.3 63.2-46.9 84-46.9v-22.3c-27.5 0-63.5 19.6-99.9 53.6-36.4-33.8-72.4-53.2-99.9-53.2v22.3c20.7 0 51.4 16.5 84 46.6-14 14.7-28 31.4-41.3 49.9-22.6 2.4-44 6.1-63.6 11-2.3-10-4-19.7-5.2-29-4.7-38.2 1.1-67.9 14.6-75.8 3-1.8 6.9-2.6 11.5-2.6v-22.3c-8.4 0-16 1.8-22.6 5.6-28.1 16.2-34.4 66.7-19.9 130.1-62.2 19.2-102.7 49.9-102.7 82.3 0 32.5 40.7 63.3 103.1 82.4-14.4 63.6-8 114.2 20.2 130.4 6.5 3.8 14.1 5.6 22.5 5.6 27.5 0 63.5-19.6 99.9-53.6 36.4 33.8 72.4 53.2 99.9 53.2 8.4 0 16-1.8 22.6-5.6 28.1-16.2 34.4-66.7 19.9-130.1 62-19.1 102.5-49.9 102.5-82.3zm-130.2-66.7c-3.7 12.9-8.3 26.2-13.5 39.5-4.1-8-8.4-16-13.1-24-4.6-8-9.5-15.8-14.4-23.4 14.2 2.1 27.9 4.7 41 7.9zm-45.8 106.5c-7.8 13.5-15.8 26.3-24.1 38.2-14.9 1.3-30 2-45.2 2-15.1 0-30.2-.7-45-1.9-8.3-11.9-16.4-24.6-24.2-38-7.6-13.1-14.5-26.4-20.8-39.8 6.2-13.4 13.2-26.8 20.7-39.9 7.8-13.5 15.8-26.3 24.1-38.2 14.9-1.3 30-2 45.2-2 15.1 0 30.2.7 45 1.9 8.3 11.9 16.4 24.6 24.2 38 7.6 13.1 14.5 26.4 20.8 39.8-6.3 13.4-13.2 26.8-20.7 39.9zm32.3-13c5.4 13.4 10 26.8 13.8 39.8-13.1 3.2-26.9 5.9-41.2 8 4.9-7.7 9.8-15.6 14.4-23.7 4.6-8 8.9-16.1 13-24.1zm-101.4 106.7c-9.3-9.6-18.6-20.3-27.8-32 9 .4 18.2.7 27.5.7 9.4 0 18.7-.2 27.8-.7-9 11.7-18.3 22.4-27.5 32zm-74.4-58.9c-14.2-2.1-27.9-4.7-41-7.9 3.7-12.9 8.3-26.2 13.5-39.5 4.1 8 8.4 16 13.1 24s9.5 15.8 14.4 23.4zm73.9-208.1c9.3 9.6 18.6 20.3 27.8 32-9-.4-18.2-.7-27.5-.7-9.4 0-18.7.2-27.8.7 9-11.7 18.3-22.4 27.5-32zm-74 58.9c-4.9 7.7-9.8 15.6-14.4 23.7-4.6 8-8.9 16-13 24-5.4-13.4-10-26.8-13.8-39.8 13.1-3.1 26.9-5.8 41.2-7.9zm-90.5 125.2c-35.4-15.1-58.3-34.9-58.3-50.6s22.9-35.6 58.3-50.6c8.6-3.7 18-7 27.7-10.1 5.7 19.6 13.2 40 22.5 60.9-9.2 20.8-16.6 41.1-22.2 60.6-9.9-3.1-19.3-6.5-28-10.2zm53.8 142.9c-13.6-7.8-19.5-37.5-14.9-75.7 1.1-9.4 2.9-19.3 5.1-29.4 19.6 4.8 41 8.5 63.5 10.9 13.5 18.5 27.5 35.3 41.6 50-32.6 30.3-63.2 46.9-84 46.9-4.5-.1-8.3-1-11.3-2.7zm237.2-76.2c4.7 38.2-1.1 67.9-14.6 75.8-3 1.8-6.9 2.6-11.5 2.6-20.7 0-51.4-16.5-84-46.6 14-14.7 28-31.4 41.3-49.9 22.6-2.4 44-6.1 63.6-11 2.3 10.1 4.1 19.8 5.2 29.1zm38.5-66.7c-8.6 3.7-18 7-27.7 10.1-5.7-19.6-13.2-40-22.5-60.9 9.2-20.8 16.6-41.1 22.2-60.6 9.9 3.1 19.3 6.5 28.1 10.2 35.4 15.1 58.3 34.9 58.3 50.6-.1 15.7-23 35.6-58.4 50.6z" /><circle cx="420.9" cy="296.5" r="45.7" /></g></svg></li>
         <li><svg enable-background="new 0 0 2500 2165.1" width="70" height="70" viewBox="0 0 2500 2165.1" xmlns="http://www.w3.org/2000/svg"><path d="m1538.7 0-288.7 500-288.7-500h-961.3l1250 2165.1 1250-2165.1z" fill="#4dba87" /><path d="m1538.7 0-288.7 500-288.7-500h-461.3l750 1299 750-1299z" fill="#435466" /></svg></li>
         <li><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 556 98"><g fill="none" fill-rule="evenodd"><path fill="#2E495E" d="M74.4 3.7c1 1.1 1.7 2.6 1.6 4.2v81.5c0 1.7-.6 3.4-1.8 4.7a6.2 6.2 0 0 1-4.6 1.9c-1 0-2-.2-3-.5a5 5 0 0 1-2.1-1.4L11.7 25.4V90a5.7 5.7 0 0 1-6 5.9c-1.5 0-3-.6-4-1.7A5.8 5.8 0 0 1 0 90.1V8.4C0 6.7.7 5 2 3.8A6 6 0 0 1 6.3 2c1 0 2.1.2 3 .6 1 .3 1.8 1 2.4 1.7l52.5 68.9V7.9a5.7 5.7 0 0 1 6-5.9c1.5 0 3 .5 4 1.7zM183.1 3.9c1.1 1.3 1.8 3 1.7 4.6v51.6c.1 6.6-1.5 13.2-4.7 19-3 5.6-7.5 10.2-13 13.3-5.6 3.3-12 5-18.6 4.9-6.5 0-13-1.6-18.8-4.8a34 34 0 0 1-13-13.2 38.6 38.6 0 0 1-4.7-19.1V8.6c0-1.7.6-3.4 2-4.6a6.7 6.7 0 0 1 9.3 0c1.2 1.2 1.9 2.8 1.9 4.6V60c-.1 4.4 1 8.7 3.2 12.6a23.2 23.2 0 0 0 20.1 11.7 24 24 0 0 0 24.1-24.3V8.6c0-1.7.5-3.4 1.6-4.7 1.2-1.3 2.8-2 4.5-1.9 1.7 0 3.3.7 4.4 1.9zM287 85.7a6.3 6.3 0 0 1 1.1 3.8c.1 1.7-.6 3.4-1.9 4.6a6.4 6.4 0 0 1-4.3 1.7c-2.1.1-4.1-1-5.3-2.7l-26-34.8L225 93.1a6.2 6.2 0 0 1-5.2 2.8c-1.6 0-3-.6-4.1-1.7-1-1-1.7-2.4-1.7-3.8 0-1.6.6-3.2 1.6-4.4l27.6-37.5-27.7-37.2a6.2 6.2 0 0 1 .5-8.4 6.3 6.3 0 0 1 7.4-1.2 6 6 0 0 1 2.4 2l25.8 34.6L277 4c1.1-1.7 3-2.8 5.1-3 1.6 0 3.2.8 4.3 2 1.1 1 1.8 2.5 1.9 4 0 1.5-.5 2.8-1.4 4l-28 37.2 28 37.5zM383.5 3.7c1.2 1.1 2 2.8 1.9 4.5 0 1.7-.7 3.3-2 4.4-1.2 1.1-2.9 1.7-4.6 1.6H355v75.4c0 1.7-.6 3.3-1.9 4.5a7.4 7.4 0 0 1-9.8 0 6.2 6.2 0 0 1-2-4.5V14.2h-23.8c-1.7 0-3.3-.5-4.6-1.7A5.9 5.9 0 0 1 311 8c0-1.6.6-3.2 1.8-4.3 1.3-1.2 3-1.8 4.6-1.7h61.4c1.7 0 3.4.5 4.7 1.7z" /><path fill="#00C48D" d="M412.7 93.6c-4.3-2.4-8-6-10.5-10.3-.7-1-1.1-2.3-1.2-3.6 0-1.7.7-3.3 2-4.4 1.1-1.2 2.6-1.8 4.2-2 2.4.3 4.6 1.5 6 3.4 3 5 8.4 8 14.1 7.8A17.2 17.2 0 0 0 445 67.3V8.5a6 6 0 0 1 2-4.6c1.3-1.2 3-1.9 4.7-1.9 1.8 0 3.5.6 4.8 1.8a6.3 6.3 0 0 1 1.8 4.6v59a29 29 0 0 1-15 26 31.2 31.2 0 0 1-30.5.2zM505.2 94c-5.3-2-10.2-5-14.4-9a7.2 7.2 0 0 1-2.8-5.4 6 6 0 0 1 2-4.4 6 6 0 0 1 4.3-1.9c1.5 0 2.8.5 3.9 1.5 3.2 3 7 5.5 11 7.3 4.2 1.6 8.6 2.4 13 2.4 5 .1 10-1.2 14.3-4 3.5-2 5.8-5.7 5.8-9.8.1-4.3-2.1-8.4-5.8-10.8a52 52 0 0 0-17.4-6.3c-9.2-2-16.3-5-21.3-9.3-5-4.3-7.4-10.3-7.4-17.9-.1-5 1.3-9.9 4.2-14 2.9-4 6.8-7.2 11.4-9.2a45.5 45.5 0 0 1 32.4-.5 33 33 0 0 1 12 7.1c1.8 1.4 3 3.5 3 5.7a6 6 0 0 1-1.8 4.3 5.7 5.7 0 0 1-4.4 2c-1 0-2.2-.4-3-1.1a32.1 32.1 0 0 0-21.4-8.2c-5-.3-10 1-14.3 3.6a11.9 11.9 0 0 0 0 19.8 50 50 0 0 0 15.8 6c5.9 1.1 11.6 3 17.1 5.3 4.2 1.9 7.8 4.8 10.3 8.6 2.6 4.4 3.8 9.3 3.6 14.4.1 5-1.4 9.8-4.3 13.8-3 4.2-7.2 7.4-12 9.4a49.8 49.8 0 0 1-33.9.6z" /></g></svg></li>
         <li>
@@ -126,22 +126,24 @@
       <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more</p>
       <div>
         <figure>
-          <h4>Doggie Walks</h4>
-          <p>A client brief to develop a static website for a local dog-walking service</p>
-          <NuxtLink to="/projects/casestudy1">
-            View project
-          </NuxtLink>
-        </figure>
-        <figure>
-          <h4>E-Learning Platform Web App</h4>
-          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
+          <h4>Adventure Planner Web App</h4>
+          <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
         </figure>
+
         <figure>
-          <h4>Adventure Planner Web App</h4>
-          <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas</p>
+          <h4>Doggie Walks</h4>
+          <p>A client brief to develop a static website for a local dog-walking service</p>
+          <NuxtLink to="/projects/casestudy1">
+            View project
+          </nuxtlink>
+        </figure>
+
+        <figure>
+          <h4>E-Learning Platform Web App</h4>
+          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
@@ -160,7 +162,7 @@
     </div>
     <div id="hobbies">
       <h2>Things I love to do</h2>
-      <p>As much as I love to solve problems with code, I like to play too. I am a huge NFL and Motor sport fan, enjoy camping and exploring the great outdoors and Space travel.</p>
+      <p>As much as I love to solve problems with code, I like to play too. I am a huge NFL and Motorsport fan, enjoy camping and exploring the great outdoors.</p>
       <ul>
         <li>
           <svg
@@ -605,11 +607,6 @@ section {
   grid-column: 2;
 }
 
-  #about-me,
-  #workflow {
-    margin: 50px 0px;
-  }
-
 #headline {
   grid-column: 1/2;
   justify-self: center;
@@ -647,7 +644,7 @@ section {
 
 #about-me {
   grid-column: 1/-1;
-  margin: 50px 0px;
+  margin: 100px 0px;
 }
 
 .split-block p {
@@ -656,6 +653,7 @@ section {
 
 #workflow {
   grid-column: 1/-1;
+  margin: 50px 0px;
   list-style: none;
   text-align: center;
 }
@@ -708,6 +706,7 @@ img.workflow-icons {
 
 #technologies ul {
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   margin-top: 25px;
 }
@@ -717,12 +716,12 @@ img.workflow-icons {
 }
 
 #my-work {
-  margin: 50px 0px;
+  margin: 100px 0px;
   grid-column: 1/-1;
 }
 
 #my-work h4 {
-  color: #fff;
+  color: #00c58e;
 }
 
 #my-work div {
@@ -731,22 +730,25 @@ img.workflow-icons {
   grid-template-columns: 1fr;
 }
 
+#my-work a {
+}
+
 #my-work div figure:nth-of-type(1) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/adventure.png');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 #my-work div figure:nth-of-type(2) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/responsive-thumb.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 #my-work div figure:nth-of-type(3) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/adventure.png');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/responsive-thumb.jpg');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
