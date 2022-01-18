@@ -18,7 +18,7 @@
     <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
-        <p>Hey, I'm Clarke Newsham, from the North West, UK. I recently graduated with First Class Honours in BSc Web Design and Development. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
+        <p>Hey, I'm Clarke Newsham, from the North West, UK. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and creative problem solving is what keeps me ambitious to design and develop web apps accessible to all, using the skills and experience I have learned by at Code Nation Masters Bootcamp, developing side projects and over the last 3 years studying at Edge Hill University. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
         <p>I am currently completing a Masters Full Stack Web Development Bootcamp with Code Nation where I am learning to develop full-stack web applications within development teams, using agile principles utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
       </div>
@@ -79,7 +79,7 @@
       </div>
     </div>
     <div id="technologies">
-      <h2>Technologies</h2>
+      <h2>Web Technologies</h2>
       <ul>
         <li><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="221.807 89.47 440 621.061" enable-background="new 221.807 89.47 440 621.061"><filter id="a" width="150%" height="150%" x="-5%" y="-5%"><feFlood flood-color="#000" result="floodFill" flood-opacity=".5" /><feComposite in="floodFill" in2="SourceAlpha" operator="in" result="coloredAlpha" /><feGaussianBlur in="coloredAlpha" result="blur" stdDeviation="8" /><feComposite in="blur" in2="SourceGraphic" operator="out" result="maskedOffsetBlur" /><feMerge><feMergeNode in="maskedOffsetBlur" /><feMergeNode in="SourceGraphic" /></feMerge></filter><g filter="url(#a)"><path fill="#e44d26" d="M261.849 660.647l-40.042-449.125h440l-40.086 449.054-180.184 49.954z" /><path fill="#f16529" d="M441.807 672.348l145.596-40.367 34.258-383.735H441.807z" /><path fill="#ebebeb" d="M441.807 414.82h-72.888l-5.035-56.406h77.923V303.33H303.683l1.32 14.778 13.538 151.794h123.266zM441.807 557.876l-.242.066-61.346-16.566-3.922-43.93h-55.294l7.718 86.489 112.834 31.323.252-.071z" /><path d="M262.745 89.47h27.992v27.656h25.606V89.47h27.993v83.75h-27.993v-28.044h-25.606v28.044h-27.99l-.002-83.75zM381.149 117.244h-24.642V89.47H433.8v27.774h-24.654v55.976H381.15v-55.976h-.001zM446.065 89.47h29.19l17.955 29.428 17.938-29.428h29.2v83.75h-27.882v-41.512l-19.259 29.778h-.481l-19.272-29.778v41.512h-27.39V89.47zM554.277 89.47h28v56.068h39.368v27.682h-67.368V89.47z" /><path fill="#fff" d="M441.617 414.82v55.082h67.83l-6.395 71.44-61.435 16.58v57.307l112.924-31.294.826-9.309 12.946-145.014 1.344-14.792h-14.842zM441.617 303.33v55.084H574.67l1.103-12.382 2.51-27.924 1.318-14.778z" /></g></svg></li>
         <li><svg enable-background="new 0 0 1771 2499.8" width="70" height="70" viewBox="0 0 1771 2499.8" xmlns="http://www.w3.org/2000/svg"><path d="m1387.8 92.5h-146.9l152.8 165.9v78.9h-314.8v-92.4h152.8l-152.8-165.9v-79h309zm-371.4 0h-147.1l153 165.9v78.9h-314.9v-92.4h152.8l-152.8-165.9v-79h309zm-367.8 3.8h-158.5v144.8h158.5v96.3h-271.3v-337.4h271.3z" fill="#131313" /><path d="m161.2 2299.1-161.2-1807.7h1771l-161.4 1807.4-725.2 201z" fill="#1572b6" /><path d="m885.5 2346.2 586-162.5 137.8-1544.5h-723.8z" fill="#33a9dc" /><path d="m885.5 1294.1h293.4l20.2-227h-313.6v-221.6h556l-5.3 59.5-54.5 611h-496.2z" fill="#fff" /><path d="m886.7 1869.9h-1l-246.9-66.7-15.8-176.8h-222.4l31.1 348.1 454.2 126.4h1.3v-231z" fill="#ebebeb" /><path d="m1160.1 1506.3-26.7 296.7-247.3 66.7v231l454.5-126 3.3-37.5 38.6-431h-222.4z" fill="#fff" /><path d="m886.3 845.5v221.7h-535.4l-4.6-49.8-10.1-112.4-5.3-59.5zm-.8 448.6v221.7h-244.1l-4.3-49.8-10.1-112.4-5.3-59.5h263.7z" fill="#ebebeb" /></svg></li>
@@ -712,7 +712,11 @@ img.workflow-icons {
 }
 
 #technologies ul li {
-  margin: 15px;
+  margin: 20px;
+}
+
+#technologies ul li:nth-of-type(odd) {
+  padding-top: 30px;
 }
 
 #my-work {
@@ -728,9 +732,6 @@ img.workflow-icons {
   display: grid;
   color: #fff;
   grid-template-columns: 1fr;
-}
-
-#my-work a {
 }
 
 #my-work div figure:nth-of-type(1) {
