@@ -769,8 +769,8 @@ img.workflow-icons {
   flex: auto;
   padding: 10px 25px;
   height: auto;
-  max-width: 600px;
-  height: 300px;
+  /* max-width: 600px; */
+  height: 370px;
 }
 
 #hobbies {
