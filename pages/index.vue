@@ -2,7 +2,7 @@
   <section>
     <div id="headline">
       <h1>
-        Hello, I'm Clarke &#128075;
+        Hello, I'm Clarke <span class="animation">&#128075;</span>
       </h1>
       <p>
         I recently graduated with First Class Honours in BSc Web Design and Development and now aspiring Web Developer. I'm full of curiosity with a passion to solve real-world problems through UX Design and Web Development.
@@ -625,7 +625,7 @@ section {
 .hero-banner  {
   grid-column: 2/-1;
   height: auto;
-  justify-self: center;
+  align-self: center;
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
   border-top-right-radius: 120px;
@@ -702,6 +702,7 @@ img.workflow-icons {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 #technologies ul {
@@ -834,15 +835,11 @@ img.workflow-icons {
 }
 
 /* MEDIA QUIRIES */
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 900px) {
   section {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 80px;
-    margin-top: 100px;
-  }
-
-  .her-banner {
     margin-top: 100px;
   }
 
@@ -870,5 +867,11 @@ img.workflow-icons {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+}
+
+@media only screen and (max-width: 900px) {
+  img.hero-banner {
+    display: none;
+  }
 }
 </style>
