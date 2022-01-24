@@ -591,7 +591,7 @@
 export default {
   data () {
     return {
-      title: 'Home Page'
+      title: 'Clarke Newsham | Home'
     }
   },
   head () {
