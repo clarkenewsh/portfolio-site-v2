@@ -122,7 +122,7 @@
       </ul>
     </div>
     <div id="my-work">
-      <h2>Projects</h2>
+      <h2>Recent Projects</h2>
       <p>Check out some of my recent Bootcamp, university and side projects.</p>
       <div>
         <figure>
