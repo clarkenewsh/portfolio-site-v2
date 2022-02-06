@@ -19,8 +19,8 @@
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, UK. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
-        <p>Curiosity and creative problem solving is what keeps me ambitious to design and develop web apps that provide value to people and are accessible to all, using the skills and experience I have learned by at Code Nation Masters Bootcamp, developing side projects and studying at Edge Hill University over the last 3 years. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
-        <p>I am currently completing a Masters Full Stack Web Development Bootcamp with Code Nation where I am learning to develop full-stack web applications within development teams, using agile principles utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
+        <p>Curiosity and creative problem solving is what keeps me ambitious to design and develop web apps that provide value to people and are accessible to all, using the skills and experience I am currently learning at the Code Nation Full Stack Masters Bootcamp, developing side projects and studying at Edge Hill University over the last 3 years. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
+        <p>I am currently completing a Full Stack Web Development Masters Bootcamp with Code Nation where I am learning to develop full-stack web applications within development teams, using agile principles utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
       </div>
       <!-- <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -123,7 +123,7 @@
     </div>
     <div id="my-work">
       <h2>Projects</h2>
-      <p>Check out some of my recent University and personal projects. Please read the case study for each project to discover more</p>
+      <p>Check out some of my recent Bootcamp, university and side projects.</p>
       <div>
         <figure>
           <h4>Adventure Planner Web App</h4>

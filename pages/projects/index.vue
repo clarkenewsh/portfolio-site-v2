@@ -1,7 +1,7 @@
 <template>
   <section>
-    <h1>Project Case Studies</h1>
-    <p>A repository of some of my recent project work with links to the case study's, live sites and GitHub repos.</p>
+    <h1>Projects</h1>
+    <p>A repository of some of my recent project work with links to the live sites and GitHub repos.</p>
     <div>
       <figure>
         <h3>E-Learning Platform Web App</h3>
