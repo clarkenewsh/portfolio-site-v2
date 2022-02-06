@@ -109,13 +109,13 @@ button:hover {
 /*
 put all heading variations and heading scaling here  */
 h1 {
-  color: #000;
+  color: #00c58e;
   padding: 15px 0px;
   font-weight: 700;
 }
 
 h2 {
-  color: #000;
+  color: #00c58e;
   font-weight: 700;
 }
 
