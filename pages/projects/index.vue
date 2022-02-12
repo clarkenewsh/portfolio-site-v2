@@ -4,6 +4,19 @@
     <p>A repository of some of my recent project work with links to the live sites and GitHub repos.</p>
     <div>
       <figure>
+        <h3>To-Do List App</h3>
+        <h6>Code Nation Bootcamp Project</h6>
+        <p>A Code Nation Bootcamp challenge to develop a to-do list web app using React.</p>
+        <a href="https://github.com/clarkenewsh/react-todo-list">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </a>
+        <a href="https://code-nation-react-todo-list.netlify.app/">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
         <h3>E-Learning Platform Web App</h3>
         <h6>University Project - Dissertation</h6>
         <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
