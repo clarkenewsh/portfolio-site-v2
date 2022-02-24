@@ -18,7 +18,7 @@
           About
         </NuxtLink> -->
         <NuxtLink to="/projects">
-          Portfolio
+          Projects
         </NuxtLink>
         <NuxtLink to="/blog">
           Blog

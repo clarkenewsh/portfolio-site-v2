@@ -1,6 +1,6 @@
 <template>
   <button>
-    <a href="mailto:clarke.newsham92@gmail.com">Contact me</a>
+    <a href="mailto:clarke.newsham92@gmail.com">Contact</a>
   </button>
 </template>
 
