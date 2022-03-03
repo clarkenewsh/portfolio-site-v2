@@ -4,6 +4,32 @@
     <p>A repository of some of my recent project work with links to the live sites and GitHub repos.</p>
     <div>
       <figure>
+        <h3>Brew Dog Random Beer Generator</h3>
+        <h6>Code Nation Bootcamp Project</h6>
+        <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API , built with React.</p>
+        <a href="https://github.com/clarkenewsh/react-brewdog-beer-generator">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </a>
+        <a href="#">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
+        <h3>Neko Shop</h3>
+        <h6>Code Nation Bootcamp Project</h6>
+        <p>A Code Nation Bootcamp Project working collaboratively in a development team to develop and deploy an e-commerce web app using React.</p>
+        <a href="https://github.com/clarkenewsh/NekoShop">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </a>
+        <a href="https://damien-rembert.github.io/NekoShop/">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
         <h3>Neko Shop</h3>
         <h6>Code Nation Bootcamp Project</h6>
         <p>A Code Nation Bootcamp Project working collaboratively in a development team to develop and deploy an e-commerce web app using React.</p>
