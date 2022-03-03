@@ -1,5 +1,5 @@
 <template>
-  <section class="animate__animated animate__bounceInLeft animate__slower">
+  <section class="animate__animated animate__bounceInLeft animate__slow">
     <h1>Projects</h1>
     <p>A repository of some of my recent project work with links to the live sites and GitHub repos.</p>
     <div>
