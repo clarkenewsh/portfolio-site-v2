@@ -1,8 +1,8 @@
 <template>
-  <section>
-    <div id="headline">
+  <section class="animate__animated animate__fadeIn animate__slow">
+    <div class="animate__animated animate__bounceInLeft animate__slow" id="headline">
       <h1>
-        Hello, I'm Clarke <span class="animation">&#128075;</span>
+        Hello, I'm Clarke <span class="animate__animated animate__tada animate__infinite animate__slower">&#128075;</span>
       </h1>
       <p>
         I recently graduated in BSc Web Design and Development and now an aspiring Web Developer. I'm full of curiosity with a passion to solve real-world problems through UX Design and Web Development.
@@ -14,13 +14,13 @@
         <button class="alt-btn">View my CV</button>
       </a>
     </div>
-    <img class="hero-banner" src="~/assets/download.png">
+    <img class="hero-banner animate__animated animate__bounceInRight animate__slow" src="~/assets/download.png">
     <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, UK. I am full of curiosity with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
         <p>Curiosity and creative problem solving is what keeps me ambitious to design and develop web apps that provide value to people and are accessible to all by using the skills and experience gained at Code Nation Masters Bootcamp, developing side projects and studying BSc Web Development at Edge Hill University. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
-        <p>I am currently completing a Full Stack Web Development Masters Bootcamp with Code Nation where I am learning to develop full-stack web applications within development teams, using agile principles utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
+        <p>I am currently completing a Full Stack Web Development Masters Bootcamp with Code Nation were I am learning to develop full-stack web applications within development teams, using agile principles utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
       </div>
       <!-- <NuxtLink to="/about">
         <button>Learn more about me</button>
@@ -134,9 +134,9 @@
         </figure>
 
         <figure>
-          <h4>Doggie Walks</h4>
-          <p>A client brief to develop a static website for a local dog-walking service</p>
-          <NuxtLink to="/projects/casestudy1">
+          <h4>Neko Shop</h4>
+          <p>A Code Nation Bootcamp Project working collaboratively in a development team to develop an e-commerce web app using React</p>
+          <NuxtLink to="/projects/">
             View project
           </nuxtlink>
         </figure>
@@ -154,6 +154,20 @@
           <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">
             View project
           </a>
+        </figure>
+        <figure>
+          <h4>React To-do Web App</h4>
+          <p>A Coden Nation Bootcamp Project to-do list app built with React</p>
+          <NuxtLink to="/projects/">
+            View project
+          </NuxtLink>
+        </figure>
+        <figure>
+          <h4>Brew Dog Random Beer Generator</h4>
+          <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API , built with React</p>
+          <NuxtLink to="/projects/">
+            View project
+          </NuxtLink>
         </figure>
       </div>
       <NuxtLink to="/projects">
@@ -743,7 +757,7 @@ img.workflow-icons {
 }
 
 #my-work div figure:nth-of-type(2) {
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/header-background2.jpg');
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/neko-shop.png');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -752,7 +766,7 @@ img.workflow-icons {
 #my-work div figure:nth-of-type(3) {
   background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/responsive-thumb.jpg');
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 75%;
   background-repeat: no-repeat;
 }
 
@@ -760,6 +774,20 @@ img.workflow-icons {
   background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/usability-thumb-1.png');
   background-size: cover;
   background-position: 50% 75%;
+  background-repeat: no-repeat;
+}
+
+#my-work div figure:nth-of-type(5) {
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/todo-1.png');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#my-work div figure:nth-of-type(6) {
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/brewdog.png');
+  background-size: cover;
+  background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 

@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="animate__animated animate__bounceInLeft animate__slow">
     <h1>Blog coming soon...</h1>
     <!-- <ul>
       <li v-for="article of articles" :key="article.slug">
