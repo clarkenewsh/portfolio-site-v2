@@ -6,7 +6,7 @@
       <figure>
         <h3>Brew Dog Random Beer Generator</h3>
         <h6>Code Nation Bootcamp Project</h6>
-        <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API , built with React.</p>
+        <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API, built with React.</p>
         <a href="https://github.com/clarkenewsh/react-brewdog-beer-generator">
           <button class="alt-btn">
             GitHub Repo
@@ -19,7 +19,7 @@
       <figure>
         <h3>Neko Shop</h3>
         <h6>Code Nation Bootcamp Project</h6>
-        <p>A Code Nation Bootcamp Project working collaboratively in a development team to develop and deploy an e-commerce web app using React.</p>
+        <p>A Code Nation Bootcamp Project working collaboratively in a development team to develop and deploy an e-commerce web app. Built with React.</p>
         <a href="https://github.com/clarkenewsh/NekoShop">
           <button class="alt-btn">
             GitHub Repo
@@ -32,7 +32,7 @@
       <figure>
         <h3>To-Do List App</h3>
         <h6>Code Nation Bootcamp Project</h6>
-        <p>A Code Nation Bootcamp challenge to develop a to-do list web app using React.</p>
+        <p>A Code Nation Bootcamp challenge to develop a to-do list web app. Built with React.</p>
         <a href="https://github.com/clarkenewsh/react-todo-list">
           <button class="alt-btn">
             GitHub Repo
@@ -45,7 +45,7 @@
       <figure>
         <h3>E-Learning Platform Web App</h3>
         <h6>University Project - Dissertation</h6>
-        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas.</p>
+        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
         <a href="https://github.com/clarkenewsh/final-year-project-vle-webapp">
           <button class="alt-btn">
             GitHub Repo
@@ -58,7 +58,7 @@
       <figure>
         <h3>Adventure Planner Web App</h3>
         <h6>Personal Project</h6>
-        <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas</p>
+        <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas. Built with React.</p>
         <a href="https://github.com/clarkenewsh/react-adventure-app">
           <button class="alt-btn">
             GitHub Repo
@@ -70,7 +70,7 @@
       <figure>
         <h3>Roxanne Film Landing Page</h3>
         <h6>Freelance Project</h6>
-        <p>A landing page created for a film student to launch and promote their short film.</p>
+        <p>A landing page created for a film student to launch and promote their short film. Built with HTML5 and CSS3</p>
         <a href="https://github.com/clarkenewsh/roxanne-film-landing-page">
           <button class="alt-btn">
             GitHub Repo
@@ -85,7 +85,7 @@
       <figure>
         <h3>Academic Tracker Web App</h3>
         <h6>University Project</h6>
-        <p>Web App that tracks academic courses, modules and assessments</p>
+        <p>Web App that tracks academic courses, modules and assessments. Built with vanilla JavaScript</p>
         <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">
           <button class="alt-btn">
             GitHub Repo
@@ -100,7 +100,7 @@
       <figure>
         <h3>Doggie Walks</h3>
         <h6>University Project</h6>
-        <p>A real life client brief to design and develop a static website for a local dog-walking service</p>
+        <p>A real life client brief to design and develop a static website for a local dog-walking service. Built with Nuxtjs</p>
         <a href="https://github.com/clarkenewsh/doggie-walks-site">
           <button class="alt-btn">
             GitHub Repo
@@ -122,7 +122,7 @@
       <figure>
         <h3>Usability Testing Audit - Total Swimming </h3>
         <h6>University Project</h6>
-        <p>A usability testing review and analysis conducted on Total Swimmings current webiste using variouse methods of data analysis, usability testing, acccessbility and performace testing</p>
+        <p>A usability testing review and analysis conducted on Total Swimmings current website using various methods of data analysis, usability testing, accessability and performance testing</p>
         <a href="https://www.dropbox.com/s/608lkcma3l1em81/Newsham_C_23686014_CW1.pdf?dl=0">
           <button class="alt-btn">
             Read case study
@@ -132,7 +132,7 @@
       <figure>
         <h3>Ryder Crap Golf Website</h3>
         <h6>Freelance Project</h6>
-        <p>A website built for a friends golf society for their annual Ryder Crap golf trip.</p>
+        <p>A website built for a friends golf society for their annual Ryder Crap golf trip. Built with HTML5 and CSS3.</p>
         <a href="https://github.com/clarkenewsh/ryder-crap-golf-site">
           <button class="alt-btn">
             GitHub Repo
@@ -147,7 +147,7 @@
       <figure>
         <h3>Pop-Ups Landing Page</h3>
         <h6>Personal Project</h6>
-        <p>A static landing page for pop-up shop locator idea.</p>
+        <p>A static landing page for pop-up shop locator idea. Built with HTML5, CSS3 and Bootstrap.</p>
         <a href="https://github.com/clarkenewsh/PopUps-Landing-Page">
           <button class="alt-btn">
             GitHub Repo

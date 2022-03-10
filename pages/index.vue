@@ -143,7 +143,7 @@
 
         <figure>
           <h4>E-Learning Platform Web App</h4>
-          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas</p>
+          <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
@@ -156,7 +156,7 @@
           </a>
         </figure>
         <figure>
-          <h4>React To-do Web App</h4>
+          <h4>React To-do List Web App</h4>
           <p>A Coden Nation Bootcamp Project to-do list app built with React</p>
           <NuxtLink to="/projects/">
             View project
