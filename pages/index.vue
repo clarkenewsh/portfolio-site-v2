@@ -127,7 +127,7 @@
       <div>
         <figure>
           <h4>Adventure Planner Web App</h4>
-          <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas</p>
+          <p>React Learning Project: A React CRUD app to create and track adventures, trips and travel ideas</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
