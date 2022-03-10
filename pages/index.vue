@@ -171,7 +171,7 @@
         </figure>
       </div>
       <NuxtLink to="/projects">
-        <button>View my portfolio</button>
+        <button>View projects</button>
       </NuxtLink>
     </div>
     <div id="hobbies">
