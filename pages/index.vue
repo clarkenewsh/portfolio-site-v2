@@ -157,14 +157,14 @@
         </figure>
         <figure>
           <h4>React To-do List Web App</h4>
-          <p>A Coden Nation Bootcamp Project to-do list app built with React</p>
+          <p>A Coden Nation Bootcamp Project to-do list app, built with React</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
         </figure>
         <figure>
           <h4>Brew Dog Random Beer Generator</h4>
-          <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API , built with React</p>
+          <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API, built with React</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
