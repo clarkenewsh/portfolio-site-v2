@@ -4,15 +4,15 @@
     <p>A repository of some of my recent project work with links to the live sites and GitHub repos.</p>
     <div>
       <figure>
-        <h3>Brew Dog Random Beer Generator</h3>
-        <h6>Code Nation Bootcamp Project</h6>
-        <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API, built with React.</p>
-        <a href="https://github.com/clarkenewsh/react-brewdog-beer-generator">
+        <h3>E-Learning Platform Web App</h3>
+        <h6>University Project - Dissertation</h6>
+        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
+        <a href="https://github.com/clarkenewsh/final-year-project-vle-webapp">
           <button class="alt-btn">
             GitHub Repo
           </button>
         </a>
-        <a href="#">
+        <a href="https://virtual-learning-platform.netlify.app">
           <button class="alt-btn">View site</button>
         </a>
       </figure>
@@ -30,6 +30,19 @@
         </a>
       </figure>
       <figure>
+        <h3>Brew Dog Random Beer Generator</h3>
+        <h6>Code Nation Bootcamp Project</h6>
+        <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API, built with React.</p>
+        <a href="https://github.com/clarkenewsh/react-brewdog-beer-generator">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </a>
+        <a href="#">
+          <button class="alt-btn">Site coming soon</button>
+        </a>
+      </figure>
+      <figure>
         <h3>To-Do List App</h3>
         <h6>Code Nation Bootcamp Project</h6>
         <p>A Code Nation Bootcamp challenge to develop a to-do list web app. Built with React.</p>
@@ -43,19 +56,6 @@
         </a>
       </figure>
       <figure>
-        <h3>E-Learning Platform Web App</h3>
-        <h6>University Project - Dissertation</h6>
-        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
-        <a href="https://github.com/clarkenewsh/final-year-project-vle-webapp">
-          <button class="alt-btn">
-            GitHub Repo
-          </button>
-        </a>
-        <a href="https://virtual-learning-platform.netlify.app">
-          <button class="alt-btn">View site</button>
-        </a>
-      </figure>
-      <figure>
         <h3>Adventure Planner Web App</h3>
         <h6>Personal Project</h6>
         <p>React Learning Project: A react CRUD app to create and track adventures, trips and travel ideas. Built with React.</p>
@@ -65,7 +65,7 @@
           </button>
         </a>
         <a href="">
-          <button class="alt-btn">Coming soon</button></a>
+          <button class="alt-btn">Site coming soon</button></a>
       </figure>
       <figure>
         <h3>Roxanne Film Landing Page</h3>
@@ -91,7 +91,7 @@
             GitHub Repo
           </button>
         </a>
-        <a href="">
+        <a href="https://academictracker.netlify.app">
           <button class="alt-btn">
             View site
           </button>
@@ -138,11 +138,6 @@
             GitHub Repo
           </button>
         </a>
-        <a to="">
-          <button class="alt-btn">
-            View site
-          </button>
-        </a>
       </figure>
       <figure>
         <h3>Pop-Ups Landing Page</h3>
@@ -151,11 +146,6 @@
         <a href="https://github.com/clarkenewsh/PopUps-Landing-Page">
           <button class="alt-btn">
             GitHub Repo
-          </button>
-        </a>
-        <a href="">
-          <button class="alt-btn">
-            View site
           </button>
         </a>
       </figure>
