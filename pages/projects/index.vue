@@ -38,8 +38,8 @@
             GitHub Repo
           </button>
         </a>
-        <a href="#">
-          <button class="alt-btn">Site coming soon</button>
+        <a href="https://brewdog-beer-generator.netlify.app/">
+          <button class="alt-btn">View site</button>
         </a>
       </figure>
       <figure>
