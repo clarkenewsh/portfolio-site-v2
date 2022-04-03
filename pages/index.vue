@@ -687,6 +687,12 @@ section {
   box-shadow: 0 10px 40px rgb(0 0 0 / 20%);
   padding: 30px;
   border-radius: 0.375rem;
+  transition: transform .2s;
+  transition: transform .2s,-webkit-transform .2s;
+}
+
+#workflow ul li:hover {
+  transform: scale(1.05);
 }
 
 img.workflow-icons {
