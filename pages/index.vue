@@ -20,7 +20,7 @@
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
         <p>I'm full of curiosity with a passion to solve real-world problems through Web Development with an ambition to develop web apps that provide value to people and are accessible to all. Throughout university, completing a Bootcamp, along with my passion for side-projects, I have gained practical experience in developing and testing web apps using a modern tech stack. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
-        <p>I have just completed a Full Stack Web Development Masters Bootcamp with Code Nation were I am learnt to develop full-stack web applications within development teams, using agile principles using a modern tech stack of MongoDB, Express, React and NodeJs.</p>
+        <p>I have just completed a Full Stack Web Development Masters Bootcamp with Code Nation were I learnt to develop full-stack web applications within development teams, using agile principles, utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
       </div>
       <!-- <NuxtLink to="/about">
         <button>Learn more about me</button>
