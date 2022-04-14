@@ -4,6 +4,19 @@
     <p>A repository of some of my recent project work with links to the live sites and GitHub repos.</p>
     <div>
       <figure>
+        <h3>Missing Persons Web App</h3>
+        <h6>Code Nation Bootcamp Project</h6>
+        <p>A Code Nation Bootcamp full-stack project working collaboratively in a development team to develop and deploy a Missing Persons Platform Web App. Built using the MERN stack.</p>
+        <a href="https://github.com/clarkenewsh/missing-app">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </a>
+        <a href="https://icq-missing.netlify.app/">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
         <h3>E-Learning Platform Web App</h3>
         <h6>University Project - Dissertation</h6>
         <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
@@ -13,6 +26,19 @@
           </button>
         </a>
         <a href="https://virtual-learning-platform.netlify.app">
+          <button class="alt-btn">View site</button>
+        </a>
+      </figure>
+      <figure>
+        <h3>Advice Generator Web App</h3>
+        <h6>Personal Project</h6>
+        <p>A random advice generator app, leveraging the Advice Slip API. Built with React</p>
+        <a href="https://github.com/clarkenewsh/advice-generator-app">
+          <button class="alt-btn">
+            GitHub Repo
+          </button>
+        </a>
+        <a href="https://advice-generator-task.netlify.app/">
           <button class="alt-btn">View site</button>
         </a>
       </figure>

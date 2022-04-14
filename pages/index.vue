@@ -132,7 +132,6 @@
             View project
           </NuxtLink>
         </figure>
-
         <figure>
           <h4>Neko Shop</h4>
           <p>A Code Nation Bootcamp Project working collaboratively in a development team to develop an e-commerce web app using React</p>
@@ -140,7 +139,6 @@
             View project
           </nuxtlink>
         </figure>
-
         <figure>
           <h4>E-Learning Platform Web App</h4>
           <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
@@ -165,6 +163,13 @@
         <figure>
           <h4>Brew Dog Random Beer Generator</h4>
           <p>A Coden Nation Bootcamp Project random beer generator leveraging the Brew Dog API, built with React</p>
+          <NuxtLink to="/projects/">
+            View project
+          </NuxtLink>
+        </figure>
+        <figure>
+          <h4>Missing Persons Web App</h4>
+          <p>A Code Nation Bootcamp full-stack project working collaboratively in a development team to develop and deploy a Missing Persons Platform Web App. Built using the MERN stack.</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
@@ -792,6 +797,20 @@ img.workflow-icons {
 
 #my-work div figure:nth-of-type(6) {
   background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/brewdog.png');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#my-work div figure:nth-of-type(7) {
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/logo-2.png');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#my-work div figure:nth-of-type(8) {
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('~assets/advice-app.png');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
