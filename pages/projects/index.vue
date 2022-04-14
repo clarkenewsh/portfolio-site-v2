@@ -19,7 +19,7 @@
       <figure>
         <h3>E-Learning Platform Web App</h3>
         <h6>University Project - Dissertation</h6>
-        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs</p>
+        <p>A VLE for Undergraduate students to learn about dissertations, final year projects and to formulate their own project ideas. Built with Nuxtjs.</p>
         <a href="https://github.com/clarkenewsh/final-year-project-vle-webapp">
           <button class="alt-btn">
             GitHub Repo
@@ -32,7 +32,7 @@
       <figure>
         <h3>Advice Generator Web App</h3>
         <h6>Personal Project</h6>
-        <p>A random advice generator app, leveraging the Advice Slip API. Built with React</p>
+        <p>A random advice generator app, leveraging the Advice Slip API. Built with React.</p>
         <a href="https://github.com/clarkenewsh/advice-generator-app">
           <button class="alt-btn">
             GitHub Repo

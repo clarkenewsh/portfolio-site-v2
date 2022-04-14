@@ -169,7 +169,14 @@
         </figure>
         <figure>
           <h4>Missing Persons Web App</h4>
-          <p>A Code Nation Bootcamp full-stack project working collaboratively in a development team to develop and deploy a Missing Persons Platform Web App. Built using the MERN stack.</p>
+          <p>A Code Nation Bootcamp full-stack project to develop and deploy a Missing Persons Platform Web App. Built using the MERN stack.</p>
+          <NuxtLink to="/projects/">
+            View project
+          </NuxtLink>
+        </figure>
+        <figure>
+          <h4>Advice Generator Web App</h4>
+          <p>A random advice generator app, leveraging the Advice Slip API. Built with React</p>
           <NuxtLink to="/projects/">
             View project
           </NuxtLink>
