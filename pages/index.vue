@@ -10,9 +10,9 @@
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
       </a>
-      <a href="https://www.dropbox.com/s/yajwkf98mtxn2fy/Clarke_Newsham_CV.pdf?dl=0">
+      <!-- <a href="https://www.dropbox.com/s/yajwkf98mtxn2fy/Clarke_Newsham_CV.pdf?dl=0">
         <button class="alt-btn">View my CV</button>
-      </a>
+      </a> -->
     </div>
     <img class="hero-banner animate__animated animate__bounceInRight animate__slow" src="~/assets/download.png">
     <div id="about-me">
