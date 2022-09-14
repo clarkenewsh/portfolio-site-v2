@@ -5,7 +5,7 @@
         Hello, I'm Clarke <span class="animate__animated animate__tada animate__infinite animate__slower">&#128075;</span>
       </h1>
       <p>
-        I recently graduated in BSc Web Design and Development and now an aspiring Web Developer. I'm full of curiosity with a passion to solve real-world problems through UX Design and Web Development.
+        I recently graduated in BSc Web Design and Development and now a Junior Frontend Developer. I'm full of curiosity with a passion to help others and solve real-world problems through UX Design and Web Development.
       </p>
       <a href="mailto:clarke.newsham@gmail.com">
         <button class="alt-btn">Get in touch</button>
@@ -15,17 +15,14 @@
       </a> -->
     </div>
     <img class="hero-banner animate__animated animate__bounceInRight animate__slow" src="~/assets/download.png">
-    <div id="about-me">
+    <!-- <div id="about-me">
       <h2>A little about me</h2>
       <div class="split-block">
         <p>Hey, I'm Clarke Newsham, from the North West, with a genuine passion for technology and how we can embrace it to develop great things for humanity.</p>
         <p>I'm full of curiosity with a passion to solve real-world problems through Web Development with an ambition to develop web apps that provide value to people and are accessible to all. Throughout university, completing a Bootcamp, along with my passion for side-projects, I have gained practical experience in developing and testing web apps using a modern tech stack. I also love to keep up to date with emerging web technologies and usability testing techniques by building side projects.</p>
         <p>I have just completed a Full Stack Web Development Masters Bootcamp with Code Nation were I learnt to develop full-stack web applications within development teams, using agile principles, utilising a modern tech stack of MongoDB, Express, React and NodeJs.</p>
       </div>
-      <!-- <NuxtLink to="/about">
-        <button>Learn more about me</button>
-      </NuxtLink> -->
-    </div>
+    </div> -->
     <div id="workflow">
       <div>
         <h2>Design &#x26; Development Skills</h2>
